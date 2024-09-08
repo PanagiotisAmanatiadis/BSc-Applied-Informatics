@@ -1,0 +1,5930 @@
+Total sum of movements to win:5930, needed time to win:1.22
+freecell D4
+stack H2 D3
+freecell H3
+freecell C11
+freecell H5
+stack C9 S10
+stack S9 C10
+stack H8 C9
+stack D8 S9
+stack H8 D9
+stack D8 C9
+stack H8 S9
+stack H8 S9
+stack D8 C9
+stack D8 S9
+stack D8 C9
+stack D9 C10
+stack D8 S9
+stack C9 D10
+stack D9 S10
+stack D8 C9
+stack S9 C10
+stack H8 D9
+stack D8 S9
+stack H8 C9
+stack H8 S9
+stack D8 S9
+stack D8 C9
+stack S9 D10
+stack D8 S9
+stack H8 C9
+stack H8 D9
+stack H8 D9
+stack H8 S9
+stack D8 S9
+stack D8 C9
+stack D9 S10
+stack D8 S9
+stack S9 D10
+stack D8 S9
+stack H8 D9
+stack H8 C9
+stack H8 D9
+stack H8 S9
+stack D8 S9
+freecell S10
+stack D8 H9
+stack D4 H5
+stack D8 C9
+freecell H9
+stack D8 S9
+stack C9 H10
+stack D8 C9
+stack S9 C10
+stack D8 S9
+stack H8 C9
+stack H3 D4
+stack H8 D9
+freecell C9
+stack H10 S11
+stack C2 H3
+stack H2 C3
+stack C2 D3
+stack D2 H3
+stack H2 S3
+stack D2 C3
+stack C2 H3
+stack C9 H10
+freecell C2
+stack D2 H3
+stack D8 C9
+stack H2 C3
+stack D2 S3
+stack H2 D3
+stack D8 S9
+stack H8 C9
+stack H2 C3
+stack D2 H3
+stack C2 D3
+freecell D2
+stack H2 S3
+stack C2 H3
+stack H2 D3
+stack C2 S3
+stack H8 D9
+stack D8 C9
+stack H2 C3
+stack C2 H3
+stack H2 S3
+stack C2 D3
+stack H8 S9
+stack H2 C3
+stack D2 H3
+freecell H11
+stack D2 S3
+stack H8 D9
+stack C2 H3
+stack H2 D3
+stack D8 S9
+stack D2 C3
+stack C2 S3
+stack D2 H3
+stack D8 C9
+stack H2 C3
+stack C11 H12
+freecell D2
+stack H2 D3
+stack D8 S9
+stack C2 H3
+stack H2 C3
+stack C2 D3
+stack H2 S3
+stack D8 C9
+stack C2 H3
+stack H8 S9
+stack H2 C3
+stack C2 D3
+stack S10 C11
+freecell H3
+stack H2 S3
+stack C3 D4
+stack H8 D9
+stack D8 S9
+stack C9 S10
+stack D8 C9
+stack S9 H10
+stack D8 S9
+stack H2 C3
+stack C2 S3
+stack H2 D3
+stack D8 C9
+stack S9 C10
+stack D8 S9
+stack C9 H10
+stack D8 C9
+stack H2 C3
+stack D3 C4
+stack H2 D3
+stack C3 S4
+stack H2 C3
+stack D8 S9
+stack C9 S10
+stack D8 C9
+stack S9 H10
+stack D8 S9
+stack H2 D3
+stack C3 D4
+stack D8 C9
+stack H2 C3
+stack S9 C10
+stack D8 S9
+stack H2 D3
+stack H8 C9
+stack C3 S4
+stack D9 H10
+stack H8 D9
+stack C9 D10
+stack H2 C3
+stack D8 C9
+stack H8 S9
+stack H2 D3
+stack C3 D4
+stack H2 C3
+stack D3 S4
+stack H2 D3
+stack H8 D9
+stack D8 S9
+stack H2 C3
+stack D3 C4
+stack H8 C9
+stack H2 D3
+stack D9 S10
+stack C3 S4
+stack H2 C3
+stack C2 D3
+stack D9 H10
+stack H2 S3
+stack C3 D4
+stack D9 S10
+stack H2 C3
+stack H8 D9
+stack C2 S3
+stack D3 S4
+stack H2 D3
+stack H8 C9
+stack D2 C3
+stack D9 H10
+freecell S10
+stack H8 D9
+stack D8 C9
+stack H8 S9
+stack H3 C4
+stack D2 H3
+freecell C3
+stack H8 D9
+stack D8 S9
+stack H8 C9
+stack S10 C11
+freecell D4
+stack D9 S10
+stack H8 D9
+stack D8 C9
+stack H8 S9
+stack D9 H10
+stack H8 D9
+stack H9 S10
+freecell H5
+stack H8 S9
+stack D8 H9
+stack H8 C9
+stack D8 S9
+stack D8 H9
+stack D8 S9
+freecell D2
+stack H8 S9
+stack C2 H3
+stack H2 S3
+stack C2 D3
+stack H8 D9
+stack D8 H9
+stack C2 H3
+stack D8 S9
+stack H8 C9
+stack C2 D3
+stack D2 H3
+freecell H5
+stack D8 H9
+stack H8 S9
+stack D8 C9
+stack H8 D9
+stack H8 D9
+stack H8 D9
+freecell H9
+stack D9 S10
+stack H8 D9
+stack D8 C9
+stack H8 S9
+stack D9 H10
+stack H8 D9
+stack D4 H5
+freecell S10
+stack H8 S9
+stack C3 D4
+freecell C11
+stack D2 C3
+stack H8 D9
+stack C2 H3
+stack H2 D3
+stack D2 S3
+stack H2 C3
+stack C2 D3
+stack H8 S9
+stack C11 H12
+freecell H2
+stack H8 D9
+stack C2 H3
+stack D2 C3
+stack C2 S3
+stack D2 H3
+stack D8 S9
+stack H8 C9
+stack D2 C3
+stack C2 H3
+stack D2 S3
+stack C2 D3
+stack S10 C11
+freecell C3
+stack H3 D4
+stack C2 H3
+stack D3 C4
+stack C2 D3
+stack H3 S4
+stack C2 H3
+stack D9 S10
+stack H8 D9
+stack D8 C9
+stack H8 S9
+stack D9 H10
+stack H8 D9
+stack C2 D3
+stack H3 D4
+stack C2 H3
+stack D3 S4
+stack C2 D3
+stack H3 C4
+stack C2 H3
+stack H8 S9
+stack D9 S10
+stack C2 D3
+stack H3 D4
+stack H8 D9
+stack S9 H10
+stack H3 C4
+stack H8 S9
+stack D9 C10
+stack H3 D4
+stack C2 H3
+stack D9 S10
+stack D3 C4
+stack C2 D3
+stack H3 S4
+stack D9 C10
+stack C2 H3
+stack H8 D9
+stack D8 S9
+stack H8 C9
+stack D9 S10
+stack C2 D3
+stack H3 D4
+stack D9 C10
+stack C2 H3
+stack D3 S4
+stack C2 D3
+stack H3 C4
+stack D9 S10
+stack C2 H3
+stack H8 D9
+stack H9 C10
+freecell D4
+stack H8 C9
+stack C2 D3
+stack D8 H9
+stack D2 H3
+stack C2 S3
+stack D8 S9
+stack H8 D9
+stack D8 C9
+stack H8 S9
+stack C2 D3
+stack D2 S3
+stack C2 H3
+stack D8 H9
+stack D4 H5
+freecell D9
+stack C2 D3
+stack H3 D4
+stack D8 C9
+stack H9 S10
+stack H3 C4
+stack C2 H3
+stack D8 H9
+stack H8 C9
+stack D8 S9
+stack H9 C10
+stack C2 D3
+stack H3 D4
+stack H9 S10
+stack C2 H3
+stack D3 C4
+stack C2 D3
+stack H3 S4
+stack H9 C10
+stack C2 H3
+stack D8 H9
+stack H8 S9
+stack D8 C9
+stack H9 S10
+stack C2 D3
+stack H3 D4
+stack H9 C10
+stack C2 H3
+stack D8 H9
+stack H8 C9
+stack C2 D3
+stack D2 H3
+stack C2 S3
+stack D3 S4
+stack D8 S9
+stack H9 S10
+stack D3 C4
+stack D8 H9
+stack S9 C10
+stack D8 S9
+stack D3 S4
+stack C2 D3
+stack D2 S3
+stack H3 C4
+stack D8 H9
+stack D2 H3
+stack S9 H10
+stack D8 S9
+stack C2 S3
+stack H9 C10
+stack D8 H9
+stack C2 D3
+stack S3 D4
+stack D2 S3
+stack D8 S9
+stack H9 S10
+stack C2 H3
+stack D8 H9
+stack S9 C10
+stack D8 S9
+stack C2 D3
+stack D2 H3
+stack C2 S3
+stack D8 H9
+stack S9 H10
+stack D8 S9
+stack H9 C10
+source H1
+stack C2 D3
+stack H9 S10
+stack D8 H9
+stack D2 S3
+stack S9 C10
+stack H8 S9
+stack D2 H3
+stack D8 C9
+stack C2 S3
+stack D9 H10
+freecell C2
+stack D2 S3
+stack H8 D9
+stack D8 H9
+stack D2 H3
+stack D8 S9
+stack H8 C9
+stack D2 S3
+stack C2 H3
+freecell D2
+stack C2 S3
+stack D8 H9
+stack C2 D3
+stack H8 S9
+stack D8 C9
+stack H8 D9
+stack C2 S3
+source H2
+stack C2 H3
+freecell S3
+stack C2 D3
+source H3
+stack C4 D5
+stack D4 C5
+stack H8 S9
+stack C4 H5
+stack D8 H9
+stack H8 D9
+stack D8 S9
+stack H8 C9
+stack C4 D5
+stack D4 H5
+stack D8 H9
+stack H8 S9
+stack C3 D4
+stack D8 C9
+freecell H9
+stack H8 D9
+stack D8 S9
+stack H8 C9
+stack D9 S10
+stack H8 D9
+stack D8 C9
+stack S9 H10
+stack H8 S9
+stack D9 C10
+stack H8 D9
+stack D8 S9
+stack H8 C9
+stack D9 S10
+stack D2 C3
+freecell D9
+stack H9 S10
+freecell D2
+stack H9 C10
+stack D8 H9
+stack H8 S9
+stack D8 C9
+stack H9 S10
+stack D8 H9
+stack D9 C10
+freecell C3
+stack D4 C5
+stack D8 C9
+stack H8 D9
+stack D4 H5
+stack D8 S9
+stack H8 C9
+stack D4 C5
+stack C4 H5
+stack D8 H9
+stack H8 D9
+stack C3 D4
+stack C4 D5
+freecell H5
+stack D8 S9
+stack H8 C9
+stack D2 C3
+freecell H6
+stack H7 D8
+newstack H9
+stack D9 S10
+stack H9 C10
+newstack D9
+stack H8 D9
+stack H9 S10
+stack S3 C4
+stack H8 C9
+freecell D9
+newstack H9
+stack D2 S3
+stack H9 C10
+newstack S10
+stack H9 S10
+stack D2 C3
+stack C2 S3
+stack H9 C10
+stack S10 C11
+newstack D2
+stack H9 S10
+stack D9 C10
+stack D2 C3
+newstack H9
+freecell S10
+stack C2 D3
+stack D2 S3
+stack H8 D9
+stack S10 C11
+stack H9 S10
+newstack C3
+freecell H9
+stack H8 C9
+stack C3 D4
+newstack S10
+stack D9 S10
+stack D2 C3
+stack C2 S3
+stack D9 C10
+stack H8 D9
+stack S10 C11
+newstack D2
+stack C2 D3
+stack C9 S10
+stack D2 C3
+newstack C9
+stack D2 S3
+stack H8 C9
+stack D9 S10
+stack H8 D9
+stack C9 D10
+newstack H8
+stack D2 C3
+stack H8 C9
+newstack D2
+stack C2 S3
+stack H8 D9
+stack D2 C3
+newstack C10
+stack H8 C9
+stack D9 C10
+stack S10 D11
+stack D9 S10
+stack C2 D3
+stack D2 S3
+stack D9 C10
+stack S10 C11
+stack D9 S10
+stack H9 C10
+freecell D9
+stack H9 S10
+stack S10 D11
+stack H9 S10
+stack D2 C3
+stack C2 S3
+stack H9 C10
+stack S10 C11
+stack H9 S10
+stack D9 C10
+freecell C11
+stack D2 S3
+stack H8 D9
+stack C11 H12
+freecell H8
+freecell C3
+stack H8 C9
+freecell C2
+stack H8 C9
+stack D2 C3
+stack C2 S3
+freecell H8
+freecell C11
+freecell D2
+stack H8 C9
+freecell D3
+stack H8 C9
+freecell H7
+stack H8 C9
+stack D8 H9
+stack C2 D3
+stack D2 S3
+stack D8 S9
+stack H8 D9
+stack D8 C9
+stack H8 S9
+stack D2 C3
+stack C2 S3
+stack H7 D8
+freecell D9
+stack H9 C10
+stack S10 C11
+stack H9 S10
+stack C10 D11
+newstack H9
+stack C2 D3
+stack H9 C10
+newstack S10
+stack D2 S3
+stack H9 S10
+stack D9 C10
+freecell H9
+stack S10 C11
+newstack C3
+stack D9 S10
+stack H8 D9
+stack C3 D4
+newstack H8
+stack S9 C10
+stack H8 S9
+newstack D9
+stack H8 D9
+stack S9 H10
+stack D2 C3
+stack H8 S9
+stack D9 S10
+newstack D2
+stack C2 S3
+stack D9 C10
+stack D2 C3
+newstack S10
+stack D9 S10
+stack H8 D9
+stack S9 C10
+stack H8 S9
+stack D9 H10
+stack S10 C11
+newstack D2
+stack H8 D9
+stack C2 D3
+stack D2 C3
+newstack S10
+stack D2 S3
+stack H8 S9
+stack D9 S10
+stack H8 D9
+stack S9 H10
+stack H9 C10
+freecell H8
+stack D2 C3
+stack C2 S3
+freecell C11
+stack H8 S9
+stack D2 C3
+stack C2 S3
+stack H8 D9
+stack D2 C3
+freecell C3
+stack H8 S9
+freecell C2
+stack H8 S9
+stack D2 C3
+stack D2 C3
+freecell S9
+stack H10 C11
+stack D2 C3
+stack C2 S3
+stack H10 S11
+stack S9 H10
+stack H8 S9
+freecell D9
+stack H9 S10
+stack C10 S11
+stack H9 C10
+stack S10 D11
+newstack H8
+stack H9 S10
+stack S9 C10
+stack H8 S9
+newstack H10
+stack C2 D3
+stack D2 S3
+stack H10 C11
+newstack C3
+stack D2 C3
+stack C2 S3
+stack D9 H10
+freecell D2
+stack C3 D4
+newstack D9
+stack H8 D9
+stack S9 H10
+stack H8 S9
+stack D9 C10
+newstack H8
+stack C2 D3
+stack H8 D9
+newstack S9
+stack C2 S3
+stack H8 S9
+stack D9 H10
+stack H8 D9
+stack H9 C10
+stack C2 D3
+stack H8 S9
+stack D9 S10
+stack H8 D9
+stack S9 H10
+newstack C3
+stack H8 S9
+stack C2 S3
+stack C3 D4
+newstack H8
+newstack D3
+stack H8 D9
+stack C3 S4
+stack C2 D3
+stack H8 S9
+stack S3 D4
+stack C2 S3
+stack D3 C4
+newstack H8
+stack C2 D3
+stack H8 D9
+newstack S9
+stack H8 S9
+stack D9 H10
+stack H8 D9
+stack H9 S10
+stack S9 C10
+newstack H8
+stack C2 S3
+stack H8 S9
+newstack D9
+stack C2 D3
+stack H8 D9
+stack S9 H10
+stack H8 S9
+stack D9 C10
+newstack H8
+stack C2 S3
+stack H8 D9
+newstack S9
+stack C2 D3
+stack H8 S9
+stack D2 S3
+freecell H8
+stack S9 H10
+newstack D2
+stack C2 S3
+stack D2 C3
+newstack S9
+stack D9 H10
+stack S9 C10
+newstack D9
+stack C2 D3
+stack D2 S3
+stack D9 H10
+newstack D2
+stack H8 S9
+stack D2 C3
+freecell D9
+newstack H10
+stack D2 S3
+stack D9 H10
+freecell C11
+stack D2 C3
+stack H8 D9
+stack C2 S3
+stack C11 H12
+stack H8 S9
+freecell C2
+freecell H9
+stack D9 S10
+stack H10 C11
+newstack C2
+stack D9 H10
+stack D2 S3
+stack C2 D3
+newstack D9
+stack D2 C3
+stack H8 D9
+stack S9 H10
+stack H8 S9
+stack D9 S10
+newstack H8
+stack S9 C10
+stack H8 D9
+newstack H10
+stack D2 S3
+stack H8 S9
+stack S9 H10
+stack H8 S9
+stack D2 C3
+stack D9 C10
+stack H8 D9
+stack S10 C11
+stack D2 S3
+stack H8 S9
+stack D9 S10
+stack H8 D9
+stack S9 C10
+stack H10 D11
+newstack H8
+stack D9 H10
+stack H8 D9
+newstack S10
+stack D2 C3
+stack H8 S9
+stack S10 C11
+newstack S3
+stack D9 S10
+stack D2 S3
+stack C3 D4
+stack D2 C3
+stack D9 H10
+stack H8 D9
+stack D2 S3
+stack C3 S4
+stack H9 S10
+stack D2 C3
+stack S3 D4
+newstack H9
+freecell S10
+stack H8 S9
+stack D2 S3
+stack S10 C11
+stack H9 S10
+newstack D2
+freecell S3
+stack D2 C3
+newstack H9
+stack D9 S10
+stack H8 D9
+stack S9 H10
+stack H9 C10
+newstack H8
+stack S3 D4
+stack H8 S9
+newstack D9
+freecell S10
+stack H8 D9
+stack D2 S3
+stack S10 C11
+freecell H8
+stack D9 S10
+newstack D2
+stack C2 S3
+stack D2 C3
+newstack D9
+stack H9 S10
+stack D9 C10
+newstack H9
+stack C2 D3
+stack D2 S3
+stack H9 S10
+newstack D2
+stack H8 S9
+stack D2 C3
+freecell H9
+newstack S10
+stack H8 D9
+stack D2 S3
+stack S10 C11
+newstack D2
+stack C2 S3
+stack D2 C3
+newstack C2
+stack H9 S10
+freecell C2
+newstack H9
+stack D2 S3
+stack H8 S9
+stack H9 S10
+newstack H8
+newstack C3
+stack D2 C3
+stack H8 D9
+stack D3 S4
+stack D2 S3
+stack C2 D3
+freecell C3
+newstack H9
+stack H8 S9
+stack D9 S10
+stack H9 C10
+newstack D9
+stack H8 D9
+stack H9 S10
+stack S9 C10
+stack H8 S9
+stack D9 H10
+newstack H9
+stack D9 S10
+stack H8 D9
+stack H8 D9
+newstack D2
+stack S3 C4
+stack D2 S3
+newstack H9
+stack D9 S10
+stack H8 D9
+stack S9 H10
+stack H9 C10
+newstack H8
+stack C3 D4
+stack H8 S9
+newstack D9
+freecell S10
+stack H8 D9
+stack D2 C3
+stack C2 S3
+stack H8 S9
+stack S10 C11
+stack D9 S10
+newstack D2
+freecell D9
+stack H9 S10
+stack D2 C3
+newstack H9
+stack C2 D3
+stack H9 C10
+newstack S10
+stack D2 S3
+stack H9 S10
+stack D9 C10
+freecell H9
+stack S10 C11
+newstack C3
+stack H8 D9
+stack D2 C3
+stack C2 S3
+stack H8 S9
+stack D9 S10
+stack H8 D9
+stack S9 C10
+stack H8 S9
+stack D9 H10
+stack H8 D9
+stack C2 D3
+stack D2 S3
+stack C3 D4
+newstack S10
+stack H8 S9
+stack D9 S10
+stack H10 C11
+stack D9 H10
+stack S10 D11
+newstack D9
+stack H8 D9
+stack S9 H10
+stack H8 S9
+stack D9 S10
+newstack H8
+stack S9 C10
+stack H8 D9
+newstack H10
+stack H8 S9
+stack D9 H10
+stack S10 C11
+stack D9 S10
+stack H10 D11
+newstack D9
+stack H8 D9
+stack S9 H10
+stack D2 C3
+stack H8 S9
+stack D9 S10
+newstack D2
+stack H8 D9
+stack D2 S3
+newstack C3
+stack S9 C10
+newstack S9
+stack H8 S9
+stack D9 H10
+stack D2 C3
+stack H8 D9
+stack C2 S3
+stack S9 C10
+newstack S10
+stack H8 S9
+stack D9 S10
+stack H10 C11
+stack D9 H10
+stack S10 D11
+newstack D9
+stack H8 D9
+stack S9 H10
+stack H8 S9
+stack D9 S10
+newstack H8
+stack S9 C10
+stack H8 D9
+newstack H10
+stack H8 S9
+stack D9 H10
+stack S10 C11
+stack D9 S10
+stack H10 D11
+newstack D9
+stack H8 D9
+stack H9 S10
+freecell H8
+stack D9 H10
+newstack H9
+stack D9 S10
+stack S9 H10
+stack D9 C10
+stack H9 S10
+newstack D2
+stack C2 D3
+stack D2 S3
+newstack H9
+stack D9 S10
+stack S9 C10
+stack D9 H10
+stack H9 S10
+newstack C3
+stack D2 C3
+stack C2 S3
+stack S3 D4
+stack D2 S3
+stack H8 D9
+freecell H9
+stack H8 S9
+stack D2 C3
+stack D9 S10
+stack C2 S3
+stack D3 C4
+stack D9 H10
+stack C2 D3
+stack D2 S3
+stack D9 S10
+stack H8 D9
+stack H9 S10
+stack D2 S3
+freecell C3
+newstack H9
+newstack D2
+stack C2 S3
+stack H8 S9
+stack D3 S4
+stack C3 S4
+freecell D2
+newstack H9
+stack H8 S9
+stack D9 S10
+stack C2 D3
+stack H8 D9
+stack S9 H10
+stack H9 C10
+newstack S3
+stack H8 S9
+stack C3 D4
+stack C2 S3
+stack H8 D9
+stack D3 S4
+stack C2 D3
+stack S3 C4
+newstack C3
+stack H8 S9
+stack C2 S3
+stack S3 D4
+stack C2 S3
+stack H8 D9
+stack D3 C4
+stack D2 C3
+stack H8 S9
+freecell D9
+stack C2 D3
+stack D2 S3
+stack C3 S4
+newstack S10
+stack D2 C3
+stack H9 S10
+stack C2 S3
+stack D9 C10
+freecell C11
+stack C2 D3
+stack H8 D9
+stack D2 S3
+stack D2 S3
+stack C11 H12
+freecell D2
+stack H8 D9
+stack C2 S3
+freecell H8
+stack D2 C3
+freecell C3
+stack H8 D9
+freecell C2
+stack H8 D9
+stack D2 C3
+freecell H7
+stack D2 C3
+stack H8 D9
+stack C2 S3
+stack D8 H9
+stack H8 S9
+stack H7 D8
+freecell C11
+stack C2 D3
+stack H8 D9
+stack D2 S3
+stack H8 C9
+stack C11 H12
+freecell H7
+stack D8 S9
+stack D2 C3
+stack C2 S3
+stack H7 D8
+freecell H9
+stack S10 C11
+newstack C2
+stack D2 S3
+stack C2 D3
+newstack S10
+stack D9 S10
+stack D2 C3
+stack H8 D9
+stack C2 S3
+stack H9 C10
+stack H8 C9
+freecell D9
+stack S10 C11
+newstack C2
+stack D2 S3
+stack C2 D3
+newstack S10
+stack H9 S10
+stack D2 C3
+newstack D2
+stack H9 S10
+stack D2 C3
+newstack H9
+stack D9 S10
+stack H9 C10
+newstack D9
+freecell S10
+stack D2 S3
+stack H8 D9
+stack S10 C11
+freecell H8
+stack D9 S10
+newstack D2
+stack C2 S3
+stack D2 C3
+newstack D9
+stack H9 S10
+stack D9 C10
+newstack H9
+stack C2 D3
+stack D2 S3
+stack H9 S10
+newstack D2
+stack H8 D9
+stack D2 C3
+freecell H9
+newstack S10
+stack C9 S10
+stack D2 S3
+stack H8 C9
+stack D10 C11
+stack D2 C3
+stack S3 H4
+stack H8 D9
+stack C9 D10
+stack D2 S3
+stack C3 D4
+stack C9 S10
+stack H8 C9
+stack D2 C3
+stack C2 S3
+stack H8 D9
+stack C9 D10
+stack H8 C9
+stack D9 S10
+stack H8 D9
+stack D3 S4
+stack C2 D3
+stack H8 C9
+stack D9 C10
+stack H8 D9
+stack C9 S10
+stack D2 S3
+stack H8 C9
+stack H9 D10
+freecell H8
+stack D2 C3
+stack C2 S3
+stack D3 C4
+stack C2 D3
+stack D2 S3
+stack C3 S4
+stack D2 C3
+stack C2 S3
+stack H8 C9
+freecell D4
+stack H8 D9
+stack C2 D3
+stack D2 S3
+stack H8 C9
+stack C2 D3
+freecell H7
+stack H8 D9
+stack D8 C9
+stack H8 S9
+stack D8 H9
+stack C2 D3
+stack H8 C9
+stack D2 S3
+stack H8 D9
+stack D8 C9
+stack C3 D4
+stack D8 S9
+stack H8 C9
+stack D2 C3
+stack D8 H9
+stack H8 S9
+stack D8 C9
+stack C2 S3
+stack H8 D9
+stack D8 H9
+stack D3 S4
+stack D8 S9
+stack H8 C9
+stack C2 D3
+stack D8 H9
+stack H8 S9
+stack D8 C9
+stack D2 S3
+stack H8 D9
+stack D8 H9
+stack H7 D8
+freecell C9
+stack H8 S9
+stack D9 S10
+stack H8 D9
+stack S9 C10
+stack H8 S9
+stack D9 H10
+stack H8 D9
+stack D2 C3
+stack C2 S3
+stack H8 S9
+stack D9 S10
+stack D3 C4
+stack H8 D9
+stack S9 H10
+stack H8 S9
+stack D9 C10
+stack H8 D9
+stack D3 S4
+stack C2 D3
+stack D2 S3
+stack C3 S4
+stack H8 S9
+stack D9 S10
+stack H8 D9
+stack S9 C10
+stack H8 S9
+stack D9 H10
+stack C3 D4
+stack H8 D9
+stack D2 C3
+stack C9 S10
+freecell H7
+stack D8 C9
+stack D2 S3
+stack D8 S9
+stack C3 S4
+stack H8 C9
+stack D8 H9
+stack H8 S9
+stack D8 C9
+stack D2 C3
+stack H8 D9
+stack D8 H9
+stack C2 S3
+stack D8 S9
+stack H8 C9
+stack H7 D8
+freecell H8
+stack C2 D3
+stack D2 S3
+stack C3 D4
+stack D2 C3
+stack C2 S3
+stack D3 S4
+stack C2 D3
+stack D2 S3
+stack H8 C9
+freecell H9
+stack H8 D9
+stack C9 D10
+stack H8 C9
+stack D9 S10
+stack H8 D9
+stack C9 H10
+stack H8 C9
+stack D2 C3
+stack C2 S3
+stack H8 D9
+stack C9 D10
+stack H8 C9
+stack D9 H10
+stack H8 D9
+stack C9 S10
+stack H8 C9
+stack D3 C4
+stack C2 D3
+stack H8 D9
+stack C9 D10
+stack D2 S3
+stack C3 S4
+stack C9 S10
+stack H8 C9
+stack D2 C3
+stack S3 D4
+stack H8 D9
+stack C9 D10
+stack H8 C9
+stack S3 H4
+stack D9 S10
+stack H8 D9
+stack C9 H10
+stack H8 C9
+stack D2 S3
+stack C3 D4
+stack H8 D9
+stack C9 D10
+stack H8 C9
+stack D2 C3
+stack D2 C3
+stack D2 C3
+stack H9 D10
+stack H8 C9
+freecell D9
+stack H9 S10
+stack D2 S3
+stack C3 S4
+stack H9 D10
+stack D2 C3
+stack C2 S3
+stack H9 S10
+stack D9 S10
+freecell D4
+stack H8 D9
+stack C2 D3
+stack D2 S3
+stack H8 C9
+stack D4 C5
+freecell H8
+stack C3 D4
+stack D2 C3
+stack S3 D4
+stack D2 S3
+stack C3 H4
+stack D2 C3
+stack C2 S3
+stack D3 S4
+stack C2 D3
+stack S3 C4
+stack C2 S3
+stack H8 D9
+freecell H9
+stack H8 C9
+stack C2 D3
+stack S3 D4
+stack H8 D9
+stack C9 D10
+stack H8 C9
+stack D9 H10
+stack H8 D9
+stack C9 S10
+stack S3 C4
+stack H8 C9
+stack C2 S3
+stack H9 D10
+stack H8 D9
+freecell C9
+stack H9 S10
+stack C2 D3
+stack S3 D4
+stack H9 D10
+stack C2 S3
+stack D3 C4
+stack H9 S10
+stack C2 D3
+stack D2 S3
+stack H9 D10
+stack C3 S4
+stack D2 C3
+stack H9 S10
+stack S3 H4
+stack D2 S3
+stack H9 D10
+stack C3 D4
+stack D2 C3
+stack H9 S10
+stack C2 S3
+stack D3 S4
+stack H9 D10
+stack C2 D3
+stack D2 S3
+stack H9 S10
+stack S3 C4
+stack H9 S10
+stack D2 S3
+source H4
+stack H9 D10
+source H5
+freecell S10
+newstack H9
+stack D2 C3
+stack C2 S3
+stack H9 D10
+newstack D2
+source H6
+freecell D2
+newstack H9
+source H7
+source H8
+source H9
+newstack D10
+stack C2 D3
+stack S10 C11
+freecell D10
+newstack S10
+stack D9 S10
+source H10
+stack C2 S3
+stack D10 C11
+freecell D9
+stack S10 D11
+newstack D10
+stack S10 C11
+stack C2 D3
+stack D9 S10
+freecell D10
+newstack D9
+stack S10 D11
+stack D9 S10
+newstack C11
+stack H12 D13
+stack C11 H12
+newstack H13
+source C1
+newstack H13
+newstack C3
+source C2
+source C3
+newstack H13
+newstack D4
+stack S3 D4
+stack D3 C4
+stack S4 C5
+stack D3 S4
+stack S3 C4
+stack D4 S5
+newstack H13
+newstack D3
+stack S3 D4
+stack D3 C4
+newstack H13
+newstack S4
+stack D3 S4
+stack S3 C4
+stack D4 C5
+stack S3 D4
+stack D3 C4
+stack D10 C11
+freecell H13
+newstack S4
+newstack S3
+stack D4 S5
+stack S4 C5
+newstack S3
+newstack S4
+stack S3 D4
+newstack C5
+stack S4 C5
+newstack C6
+stack C7 D8
+stack C8 D9
+newstack S4
+stack D3 S4
+stack S3 C4
+stack D4 C5
+stack S5 C6
+stack D4 S5
+stack C5 S6
+newstack D4
+stack S3 D4
+stack D3 C4
+stack S4 C5
+newstack S3
+stack D4 S5
+newstack S3
+newstack D4
+stack D3 S4
+stack S3 C4
+newstack S5
+stack D4 S5
+newstack C6
+newstack D4
+stack S5 C6
+newstack D4
+newstack S5
+stack D4 S5
+newstack C6
+newstack D4
+stack S5 C6
+stack D4 S5
+newstack C8
+newstack D9
+stack C8 D9
+newstack D4
+source H11
+freecell S5
+stack S3 D4
+stack D3 C4
+stack S5 C6
+freecell S3
+stack D4 S5
+newstack C8
+stack D9 S10
+newstack D4
+stack C8 D9
+newstack S5
+stack D3 S4
+stack D4 S5
+newstack C6
+newstack D4
+stack S5 C6
+newstack D4
+newstack S5
+stack D4 S5
+newstack C6
+newstack D4
+stack S5 C6
+newstack D4
+newstack S5
+stack D3 C4
+stack S3 D4
+freecell C6
+newstack S3
+stack D4 S5
+newstack S3
+newstack D4
+stack S3 D4
+newstack S5
+newstack S3
+stack D4 S5
+stack S3 D4
+newstack C8
+newstack D9
+stack C8 D9
+newstack S3
+stack D3 S4
+stack S3 C4
+newstack D4
+stack D2 S3
+freecell S5
+newstack D4
+newstack C8
+stack D9 S10
+newstack D4
+newstack C8
+newstack D4
+newstack C8
+newstack D9
+stack C8 D9
+newstack D4
+newstack S10
+stack C9 S10
+freecell C8
+stack C9 D10
+stack D9 S10
+newstack D4
+newstack D9
+stack S10 D11
+newstack D4
+newstack D9
+newstack S10
+stack D9 S10
+newstack D4
+newstack D9
+stack C9 S10
+stack C8 D9
+freecell D4
+newstack C8
+stack C9 D10
+stack D9 S10
+newstack C8
+newstack D9
+stack C8 D9
+newstack S10
+newstack C8
+stack D9 S10
+newstack C8
+newstack D9
+stack S10 D11
+newstack C8
+stack D9 S10
+newstack C8
+newstack D9
+stack C8 D9
+newstack S10
+newstack D11
+stack S10 D11
+newstack C8
+stack D9 S10
+newstack C8
+newstack C12
+stack C8 D9
+newstack C12
+newstack C13
+source S1
+source S2
+newstack C13
+newstack C12
+newstack C8
+newstack C13
+newstack C12
+newstack C8
+newstack D3
+newstack C7
+stack D8 C9
+stack C7 D8
+newstack C13
+newstack C8
+stack C8 S9
+newstack D9
+stack C8 D9
+newstack C12
+newstack C13
+newstack C12
+newstack D9
+stack C8 D9
+newstack C13
+newstack D9
+newstack D3
+stack C8 D9
+newstack C8
+newstack D2
+stack C8 D9
+source S3
+stack D3 C4
+stack C8 S9
+source S4
+source S5
+freecell C12
+newstack C13
+newstack D9
+stack C8 D9
+stack D4 C5
+freecell C13
+newstack C8
+stack D9 S10
+newstack C8
+newstack D9
+stack C8 D9
+newstack S10
+stack C8 S9
+stack D9 S10
+newstack D11
+newstack D9
+stack S10 D11
+stack D9 S10
+newstack D2
+newstack D9
+newstack S10
+stack D9 S10
+newstack D11
+newstack D2
+newstack D9
+stack S10 D11
+newstack D2
+newstack D9
+newstack D2
+newstack D9
+newstack S10
+stack D9 S10
+newstack D2
+newstack D11
+newstack D9
+stack S10 D11
+newstack D2
+newstack S10
+stack C8 D9
+stack D9 S10
+newstack D2
+newstack D9
+newstack S10
+newstack D4
+stack C8 D9
+stack C8 D9
+newstack D2
+newstack C8
+stack D9 S10
+newstack C8
+newstack D4
+stack C8 D9
+newstack D2
+newstack C8
+newstack D4
+newstack D2
+newstack C8
+newstack D4
+newstack C8
+newstack C5
+stack D4 C5
+newstack C8
+source S6
+stack C8 S9
+newstack D9
+source S7
+source S8
+stack D9 S10
+newstack D4
+newstack D9
+stack C8 D9
+stack D4 C5
+newstack S10
+stack C8 S9
+stack D9 S10
+newstack D11
+newstack D9
+stack S10 D11
+newstack D9
+newstack D4
+stack D9 S10
+newstack D4
+newstack C5
+stack D4 C5
+newstack D2
+newstack D4
+newstack C5
+newstack D2
+newstack D4
+newstack D2
+newstack D4
+newstack C5
+stack D4 C5
+newstack D2
+newstack D4
+newstack C5
+newstack D2
+stack D4 C5
+newstack D9
+newstack D2
+newstack D4
+stack C8 D9
+source S9
+stack D4 C5
+newstack D2
+newstack D4
+source S10
+stack C10 D11
+stack D4 C5
+newstack D2
+newstack D4
+source S11
+source S12
+stack D4 C5
+newstack D2
+newstack D4
+source S13
+source D1
+source D2
+newstack D4
+newstack C5
+stack D4 C5
+newstack C8
+newstack D4
+newstack C8
+newstack C5
+stack D4 C5
+newstack D9
+newstack D4
+newstack C5
+newstack D9
+newstack C5
+newstack D9
+newstack D4
+newstack C5
+newstack D4
+newstack D9
+newstack D4
+newstack D9
+stack D4 C5
+stack D9 C10
+newstack C8
+newstack D4
+newstack C8
+newstack D4
+newstack C8
+newstack D4
+stack C8 D9
+newstack D4
+newstack C5
+newstack C8
+newstack C5
+newstack C8
+newstack C5
+newstack C8
+newstack D9
+newstack C5
+newstack D9
+newstack C8
+newstack D9
+newstack C8
+newstack C10
+stack C8 D9
+newstack C10
+newstack C5
+newstack C10
+newstack C5
+newstack C8
+stack D9 C10
+newstack C8
+newstack C5
+newstack C8
+newstack C5
+stack C8 D9
+newstack D11
+newstack C5
+newstack D11
+newstack C5
+newstack D11
+newstack C5
+newstack C8
+newstack D11
+newstack C8
+newstack D11
+newstack C8
+newstack D9
+stack C8 D9
+newstack D11
+newstack C10
+newstack C8
+stack C10 D11
+newstack D9
+newstack C10
+stack D9 C10
+newstack D11
+newstack D9
+stack C10 D11
+stack D9 C10
+stack C8 D9
+newstack C5
+newstack C8
+newstack D9
+newstack C10
+stack C8 D9
+newstack D11
+newstack C5
+newstack D11
+newstack C5
+newstack C8
+stack D9 C10
+newstack C8
+newstack D11
+newstack C5
+newstack D11
+newstack C5
+newstack C8
+newstack C5
+newstack C8
+newstack D9
+stack C8 D9
+newstack D11
+newstack C8
+stack D9 C10
+newstack D11
+stack C8 D9
+newstack C5
+newstack D11
+newstack C5
+newstack C8
+newstack D9
+stack C8 D9
+newstack C5
+newstack C8
+stack C10 D11
+newstack C5
+newstack C8
+newstack D9
+stack C8 D9
+newstack C10
+newstack C5
+newstack C8
+stack D9 C10
+newstack C5
+newstack D9
+stack C10 D11
+newstack D9
+newstack C10
+stack D9 C10
+newstack C5
+newstack D9
+stack C10 D11
+newstack D4
+stack D9 C10
+newstack D4
+newstack C5
+newstack D4
+newstack D9
+stack D4 C5
+newstack D9
+newstack C10
+stack D9 C10
+newstack D11
+newstack D9
+newstack D11
+newstack C10
+newstack D11
+newstack C10
+newstack D9
+stack C10 D11
+newstack D9
+newstack C8
+stack D9 C10
+newstack C8
+newstack D9
+newstack C10
+newstack C8
+newstack D11
+newstack C8
+newstack D11
+stack C8 D9
+stack C10 D11
+newstack C8
+newstack D9
+newstack C10
+newstack D11
+newstack C8
+newstack D9
+stack C8 D9
+newstack C10
+newstack C8
+newstack C10
+newstack D9
+newstack C10
+stack D9 C10
+newstack C8
+newstack D9
+newstack C8
+newstack C10
+newstack C8
+newstack C10
+stack D9 C10
+newstack C8
+newstack D11
+stack C8 D9
+newstack D4
+newstack D11
+newstack D4
+newstack C8
+newstack D4
+newstack C8
+newstack D9
+stack C8 D9
+newstack C10
+newstack C8
+stack D9 C10
+newstack C8
+newstack D9
+stack C10 D11
+newstack C8
+stack D9 C10
+newstack C8
+newstack D9
+stack C8 D9
+newstack C10
+newstack D11
+stack C10 D11
+newstack C8
+newstack D9
+newstack C10
+stack D9 C10
+newstack D11
+newstack D9
+stack C10 D11
+stack D9 C10
+stack C8 D9
+newstack D4
+newstack C8
+newstack D9
+newstack D4
+newstack C10
+source D3
+stack D9 C10
+stack C8 D9
+newstack D11
+newstack C8
+newstack D9
+stack C8 D9
+newstack C10
+newstack D11
+stack C10 D11
+newstack C8
+newstack C10
+source D4
+stack C8 D9
+newstack D11
+stack C10 D11
+newstack C8
+newstack C10
+newstack D11
+newstack C8
+newstack D9
+stack C8 D9
+newstack D11
+newstack C8
+newstack D11
+newstack D9
+stack C8 D9
+newstack D11
+newstack C8
+newstack D9
+newstack D11
+stack D9 C10
+newstack D11
+stack C8 D9
+newstack D11
+newstack C8
+newstack D11
+newstack C8
+newstack D9
+stack C8 D9
+newstack C10
+newstack C8
+newstack C10
+newstack D9
+newstack C10
+newstack D9
+stack C10 D11
+newstack C8
+newstack D9
+newstack C5
+stack C8 D9
+newstack C5
+newstack C8
+newstack C5
+newstack C8
+newstack D9
+newstack C10
+stack D9 C10
+newstack D11
+newstack D9
+stack C10 D11
+stack D9 C10
+newstack C5
+newstack D9
+newstack C10
+newstack D11
+newstack C5
+newstack C10
+newstack C5
+newstack C10
+stack D9 C10
+newstack C5
+newstack D9
+newstack C10
+newstack C5
+newstack D9
+newstack C5
+newstack D9
+stack C10 D11
+stack D9 C10
+newstack C5
+newstack C8
+newstack C5
+newstack C8
+newstack C5
+newstack C8
+newstack C5
+newstack C8
+newstack D9
+stack C8 D9
+newstack C10
+newstack C8
+stack D9 C10
+newstack C8
+newstack D9
+newstack C8
+newstack C10
+stack D9 C10
+stack C8 D9
+newstack D11
+newstack C8
+newstack D9
+stack C10 D11
+newstack C8
+newstack D9
+newstack C10
+newstack D9
+newstack D11
+newstack D9
+newstack D11
+stack D9 C10
+stack C8 D9
+newstack D11
+newstack C8
+newstack D11
+newstack C8
+newstack D9
+stack C8 D9
+newstack C10
+newstack C8
+newstack D11
+newstack D9
+newstack D11
+newstack C10
+newstack D11
+newstack C10
+newstack C8
+stack C10 D11
+newstack C8
+newstack C10
+newstack D9
+stack C8 D9
+stack C10 D11
+newstack C8
+newstack D9
+newstack C5
+newstack D9
+newstack C5
+newstack C10
+newstack D11
+newstack C5
+newstack D11
+newstack C5
+newstack C8
+newstack C5
+newstack D11
+newstack C8
+newstack D11
+newstack C8
+newstack D9
+stack C8 D9
+newstack D11
+newstack C8
+newstack D9
+newstack D11
+newstack D9
+newstack D11
+stack D9 C10
+newstack C5
+newstack D11
+newstack C5
+newstack D11
+newstack C5
+newstack D11
+newstack C8
+newstack C5
+newstack C8
+newstack C5
+newstack C8
+newstack C5
+stack C8 D9
+newstack D11
+newstack C5
+newstack D11
+newstack C8
+newstack C5
+newstack C8
+newstack D11
+newstack C8
+newstack D9
+stack C8 D9
+newstack D11
+newstack C8
+newstack D9
+newstack D11
+newstack C8
+newstack D9
+stack C8 D9
+newstack D11
+newstack C5
+newstack D11
+newstack C5
+newstack C8
+newstack C5
+newstack C8
+newstack D9
+stack C8 D9
+newstack C5
+newstack C8
+newstack D9
+newstack C5
+newstack C8
+newstack C5
+newstack C8
+newstack D9
+stack C8 D9
+newstack C5
+newstack C8
+stack D9 C10
+newstack C5
+source C4
+source C5
+newstack C8
+newstack D11
+newstack C8
+newstack D11
+newstack C8
+newstack D11
+newstack C8
+newstack D11
+stack C8 D9
+source D5
+newstack D11
+newstack C8
+newstack D11
+newstack C8
+newstack D9
+newstack D11
+newstack D9
+newstack D11
+newstack D9
+newstack D11
+newstack C8
+newstack D9
+stack C8 D9
+newstack D11
+newstack C8
+newstack D9
+stack C8 D9
+newstack D11
+newstack C8
+newstack D9
+newstack C8
+newstack D11
+stack C8 D9
+newstack D11
+newstack C8
+newstack D11
+newstack C8
+newstack C10
+newstack D11
+stack C10 D11
+newstack C8
+newstack C10
+newstack D11
+newstack C8
+newstack C10
+newstack C8
+newstack C10
+newstack C8
+newstack C10
+stack C8 D9
+stack C10 D11
+source D6
+newstack C8
+newstack D9
+stack C8 D9
+newstack C10
+newstack C8
+newstack C10
+newstack D9
+stack C8 D9
+newstack C10
+newstack C8
+stack D9 C10
+newstack C8
+newstack D9
+newstack C8
+newstack C10
+stack D9 C10
+stack C8 D9
+newstack D11
+newstack C8
+newstack D9
+stack C10 D11
+newstack C8
+newstack C10
+stack C8 D9
+newstack D11
+stack C10 D11
+newstack C8
+newstack C10
+newstack D11
+newstack C8
+newstack D11
+newstack C8
+stack D9 C10
+newstack C8
+newstack D9
+newstack C10
+stack D9 C10
+newstack C8
+newstack D11
+stack C8 D9
+newstack D11
+newstack C8
+newstack D11
+newstack D9
+newstack D11
+newstack D9
+newstack C10
+newstack D9
+newstack C10
+newstack D11
+stack C10 D11
+newstack C8
+newstack C10
+newstack D11
+newstack C8
+newstack D11
+newstack C8
+newstack D11
+stack C8 D9
+newstack C10
+newstack D11
+stack C10 D11
+newstack C8
+newstack C10
+newstack D11
+newstack C10
+newstack D11
+stack C8 D9
+newstack D11
+newstack C10
+newstack C8
+stack C10 D11
+newstack C8
+newstack D9
+stack C8 D9
+newstack C10
+newstack C8
+newstack D9
+stack C8 D9
+newstack D11
+newstack C8
+newstack D9
+newstack D11
+newstack D9
+newstack C10
+newstack D11
+newstack D9
+stack C10 D11
+newstack D9
+newstack C8
+newstack D9
+stack C8 D9
+newstack C10
+newstack C8
+newstack D9
+newstack C10
+stack D9 C10
+newstack D11
+newstack D9
+newstack D11
+newstack C10
+stack D9 C10
+newstack D11
+newstack D9
+stack C10 D11
+newstack D9
+newstack C10
+source D7
+newstack D9
+newstack D11
+newstack D9
+newstack D11
+newstack D9
+newstack D11
+stack D9 C10
+newstack C8
+newstack D9
+stack C8 D9
+newstack C10
+newstack C8
+newstack C10
+newstack D9
+stack C8 D9
+newstack C10
+newstack C8
+stack D9 C10
+newstack C8
+newstack D9
+newstack C8
+newstack C10
+stack D9 C10
+stack C8 D9
+newstack D11
+newstack C8
+newstack D9
+stack C10 D11
+newstack D9
+newstack C10
+newstack D9
+newstack D11
+newstack C8
+newstack D11
+newstack C8
+newstack D11
+newstack C8
+newstack D11
+stack C8 D9
+newstack C10
+newstack C8
+newstack C10
+newstack C8
+newstack C10
+newstack C8
+newstack C10
+newstack D11
+stack C10 D11
+stack D9 C10
+stack C8 D9
+newstack C7
+newstack C8
+newstack D9
+newstack C10
+newstack D11
+newstack C7
+newstack C8
+newstack C7
+newstack C8
+newstack C7
+stack C8 D9
+newstack C10
+newstack C8
+newstack C10
+newstack C8
+newstack C10
+newstack D9
+newstack C10
+newstack D9
+newstack C10
+stack D9 C10
+stack C8 D9
+newstack D11
+newstack C8
+newstack D9
+stack C10 D11
+newstack C8
+newstack C10
+stack C8 D9
+newstack D11
+stack C10 D11
+newstack C8
+newstack C10
+newstack D11
+newstack C8
+stack D9 C10
+newstack D11
+newstack C8
+newstack D11
+newstack C8
+newstack D11
+newstack C8
+newstack D11
+newstack C8
+newstack D9
+stack C8 D9
+newstack C10
+newstack D11
+newstack C8
+newstack D9
+newstack D11
+stack C10 D11
+newstack C8
+newstack C10
+newstack D11
+newstack C10
+newstack C8
+newstack C10
+newstack C8
+newstack D11
+stack C8 D9
+newstack C10
+newstack C8
+newstack C10
+stack D9 C10
+newstack C8
+newstack D9
+newstack C10
+newstack C8
+stack D9 C10
+newstack C8
+newstack D9
+stack C10 D11
+newstack C8
+newstack D9
+newstack C7
+stack D9 C10
+newstack C8
+newstack C7
+newstack C8
+newstack C7
+newstack C8
+newstack C7
+stack C8 D9
+newstack C7
+newstack C8
+newstack C7
+newstack D9
+stack C8 D9
+newstack C10
+newstack D11
+newstack C10
+newstack D11
+newstack C8
+stack D9 C10
+newstack D11
+newstack D9
+newstack D11
+newstack C10
+newstack D11
+newstack C10
+newstack D11
+stack C10 D11
+stack C8 D9
+newstack C10
+newstack D11
+newstack C10
+newstack D11
+newstack C10
+newstack D11
+stack C10 D11
+newstack C8
+newstack C10
+newstack C8
+newstack D11
+newstack D9
+stack C8 D9
+newstack D11
+newstack C10
+newstack C8
+stack C10 D11
+newstack D9
+newstack C10
+stack D9 C10
+newstack D11
+newstack D9
+newstack D11
+newstack C10
+stack D9 C10
+newstack D11
+newstack D9
+newstack C10
+newstack C8
+stack C10 D11
+newstack C8
+newstack D9
+stack C8 D9
+newstack C10
+newstack C8
+newstack C10
+newstack D9
+newstack C10
+newstack D9
+stack C10 D11
+newstack C8
+newstack C10
+newstack C8
+newstack D9
+stack C8 D9
+stack C10 D11
+newstack C8
+newstack D9
+newstack C10
+stack D9 C10
+newstack D11
+newstack D9
+newstack D11
+stack C10 D11
+newstack D9
+newstack C10
+newstack D11
+stack C10 D11
+stack D9 C10
+stack C8 D9
+newstack C7
+newstack C8
+newstack C7
+newstack D9
+newstack C10
+newstack D9
+newstack D11
+newstack C8
+newstack D11
+newstack C8
+newstack C7
+newstack D11
+newstack C7
+newstack D11
+newstack C7
+newstack D11
+stack C7 D8
+newstack C10
+newstack D11
+stack C10 D11
+newstack D9
+newstack C10
+newstack D9
+newstack D11
+stack C10 D11
+newstack D9
+newstack C10
+newstack D11
+newstack D9
+newstack D11
+newstack D9
+newstack C10
+stack D9 C10
+newstack D11
+newstack D9
+newstack C10
+stack D9 C10
+newstack D11
+newstack D9
+newstack C10
+newstack D11
+newstack C10
+newstack D9
+newstack C10
+newstack D11
+newstack D9
+newstack C10
+stack D9 C10
+newstack D11
+newstack D9
+stack C10 D11
+newstack D9
+newstack C10
+newstack D11
+newstack D9
+stack C10 D11
+newstack D9
+newstack C8
+stack D9 C10
+newstack C8
+newstack D9
+newstack C8
+newstack C10
+newstack C8
+newstack C10
+newstack D11
+stack C10 D11
+newstack C8
+newstack C10
+newstack D11
+newstack C8
+newstack C10
+newstack C8
+newstack C10
+newstack C8
+newstack C10
+newstack D11
+stack C10 D11
+newstack C8
+newstack C10
+newstack C8
+newstack D11
+stack C10 D11
+newstack C8
+newstack C10
+newstack C8
+newstack D11
+newstack C8
+stack C10 D11
+newstack C8
+newstack D9
+newstack C8
+newstack D9
+stack C8 D9
+newstack C10
+newstack C8
+newstack C10
+newstack C7
+stack C8 D9
+newstack C7
+newstack C10
+newstack C7
+newstack C8
+newstack C7
+newstack D9
+newstack C7
+newstack D9
+newstack C7
+newstack D9
+stack C7 D8
+stack C8 D9
+newstack D11
+newstack C8
+newstack D11
+newstack C8
+newstack D9
+newstack D11
+newstack D9
+newstack D11
+newstack D9
+newstack D11
+stack D9 C10
+newstack D11
+newstack C8
+newstack D11
+newstack C8
+newstack D11
+newstack C8
+newstack D11
+newstack C8
+newstack D9
+stack C8 D9
+newstack D11
+newstack C8
+newstack D9
+stack C8 D9
+newstack D11
+newstack C8
+newstack D11
+newstack D9
+newstack C10
+newstack D9
+stack C10 D11
+newstack C8
+newstack C10
+stack D9 C10
+newstack D11
+newstack C8
+newstack D11
+newstack C8
+newstack D11
+newstack D9
+stack C10 D11
+stack C8 D9
+newstack C7
+newstack C10
+newstack C7
+newstack C10
+newstack D11
+stack C10 D11
+newstack C7
+newstack C10
+newstack C7
+newstack D11
+stack C10 D11
+newstack C8
+newstack C10
+newstack D11
+newstack C8
+newstack C10
+newstack C8
+newstack C10
+newstack C8
+stack C10 D11
+stack C8 D9
+newstack C7
+newstack C8
+newstack C7
+newstack C8
+newstack C7
+newstack C8
+newstack C7
+newstack C8
+newstack D9
+newstack C7
+newstack D9
+newstack C7
+newstack D9
+newstack C7
+newstack D9
+newstack C7
+stack D9 C10
+stack C7 D8
+newstack C8
+newstack D9
+newstack C8
+newstack D9
+stack C8 D9
+newstack C10
+newstack C7
+newstack C8
+newstack C7
+newstack C8
+newstack D9
+stack C8 D9
+newstack C10
+newstack C8
+newstack D9
+newstack C10
+newstack D9
+stack C8 D9
+newstack C7
+newstack C8
+newstack C7
+newstack C8
+newstack D9
+stack C8 D9
+newstack C7
+newstack C8
+newstack D9
+newstack C7
+newstack C8
+newstack C7
+newstack C8
+newstack C7
+stack C8 D9
+stack C7 D8
+newstack C8
+newstack D9
+newstack C10
+newstack D9
+stack C10 D11
+newstack D9
+newstack C8
+newstack C10
+stack C8 D9
+newstack C10
+newstack C8
+newstack C10
+newstack C7
+newstack C10
+newstack C7
+newstack C10
+newstack C7
+newstack C8
+newstack C7
+newstack C10
+newstack C8
+newstack C10
+newstack C7
+newstack C10
+stack C8 D9
+newstack C7
+stack C10 D11
+newstack C7
+newstack C10
+newstack C7
+newstack C8
+stack C10 D11
+newstack C7
+newstack C8
+newstack C10
+newstack C8
+newstack C10
+newstack C7
+stack D9 C10
+newstack C7
+stack C8 D9
+newstack C7
+newstack C8
+newstack D9
+newstack C8
+newstack D9
+newstack C7
+newstack C10
+newstack C7
+stack D9 C10
+newstack C7
+newstack C8
+newstack C7
+stack C8 D9
+newstack C7
+newstack D11
+newstack C7
+newstack D11
+newstack C7
+newstack D11
+newstack C7
+newstack D11
+newstack C7
+newstack C8
+newstack D11
+newstack C8
+newstack D11
+newstack C8
+newstack D11
+newstack C8
+newstack D9
+newstack C8
+newstack D9
+stack C8 D9
+newstack C10
+newstack C7
+newstack C10
+newstack C7
+newstack D11
+newstack C7
+newstack C10
+newstack C7
+newstack C10
+newstack C8
+newstack C10
+newstack C8
+newstack D9
+newstack C8
+newstack D9
+stack C8 D9
+newstack C10
+newstack D11
+newstack C8
+stack D9 C10
+newstack C8
+newstack D9
+stack C8 D9
+newstack C10
+newstack C8
+stack C10 D11
+newstack D9
+newstack C8
+newstack D9
+newstack C10
+stack D9 C10
+newstack D11
+newstack D9
+newstack C10
+newstack D11
+newstack C10
+newstack D11
+stack C10 D11
+newstack D9
+newstack C10
+newstack D9
+newstack D11
+newstack D9
+newstack C8
+newstack D11
+stack C8 D9
+newstack D11
+newstack C10
+newstack D11
+newstack C10
+newstack D11
+stack C10 D11
+newstack C7
+newstack C10
+newstack D11
+newstack C7
+stack C10 D11
+newstack C7
+newstack C10
+newstack D11
+newstack C7
+newstack D11
+newstack C7
+newstack D11
+newstack C7
+newstack D11
+newstack C10
+newstack C7
+newstack C10
+newstack C7
+newstack C10
+newstack C7
+newstack C10
+newstack C7
+newstack D11
+newstack C10
+newstack C8
+stack C10 D11
+newstack C8
+newstack C7
+newstack C8
+newstack C7
+newstack C8
+newstack C7
+newstack C8
+newstack C10
+newstack C7
+newstack C10
+newstack C7
+newstack C8
+newstack C7
+newstack C10
+newstack C8
+stack D9 C10
+stack C8 D9
+newstack C7
+newstack C8
+newstack D9
+newstack C10
+newstack C7
+newstack C8
+newstack C7
+newstack C8
+newstack C7
+newstack C8
+stack D9 C10
+newstack C8
+newstack C7
+newstack C8
+newstack D11
+newstack C8
+newstack C7
+newstack C8
+newstack C7
+newstack D11
+newstack C7
+newstack C8
+newstack C7
+newstack D11
+newstack C8
+newstack D11
+newstack C8
+newstack D11
+stack C8 D9
+newstack C7
+newstack D11
+newstack C7
+newstack D11
+newstack C7
+newstack D11
+newstack C7
+newstack D11
+newstack C7
+source D8
+newstack C7
+newstack D11
+newstack C7
+newstack D11
+newstack C7
+newstack D11
+newstack C7
+newstack D11
+newstack C8
+newstack D11
+newstack C8
+newstack D11
+newstack C7
+newstack C8
+newstack C7
+newstack C8
+newstack D11
+newstack C7
+newstack D11
+newstack C8
+newstack D11
+newstack C7
+newstack C8
+newstack C7
+newstack C8
+newstack C7
+newstack C8
+source D9
+newstack C8
+newstack C7
+newstack C8
+newstack C7
+newstack C8
+newstack C7
+newstack C8
+newstack D11
+newstack C7
+newstack D11
+newstack C7
+newstack C8
+newstack C7
+newstack C8
+newstack D11
+newstack C8
+newstack D11
+newstack C7
+newstack D11
+newstack C8
+newstack D11
+newstack C10
+newstack C8
+newstack C10
+newstack C8
+newstack C10
+newstack C8
+stack C10 D11
+newstack C8
+newstack C10
+newstack D11
+stack C10 D11
+newstack C7
+newstack C10
+newstack D11
+newstack C7
+newstack C10
+newstack C7
+newstack C10
+newstack C7
+stack C10 D11
+newstack C7
+newstack C10
+newstack D11
+newstack C10
+newstack D11
+newstack C10
+newstack C7
+stack C10 D11
+newstack C7
+newstack C10
+newstack C7
+newstack D11
+newstack C7
+newstack C10
+newstack C7
+stack C10 D11
+newstack C7
+newstack C10
+newstack D11
+newstack C10
+newstack D11
+stack C10 D11
+newstack C7
+newstack C10
+newstack C7
+newstack D11
+newstack C7
+newstack C10
+newstack C8
+newstack D11
+newstack C8
+newstack D11
+newstack C8
+newstack D11
+newstack C7
+newstack C8
+newstack C10
+newstack C8
+newstack C10
+newstack C8
+newstack C10
+newstack C8
+newstack C10
+newstack D11
+stack C10 D11
+newstack C8
+newstack C10
+newstack D11
+newstack C8
+newstack D11
+newstack C8
+newstack D11
+newstack C8
+newstack C10
+newstack D11
+stack C10 D11
+newstack C8
+newstack C10
+newstack D11
+newstack C10
+newstack D11
+newstack C8
+newstack D11
+newstack C10
+newstack D11
+newstack C10
+newstack C7
+newstack C10
+newstack C7
+newstack C10
+newstack C7
+stack C10 D11
+newstack C7
+newstack C8
+newstack C7
+newstack C8
+newstack C7
+newstack C10
+newstack D11
+newstack C7
+newstack D11
+newstack C8
+newstack D11
+newstack C8
+newstack D11
+newstack C8
+newstack C10
+newstack C7
+newstack C10
+newstack C7
+stack C10 D11
+newstack C7
+newstack C8
+newstack C7
+newstack C8
+newstack C7
+newstack C8
+newstack C7
+newstack C8
+newstack C7
+newstack C8
+newstack C10
+newstack C7
+newstack C10
+newstack C7
+newstack C10
+newstack C7
+newstack C10
+newstack D11
+newstack C8
+newstack D11
+newstack C8
+newstack C10
+newstack D11
+newstack C8
+newstack C7
+stack C10 D11
+newstack C8
+newstack C7
+newstack C8
+newstack C7
+newstack C8
+newstack C10
+newstack D11
+newstack C8
+newstack C9
+newstack D11
+newstack C10
+newstack C8
+newstack C10
+newstack C8
+stack C10 D11
+newstack C8
+newstack C9
+newstack C10
+newstack C9
+newstack C8
+newstack C10
+newstack C8
+newstack C9
+newstack C8
+newstack C9
+stack C10 D11
+newstack C9
+newstack C8
+stack C9 D10
+newstack H13
+newstack C8
+newstack H13
+newstack C8
+newstack H13
+newstack C8
+newstack H13
+freecell C8
+newstack C10
+newstack D11
+stack C10 D11
+newstack H13
+newstack C10
+newstack H13
+newstack D11
+stack C10 D11
+newstack H13
+newstack C10
+newstack D11
+newstack H13
+newstack D11
+newstack H13
+newstack C10
+newstack H13
+newstack C10
+newstack H13
+newstack D11
+newstack H13
+newstack C10
+newstack H13
+newstack C10
+newstack D11
+stack C10 D11
+newstack H13
+newstack C10
+newstack D11
+newstack H13
+stack C10 D11
+newstack H13
+newstack C10
+newstack H13
+newstack C7
+newstack C10
+newstack C7
+newstack H13
+newstack C7
+newstack H13
+newstack C7
+newstack H13
+newstack C10
+newstack C7
+newstack C10
+newstack C7
+newstack C10
+newstack C7
+newstack C10
+newstack C7
+stack C10 D11
+newstack H13
+newstack C7
+newstack H13
+newstack C7
+newstack H13
+newstack C7
+newstack C10
+newstack C7
+newstack H13
+newstack D11
+newstack C7
+newstack D11
+newstack C7
+newstack D11
+newstack C7
+newstack H13
+newstack D11
+newstack H13
+newstack D11
+newstack H13
+newstack D11
+newstack H13
+newstack C7
+newstack D11
+newstack C7
+newstack H13
+newstack C7
+newstack H13
+newstack C7
+newstack H13
+newstack C7
+newstack H13
+newstack C10
+newstack H13
+newstack C10
+newstack H13
+newstack C10
+newstack H13
+newstack C10
+newstack D11
+stack C10 D11
+newstack C7
+newstack C10
+newstack D11
+newstack C7
+newstack D11
+newstack C7
+newstack D11
+newstack C7
+newstack C10
+newstack D11
+newstack C10
+newstack D11
+stack C10 D11
+newstack C7
+newstack C10
+newstack D11
+newstack C10
+newstack H13
+stack C10 D11
+newstack H13
+newstack C10
+newstack H13
+newstack D11
+newstack C7
+newstack D11
+newstack C7
+newstack D11
+newstack C7
+newstack D11
+newstack C10
+newstack C7
+newstack C10
+newstack C7
+newstack C10
+newstack C7
+stack C10 D11
+newstack C7
+newstack H13
+newstack C7
+newstack H13
+newstack C7
+newstack H13
+newstack C7
+newstack H13
+newstack C7
+newstack H13
+newstack C10
+newstack H13
+newstack C10
+newstack C7
+newstack C10
+newstack H13
+newstack C7
+newstack C10
+newstack H13
+newstack C7
+newstack H13
+newstack C7
+newstack C10
+newstack C9
+newstack C7
+newstack C9
+newstack C7
+newstack C9
+newstack C7
+newstack H13
+newstack C9
+newstack H13
+newstack C9
+newstack H13
+newstack C9
+newstack C10
+newstack C9
+newstack C10
+newstack H13
+newstack C9
+newstack C10
+newstack C9
+newstack C10
+newstack C9
+newstack H13
+newstack C9
+newstack C7
+newstack C9
+newstack C10
+newstack H13
+newstack C10
+newstack H13
+newstack C10
+newstack H13
+stack C10 D11
+newstack C7
+newstack H13
+newstack C7
+newstack H13
+newstack C7
+newstack H13
+newstack C7
+newstack C9
+newstack C7
+newstack C9
+newstack C10
+newstack H13
+newstack C9
+newstack H13
+newstack C9
+newstack H13
+newstack C9
+newstack C7
+newstack H13
+newstack C7
+newstack C9
+newstack H13
+newstack C10
+newstack C7
+newstack C10
+newstack C7
+newstack C10
+newstack C7
+newstack H13
+newstack C10
+newstack H13
+stack C10 D11
+newstack H13
+newstack C9
+newstack H13
+source D10
+newstack H13
+newstack C9
+newstack H13
+newstack C9
+newstack H13
+newstack C9
+newstack H13
+newstack C7
+newstack C9
+newstack C7
+newstack C9
+newstack C7
+newstack C9
+newstack H13
+newstack C7
+newstack H13
+newstack C7
+newstack C9
+newstack C7
+newstack C9
+newstack C7
+newstack C9
+newstack C7
+newstack C9
+newstack H13
+newstack C9
+newstack H13
+newstack C9
+newstack H13
+newstack C7
+newstack C10
+newstack C7
+newstack C10
+newstack C7
+newstack C10
+newstack H13
+newstack C7
+newstack C10
+newstack H13
+newstack C10
+newstack H13
+newstack C10
+newstack C7
+newstack H13
+newstack C10
+newstack C7
+newstack C9
+newstack H13
+newstack C10
+newstack C9
+newstack H13
+newstack C10
+newstack H13
+newstack C10
+newstack H13
+newstack C9
+newstack C10
+newstack C7
+newstack C10
+newstack C9
+newstack C7
+newstack C9
+newstack C7
+newstack C10
+newstack C9
+newstack C10
+source D11
+newstack C7
+newstack C9
+newstack C7
+newstack C9
+newstack C7
+newstack C9
+newstack C7
+newstack C10
+newstack C9
+newstack C10
+newstack C9
+newstack C10
+newstack C9
+newstack H13
+newstack C10
+newstack H13
+newstack C10
+newstack H13
+newstack C10
+newstack C9
+newstack H13
+newstack C9
+newstack H13
+newstack C10
+newstack H13
+newstack C10
+newstack H13
+newstack C10
+newstack H13
+newstack C10
+newstack C7
+newstack C10
+newstack C7
+newstack C10
+newstack C7
+newstack C10
+newstack C7
+newstack H13
+newstack C7
+newstack H13
+newstack C7
+newstack H13
+newstack C7
+newstack H13
+newstack C9
+newstack H13
+newstack C9
+newstack H13
+newstack C9
+newstack H13
+newstack C9
+newstack C7
+newstack C9
+newstack C7
+newstack C9
+newstack C7
+newstack C9
+newstack H13
+newstack C9
+newstack C7
+newstack H13
+newstack C9
+newstack H13
+newstack C7
+newstack H13
+newstack C9
+newstack C10
+newstack C9
+newstack C10
+newstack H13
+newstack C10
+newstack H13
+newstack C10
+newstack C7
+newstack H13
+newstack C7
+newstack H13
+newstack C7
+newstack H13
+newstack C7
+newstack C10
+newstack H13
+newstack C10
+newstack H13
+newstack C7
+newstack H13
+newstack C10
+newstack H13
+newstack C7
+newstack H13
+newstack C7
+newstack H13
+newstack C7
+newstack C10
+newstack C7
+newstack C10
+newstack H13
+newstack C10
+newstack C7
+newstack C10
+newstack C7
+newstack C10
+newstack C11
+newstack C7
+newstack C11
+newstack C10
+newstack C11
+newstack C10
+newstack C11
+newstack C7
+newstack C10
+newstack C7
+newstack C11
+newstack C10
+newstack C7
+newstack C11
+newstack C7
+newstack C11
+newstack C10
+newstack C7
+newstack C11
+newstack H13
+newstack C11
+newstack C10
+newstack H13
+newstack C10
+newstack C11
+newstack C7
+newstack C11
+newstack H13
+newstack C11
+newstack C7
+newstack H13
+newstack C7
+newstack H13
+newstack C11
+newstack C7
+newstack H13
+newstack C11
+newstack H13
+newstack C11
+newstack H13
+newstack C11
+newstack C10
+newstack C11
+newstack C10
+newstack C7
+newstack C10
+newstack C7
+newstack C10
+newstack C7
+newstack H13
+newstack C10
+newstack H13
+newstack C10
+newstack C7
+newstack C10
+newstack C7
+newstack C11
+newstack C9
+newstack C7
+newstack C11
+newstack C9
+newstack C11
+newstack C9
+newstack C11
+newstack H13
+newstack C9
+newstack H13
+newstack C9
+newstack H13
+newstack C9
+newstack C10
+newstack H13
+newstack C10
+newstack H13
+newstack C10
+newstack H13
+newstack C9
+newstack C10
+newstack C9
+newstack C10
+newstack C9
+newstack C10
+newstack C7
+newstack C9
+newstack C7
+newstack C9
+newstack C7
+newstack C10
+newstack C9
+newstack C7
+newstack C9
+newstack H13
+newstack C9
+newstack H13
+newstack C7
+newstack H13
+newstack C7
+newstack H13
+newstack C7
+newstack C9
+newstack C7
+newstack C9
+newstack H13
+newstack C9
+newstack H13
+newstack C9
+newstack H13
+newstack C10
+newstack H13
+newstack C10
+newstack C9
+newstack C10
+newstack H13
+newstack C10
+newstack H13
+newstack C7
+newstack H13
+newstack C7
+newstack C10
+newstack C7
+newstack C10
+newstack H13
+newstack C10
+newstack H13
+newstack C7
+newstack H13
+newstack C7
+newstack C9
+newstack C10
+newstack C9
+newstack C7
+newstack C10
+newstack C11
+newstack C10
+newstack C11
+newstack H13
+newstack C11
+newstack C9
+newstack H13
+newstack C9
+newstack H13
+newstack C9
+newstack H13
+newstack C11
+newstack C9
+newstack C11
+newstack C9
+newstack C11
+newstack C9
+newstack H13
+newstack C11
+newstack C7
+newstack C11
+newstack H13
+newstack C7
+newstack H13
+newstack C7
+newstack C9
+newstack C7
+newstack C9
+newstack C7
+newstack C9
+newstack C11
+newstack C9
+newstack C11
+newstack C9
+newstack C11
+newstack H13
+newstack C11
+newstack C7
+newstack H13
+newstack C7
+newstack H13
+newstack C7
+newstack H13
+newstack C9
+newstack C7
+newstack C9
+newstack C7
+newstack C9
+newstack C7
+newstack H13
+newstack C9
+newstack C7
+newstack H13
+newstack C9
+newstack H13
+newstack C9
+newstack C7
+newstack C9
+newstack C7
+newstack C11
+newstack C9
+newstack C7
+newstack C11
+newstack H13
+newstack C11
+newstack C7
+newstack C11
+newstack C7
+newstack H13
+newstack C7
+newstack H13
+newstack C11
+newstack C7
+newstack C11
+newstack H13
+newstack C7
+newstack C11
+newstack C10
+newstack C11
+newstack C7
+newstack H13
+newstack C11
+newstack H13
+newstack C7
+stack C11 H12
+newstack C7
+newstack C10
+newstack C7
+newstack C10
+newstack C7
+newstack C10
+newstack C9
+newstack C10
+newstack C9
+newstack C10
+newstack C9
+newstack C10
+newstack C9
+newstack C7
+newstack C9
+newstack C7
+newstack C9
+newstack C7
+newstack C9
+newstack C7
+newstack C10
+newstack C7
+newstack C10
+newstack C7
+newstack C10
+newstack C7
+newstack C10
+newstack C9
+newstack C10
+newstack C9
+newstack C10
+newstack C9
+newstack C10
+newstack H13
+newstack C11
+newstack H13
+newstack C9
+newstack C10
+newstack C9
+newstack C10
+newstack H13
+newstack C10
+newstack H13
+newstack C11
+newstack H13
+newstack C11
+newstack C9
+newstack C11
+newstack C9
+newstack C11
+newstack C7
+newstack C9
+newstack C7
+newstack C9
+newstack C7
+newstack C9
+newstack C10
+newstack C7
+newstack C10
+newstack C7
+newstack C10
+newstack C11
+newstack C7
+newstack C11
+newstack C10
+newstack C11
+newstack C7
+newstack C9
+newstack C11
+newstack C7
+newstack C11
+newstack C10
+newstack C7
+newstack C11
+newstack C9
+newstack C11
+newstack C7
+newstack C11
+newstack C10
+newstack C7
+newstack C10
+newstack C11
+newstack C10
+newstack C11
+newstack C7
+newstack C11
+newstack C7
+newstack C10
+newstack C7
+newstack C9
+newstack C7
+newstack C9
+newstack C7
+newstack C9
+newstack C10
+newstack C7
+newstack C10
+newstack C9
+newstack C7
+source H12
+newstack C10
+newstack C7
+newstack C10
+newstack C7
+newstack C10
+newstack C9
+newstack C7
+newstack C9
+newstack C7
+newstack C9
+newstack C7
+newstack C10
+newstack C9
+newstack C10
+newstack C9
+newstack C10
+newstack C9
+source H13
+newstack C10
+newstack C9
+newstack C10
+newstack C7
+newstack C10
+newstack C7
+newstack C10
+newstack C7
+newstack C10
+newstack C7
+newstack C11
+newstack C7
+newstack C11
+newstack C7
+newstack C11
+newstack C7
+newstack C11
+newstack C10
+newstack C11
+newstack C10
+newstack C11
+newstack C10
+newstack C11
+newstack C10
+newstack C7
+newstack C10
+newstack C7
+newstack C11
+newstack C7
+newstack C11
+newstack C7
+newstack C11
+newstack C7
+newstack C11
+newstack C9
+newstack C11
+newstack C9
+newstack C7
+newstack C9
+newstack C7
+newstack C9
+newstack C11
+newstack C9
+newstack C11
+newstack C9
+newstack C11
+newstack C9
+newstack C11
+newstack C10
+newstack C9
+newstack C10
+newstack C9
+newstack C10
+newstack C9
+newstack C11
+newstack C10
+newstack C11
+newstack C10
+newstack C7
+newstack C10
+newstack C7
+newstack C9
+newstack C7
+newstack C9
+newstack C7
+newstack C9
+newstack C7
+newstack C11
+newstack C9
+newstack C11
+newstack C9
+newstack C11
+newstack C9
+newstack C7
+newstack C11
+newstack C7
+newstack C11
+newstack C7
+newstack C9
+newstack C11
+newstack C7
+newstack C11
+newstack C9
+newstack C11
+newstack C7
+newstack C11
+newstack C9
+newstack C11
+newstack C9
+newstack C11
+newstack C9
+newstack C10
+newstack C9
+newstack C10
+newstack C9
+newstack C11
+newstack C10
+newstack C9
+newstack C10
+newstack C9
+newstack C10
+newstack C9
+newstack C10
+newstack C9
+newstack C7
+newstack C9
+newstack C7
+newstack C9
+newstack C7
+newstack C9
+newstack C7
+newstack C10
+newstack C7
+newstack C10
+newstack C7
+newstack C10
+newstack C7
+newstack C10
+newstack C9
+newstack C10
+newstack C9
+newstack C10
+newstack C7
+newstack C11
+newstack C9
+newstack C11
+newstack C10
+newstack C7
+newstack C10
+newstack C7
+newstack C10
+newstack C11
+newstack C10
+newstack C11
+newstack C10
+newstack C9
+newstack C10
+newstack C11
+newstack C10
+newstack C9
+newstack D13
+newstack C10
+newstack D13
+stack C11 D12
+newstack D13
+newstack C10
+newstack D13
+newstack C10
+newstack D13
+newstack C10
+newstack D13
+newstack C10
+newstack C9
+newstack D13
+newstack C9
+newstack D13
+newstack C9
+newstack D13
+newstack C10
+newstack C9
+newstack D13
+newstack C9
+newstack C10
+newstack C9
+newstack C10
+newstack D13
+newstack C9
+newstack D13
+newstack C10
+newstack C9
+newstack C10
+newstack C9
+newstack C10
+newstack C9
+newstack D13
+newstack C9
+newstack D13
+newstack C10
+newstack D13
+newstack C9
+newstack D13
+newstack C7
+newstack D13
+newstack C7
+newstack C9
+newstack C7
+newstack C9
+newstack C7
+newstack D13
+newstack C7
+newstack D13
+newstack C7
+newstack D13
+newstack C7
+newstack D13
+newstack C10
+newstack C7
+newstack C10
+newstack C7
+newstack C10
+newstack C7
+newstack D13
+newstack C10
+newstack C7
+newstack C10
+newstack D13
+newstack C10
+newstack D13
+newstack C10
+newstack D13
+newstack C7
+newstack D13
+newstack C10
+newstack D13
+newstack C10
+newstack D13
+newstack C10
+newstack C9
+newstack C10
+newstack C9
+newstack C10
+newstack D13
+newstack C9
+newstack D13
+newstack C9
+newstack C10
+newstack C9
+newstack C10
+newstack C9
+newstack C10
+newstack C9
+newstack C10
+newstack C7
+newstack C10
+newstack C7
+newstack C10
+newstack C7
+newstack C10
+newstack C7
+newstack C9
+newstack C7
+newstack C9
+newstack C7
+newstack C9
+newstack C7
+newstack D13
+newstack C7
+newstack C10
+newstack C9
+newstack C7
+newstack C9
+newstack C7
+newstack D13
+newstack C7
+newstack D13
+newstack C7
+newstack C10
+newstack C7
+newstack C10
+newstack C7
+newstack C9
+newstack C7
+newstack C11
+newstack C10
+newstack C11
+newstack C9
+newstack C11
+newstack C9
+newstack C11
+newstack C7
+newstack C9
+newstack C7
+newstack C9
+newstack C7
+newstack C9
+newstack C10
+newstack C7
+newstack C10
+newstack C7
+newstack C10
+newstack C7
+newstack C9
+newstack C10
+newstack C9
+newstack C10
+newstack C9
+newstack C10
+newstack C11
+newstack C9
+newstack C11
+newstack C9
+newstack C11
+newstack C9
+newstack C10
+newstack C11
+newstack C7
+newstack C11
+newstack C7
+newstack C10
+newstack C11
+newstack C9
+newstack C11
+newstack C7
+newstack C11
+newstack C10
+newstack C11
+newstack C7
+newstack C9
+newstack C7
+newstack C10
+newstack C9
+newstack C10
+newstack C9
+newstack C10
+newstack C7
+newstack C9
+newstack C11
+newstack C9
+newstack C11
+newstack C7
+newstack C10
+newstack C7
+newstack C11
+newstack D13
+newstack C7
+newstack D13
+newstack C11
+newstack D13
+newstack C11
+newstack C7
+newstack C11
+newstack C7
+newstack D13
+newstack C7
+newstack D13
+newstack C9
+newstack D13
+newstack C9
+newstack C7
+newstack C9
+newstack D13
+newstack C7
+newstack D13
+newstack C9
+newstack D13
+newstack C9
+newstack C7
+newstack C9
+newstack D13
+newstack C10
+newstack D13
+newstack C10
+newstack C7
+newstack C10
+newstack C7
+newstack C9
+newstack C10
+newstack C7
+newstack C9
+newstack C7
+newstack C9
+newstack C10
+newstack C7
+newstack C9
+newstack C10
+newstack C9
+newstack C10
+newstack C7
+newstack D13
+newstack C10
+newstack C7
+newstack C10
+newstack C7
+newstack D13
+newstack C7
+newstack C10
+newstack C7
+newstack D13
+newstack C10
+newstack D13
+newstack C9
+newstack C10
+newstack D13
+newstack C9
+newstack D13
+newstack C10
+newstack D13
+newstack C11
+newstack C10
+newstack C11
+newstack C10
+newstack C11
+newstack C10
+stack C11 D12
+newstack C9
+newstack D13
+newstack C9
+newstack D13
+newstack C9
+newstack D13
+newstack C9
+newstack D13
+newstack C7
+newstack D13
+newstack C7
+newstack D13
+newstack C7
+newstack D13
+newstack C7
+newstack C9
+newstack C7
+newstack C9
+newstack C7
+newstack C9
+newstack C7
+newstack C9
+newstack D13
+newstack C9
+newstack D13
+newstack C7
+newstack D13
+newstack C7
+newstack D13
+newstack C7
+newstack C10
+newstack C7
+newstack C10
+newstack C9
+newstack C10
+newstack D13
+newstack C10
+newstack D13
+newstack C7
+newstack C9
+newstack C7
+newstack C10
+newstack C7
+newstack C11
+newstack C7
+newstack C11
+newstack C7
+newstack C11
+newstack C10
+newstack C7
+newstack C11
+newstack C7
+newstack C10
+newstack C7
+newstack C10
+newstack C7
+newstack C11
+newstack C7
+newstack C11
+newstack D13
+newstack C11
+newstack C10
+newstack C11
+newstack C10
+newstack C11
+newstack C7
+newstack C10
+newstack C7
+newstack D13
+newstack C10
+newstack C7
+newstack D13
+newstack C10
+newstack C7
+newstack D13
+newstack C10
+newstack C11
+newstack C7
+newstack D13
+newstack C10
+newstack C11
+newstack C10
+newstack D13
+newstack C11
+newstack D13
+newstack C7
+newstack D13
+newstack C10
+newstack C11
+newstack D13
+newstack C7
+newstack C11
+newstack D13
+newstack C7
+newstack D13
+source D12
+source D13
+newstack C7
+newstack C11
+newstack C7
+newstack C11
+newstack C7
+newstack C11
+newstack C7
+newstack C11
+newstack C7
+newstack C10
+newstack C11
+newstack C10
+newstack C11
+newstack C10
+newstack C11
+newstack C10
+newstack C11
+newstack C9
+newstack C10
+newstack C9
+newstack C10
+newstack C9
+newstack C10
+newstack C9
+newstack C10
+newstack C11
+newstack C9
+newstack C11
+newstack C9
+newstack C11
+newstack C9
+newstack C11
+newstack C9
+newstack C10
+newstack C9
+newstack C10
+newstack C9
+newstack C10
+newstack C9
+newstack C10
+newstack C9
+newstack C10
+newstack C11
+newstack C9
+newstack C10
+newstack C9
+newstack C10
+newstack C9
+newstack C11
+newstack C9
+newstack C7
+newstack C9
+newstack C7
+newstack C9
+newstack C7
+newstack C11
+newstack C7
+newstack C11
+newstack C7
+newstack C11
+newstack C7
+newstack C11
+newstack C9
+newstack C7
+newstack C9
+newstack C7
+newstack C9
+newstack C7
+newstack C9
+newstack C7
+newstack C9
+newstack C7
+newstack C10
+newstack C9
+newstack C10
+newstack C9
+newstack C10
+newstack C9
+newstack C10
+newstack C7
+newstack C9
+newstack C7
+newstack C9
+newstack C7
+newstack C9
+newstack C7
+newstack C9
+newstack C10
+newstack C9
+newstack C10
+newstack C9
+newstack C10
+newstack C9
+newstack C10
+newstack C9
+newstack C10
+newstack C11
+newstack C9
+newstack C11
+newstack C9
+newstack C11
+newstack C9
+newstack C10
+newstack C11
+newstack C10
+newstack C11
+newstack C9
+newstack C11
+newstack C9
+newstack C11
+newstack C9
+newstack C11
+newstack C9
+newstack C11
+newstack C7
+newstack C9
+newstack C7
+newstack C9
+newstack C7
+newstack C9
+newstack C7
+newstack C9
+newstack C7
+newstack C11
+newstack C7
+newstack C11
+newstack C9
+newstack C11
+newstack C9
+newstack C11
+newstack C9
+newstack C11
+newstack C9
+newstack C7
+newstack C9
+newstack C7
+newstack C9
+newstack C7
+newstack C9
+newstack C7
+newstack C9
+newstack C7
+newstack C10
+newstack C9
+newstack C10
+newstack C9
+newstack C10
+newstack C7
+newstack C10
+newstack C7
+newstack C10
+newstack C7
+newstack C10
+newstack C7
+newstack C10
+newstack C11
+newstack C7
+newstack C11
+newstack C7
+newstack C11
+newstack C10
+newstack C11
+newstack C10
+newstack C11
+newstack C10
+newstack C11
+newstack C10
+newstack C11
+newstack C10
+newstack C7
+newstack C10
+newstack C7
+newstack C10
+newstack C7
+newstack C10
+newstack C7
+newstack C10
+newstack C7
+newstack C11
+newstack C7
+newstack C11
+newstack C7
+newstack C11
+newstack C7
+newstack C8
+newstack C7
+newstack C8
+newstack C7
+newstack C8
+newstack C7
+newstack C8
+newstack C11
+newstack C8
+newstack C11
+newstack C8
+freecell C11
+newstack C8
+newstack C7
+newstack C8
+newstack C7
+newstack C8
+newstack C7
+newstack C8
+newstack C7
+newstack C8
+newstack C7
+newstack C10
+newstack C8
+newstack C10
+newstack C8
+newstack C10
+newstack C8
+newstack C10
+newstack C8
+newstack C7
+newstack C10
+newstack C7
+newstack C10
+newstack C7
+newstack C10
+newstack C7
+newstack C10
+newstack C7
+newstack C10
+newstack C8
+newstack C10
+newstack C7
+newstack C8
+newstack C10
+newstack C8
+newstack C10
+newstack C8
+newstack C10
+newstack C8
+newstack C10
+newstack C8
+newstack C10
+newstack C7
+newstack C8
+newstack C7
+newstack C8
+newstack C7
+newstack C8
+newstack C10
+newstack C7
+newstack C9
+newstack C7
+newstack C9
+newstack C10
+newstack C9
+newstack C10
+newstack C9
+newstack C10
+newstack C9
+newstack C10
+newstack C8
+newstack C7
+newstack C8
+newstack C7
+newstack C8
+newstack C7
+newstack C8
+newstack C7
+newstack C8
+newstack C7
+newstack C9
+newstack C7
+newstack C9
+newstack C7
+newstack C9
+newstack C7
+newstack C9
+newstack C7
+newstack C9
+newstack C8
+newstack C9
+newstack C8
+newstack C9
+newstack C8
+newstack C9
+newstack C8
+newstack C9
+newstack C8
+newstack C7
+newstack C8
+newstack C7
+newstack C9
+newstack C7
+newstack C9
+newstack C7
+newstack C9
+newstack C7
+newstack C9
+newstack C7
+newstack C9
+newstack C11
+newstack C9
+newstack C11
+newstack C9
+newstack C11
+newstack C9
+newstack C11
+freecell C9
+newstack C11
+newstack C7
+newstack C11
+newstack C7
+newstack C11
+newstack C7
+newstack C11
+newstack C7
+newstack C11
+newstack C7
+newstack C8
+newstack C7
+newstack C8
+newstack C7
+newstack C8
+newstack C7
+newstack C8
+newstack C7
+newstack C8
+newstack C11
+newstack C8
+newstack C11
+newstack C8
+newstack C11
+newstack C8
+newstack C11
+newstack C8
+newstack C11
+newstack C7
+newstack C11
+newstack C7
+newstack C8
+newstack C7
+newstack C8
+newstack C7
+newstack C8
+newstack C7
+newstack C8
+newstack C7
+newstack C8
+newstack C11
+newstack C8
+newstack C11
+newstack C10
+newstack C11
+newstack C10
+newstack C11
+newstack C10
+newstack C8
+newstack C10
+newstack C8
+newstack C10
+newstack C8
+newstack C11
+newstack C10
+newstack C8
+newstack C10
+newstack C8
+newstack C11
+newstack C8
+newstack C11
+newstack C10
+newstack C11
+newstack C10
+newstack C7
+newstack C10
+newstack C7
+newstack C10
+newstack C7
+newstack C10
+newstack C7
+newstack C10
+newstack C7
+newstack C8
+newstack C7
+newstack C8
+newstack C7
+newstack C8
+newstack C7
+newstack C8
+newstack C7
+newstack C8
+newstack C10
+newstack C8
+newstack C10
+newstack C8
+newstack C10
+newstack C8
+newstack C10
+newstack C8
+newstack C10
+newstack C7
+newstack C10
+newstack C7
+newstack C10
+newstack C7
+newstack C8
+newstack C7
+newstack C8
+newstack C7
+newstack C8
+newstack C7
+newstack C8
+newstack C7
+newstack C8
+newstack C11
+newstack C7
+newstack C11
+newstack C7
+newstack C11
+newstack C7
+newstack C11
+newstack C7
+newstack C8
+newstack C11
+newstack C8
+newstack C11
+newstack C8
+newstack C11
+newstack C8
+newstack C11
+newstack C8
+newstack C11
+newstack C10
+newstack C11
+newstack C10
+newstack C11
+newstack C10
+newstack C11
+newstack C10
+newstack C11
+newstack C10
+newstack C8
+newstack C10
+newstack C8
+newstack C10
+newstack C8
+newstack C10
+newstack C8
+newstack C10
+newstack C8
+newstack C11
+newstack C8
+newstack C11
+newstack C10
+newstack C11
+newstack C10
+newstack C11
+newstack C10
+newstack C11
+newstack C10
+newstack C11
+newstack C10
+newstack C7
+newstack C10
+newstack C7
+newstack C8
+newstack C7
+newstack C8
+newstack C10
+newstack C8
+newstack C7
+newstack C8
+newstack C10
+newstack C7
+newstack C10
+newstack C7
+newstack C10
+newstack C7
+newstack C10
+newstack C7
+newstack C11
+newstack C7
+newstack C11
+newstack C7
+newstack C11
+newstack C7
+newstack C11
+newstack C7
+newstack C11
+newstack C10
+newstack C11
+newstack C10
+newstack C11
+newstack C10
+newstack C7
+newstack C10
+newstack C7
+newstack C10
+newstack C7
+newstack C10
+newstack C7
+newstack C10
+newstack C7
+newstack C11
+newstack C7
+newstack C11
+newstack C7
+newstack C11
+newstack C10
+newstack C11
+newstack C10
+newstack C11
+newstack C10
+newstack C11
+newstack C10
+newstack C9
+newstack C10
+newstack C9
+newstack C10
+newstack C9
+newstack C10
+newstack C9
+newstack C11
+newstack C9
+newstack C11
+newstack C9
+newstack C11
+newstack C9
+newstack C11
+newstack C10
+newstack C11
+newstack C10
+newstack C9
+newstack C10
+newstack C9
+newstack C10
+newstack C9
+newstack C10
+newstack C9
+freecell C10
+newstack C11
+newstack C9
+newstack C11
+newstack C9
+newstack C11
+newstack C9
+newstack C11
+newstack C9
+newstack C7
+newstack C9
+newstack C7
+newstack C9
+newstack C7
+newstack C9
+newstack C7
+newstack C11
+newstack C9
+newstack C11
+newstack C9
+newstack C11
+newstack C9
+newstack C11
+newstack C9
+newstack C11
+newstack C7
+newstack C9
+newstack C7
+newstack C9
+newstack C7
+newstack C9
+newstack C7
+newstack C9
+newstack C7
+newstack C9
+newstack C11
+newstack C9
+newstack C8
+newstack C9
+newstack C8
+newstack C9
+newstack C8
+newstack C9
+newstack C8
+newstack C7
+newstack C8
+newstack C7
+newstack C8
+newstack C7
+newstack C8
+newstack C7
+newstack C8
+newstack C11
+newstack C7
+newstack C11
+newstack C7
+newstack C11
+newstack C7
+newstack C11
+newstack C9
+newstack C7
+newstack C8
+newstack C7
+newstack C8
+newstack C7
+newstack C8
+newstack C7
+newstack C8
+newstack C11
+newstack C8
+newstack C11
+newstack C8
+newstack C11
+newstack C8
+newstack C9
+newstack C8
+newstack C9
+newstack C8
+newstack C9
+newstack C8
+newstack C9
+newstack C8
+newstack C9
+newstack C7
+newstack C9
+newstack C7
+newstack C9
+newstack C7
+newstack C9
+newstack C7
+newstack C9
+newstack C7
+newstack C8
+newstack C7
+newstack C8
+newstack C9
+newstack C8
+newstack C9
+newstack C8
+newstack C9
+newstack C7
+newstack C9
+newstack C7
+newstack C9
+newstack C7
+newstack C9
+newstack C7
+newstack C9
+newstack C7
+newstack C8
+newstack C9
+newstack C8
+newstack C9
+newstack C11
+newstack C8
+newstack C11
+newstack C7
+newstack C11
+newstack C7
+newstack C11
+newstack C7
+newstack C9
+newstack C8
+newstack C9
+newstack C8
+newstack C9
+newstack C8
+newstack C11
+newstack C8
+newstack C11
+newstack C8
+newstack C11
+newstack C8
+newstack C11
+newstack C8
+newstack C7
+newstack C11
+newstack C7
+newstack C11
+newstack C7
+newstack C11
+newstack C8
+newstack C7
+newstack C11
+newstack C7
+newstack C8
+newstack C7
+newstack C8
+newstack C7
+newstack C8
+newstack C7
+newstack C8
+newstack C7
+newstack C8
+newstack C11
+newstack C8
+newstack C11
+newstack C8
+newstack C11
+newstack C7
+newstack C11
+newstack C7
+newstack C11
+newstack C7
+newstack C11
+newstack C7
+newstack C11
+newstack C8
+newstack C11
+newstack C8
+newstack C9
+newstack C7
+newstack C9
+newstack C11
+newstack C9
+newstack C11
+newstack C8
+newstack C11
+newstack C7
+newstack C8
+newstack C7
+newstack C11
+newstack C8
+newstack C11
+newstack C8
+newstack C11
+newstack C8
+newstack C11
+newstack C8
+newstack C9
+newstack C8
+newstack C9
+newstack C8
+newstack C9
+newstack C8
+newstack C9
+newstack C11
+newstack C9
+newstack C11
+newstack C9
+newstack C11
+newstack C9
+newstack C11
+newstack C8
+newstack C11
+newstack C8
+newstack C9
+newstack C8
+newstack C9
+newstack C8
+newstack C9
+newstack C11
+newstack C8
+newstack C11
+newstack C9
+newstack C11
+newstack C9
+newstack C11
+newstack C9
+newstack C11
+newstack C9
+newstack C7
+newstack C9
+newstack C7
+newstack C11
+newstack C9
+newstack C10
+newstack C9
+newstack C7
+newstack C10
+newstack C7
+newstack C10
+newstack C7
+newstack C9
+newstack C10
+newstack C9
+newstack C10
+newstack C11
+newstack C10
+newstack C11
+newstack C7
+newstack C10
+newstack C11
+newstack C10
+newstack C11
+newstack C10
+newstack C11
+newstack C7
+newstack C11
+newstack C7
+newstack C10
+newstack C7
+newstack C10
+freecell C7
+newstack C11
+newstack C10
+newstack C11
+newstack C10
+newstack C11
+newstack C10
+newstack C8
+newstack C10
+newstack C8
+newstack C10
+newstack C8
+newstack C10
+newstack C8
+newstack C10
+newstack C8
+newstack C11
+newstack C8
+newstack C11
+newstack C8
+newstack C11
+newstack C8
+newstack C10
+newstack C8
+newstack C11
+newstack C8
+newstack C10
+newstack C8
+newstack C11
+newstack C8
+newstack C11
+newstack C8
+newstack C11
+newstack C8
+newstack C11
+newstack C10
+newstack C11
+newstack C10
+newstack C8
+newstack C10
+newstack C8
+newstack C9
+newstack C10
+newstack C9
+newstack C8
+newstack C9
+newstack C8
+newstack C9
+newstack C8
+newstack C10
+newstack C9
+newstack C10
+newstack C9
+newstack C10
+newstack C9
+newstack C10
+newstack C9
+newstack C10
+newstack C8
+newstack C9
+newstack C8
+newstack C9
+newstack C8
+newstack C9
+newstack C8
+newstack C9
+newstack C8
+newstack C9
+newstack C11
+newstack C9
+newstack C11
+newstack C9
+newstack C11
+newstack C9
+newstack C11
+newstack C8
+newstack C11
+newstack C8
+newstack C11
+newstack C8
+newstack C11
+newstack C9
+newstack C11
+newstack C9
+newstack C11
+newstack C9
+newstack C8
+newstack C11
+newstack C8
+newstack C9
+newstack C8
+newstack C9
+newstack C8
+newstack C9
+newstack C8
+newstack C11
+newstack C8
+newstack C11
+newstack C8
+newstack C11
+newstack C10
+newstack C11
+newstack C10
+newstack C8
+newstack C10
+newstack C8
+newstack C11
+newstack C8
+newstack C10
+newstack C8
+newstack C10
+newstack C8
+newstack C10
+newstack C8
+newstack C10
+newstack C8
+newstack C10
+newstack C9
+newstack C8
+newstack C9
+newstack C8
+newstack C9
+newstack C8
+newstack C9
+newstack C8
+newstack C9
+newstack C10
+newstack C9
+newstack C10
+newstack C9
+newstack C10
+newstack C9
+newstack C10
+newstack C9
+newstack C10
+newstack C8
+newstack C10
+newstack C8
+newstack C10
+newstack C8
+newstack C10
+newstack C8
+newstack C10
+newstack C8
+newstack C9
+newstack C8
+newstack C9
+newstack C8
+newstack C9
+newstack C8
+newstack C9
+newstack C8
+newstack C11
+newstack C8
+newstack C11
+newstack C8
+newstack C11
+newstack C8
+newstack C11
+newstack C9
+newstack C11
+newstack C9
+newstack C11
+newstack C9
+newstack C11
+newstack C9
+newstack C11
+newstack C10
+newstack C9
+newstack C10
+newstack C9
+newstack C10
+newstack C9
+newstack C10
+newstack C9
+newstack C11
+newstack C10
+newstack C9
+newstack C11
+newstack C10
+newstack C11
+newstack C10
+newstack C11
+newstack C10
+newstack C11
+newstack C8
+newstack C10
+newstack C11
+newstack C10
+newstack C8
+newstack C9
+newstack C10
+newstack C11
+newstack C10
+newstack C11
+newstack C9
+newstack C11
+newstack C8
+newstack C10
+newstack C8
+newstack C11
+newstack C8
+newstack C11
+newstack C8
+newstack C9
+newstack C11
+newstack C9
+newstack C11
+newstack C10
+newstack C11
+newstack C9
+newstack C7
+newstack C11
+newstack C7
+newstack C10
+newstack C7
+newstack C10
+newstack C7
+newstack C10
+newstack C9
+newstack C10
+newstack C7
+newstack C9
+newstack C10
+freecell C9
+newstack C8
+newstack C7
+newstack C10
+newstack C8
+newstack C10
+newstack C7
+newstack C8
+newstack C11
+newstack C10
+newstack C8
+newstack C7
+newstack C8
+newstack C11
+newstack C7
+newstack C11
+newstack C10
+newstack C11
+newstack C7
+newstack C10
+newstack C7
+newstack C10
+newstack C11
+newstack C10
+newstack C8
+newstack C10
+newstack C7
+newstack C11
+newstack C7
+newstack C10
+newstack C11
+newstack C7
+newstack C11
+newstack C10
+newstack C9
+newstack C10
+newstack C8
+newstack C9
+newstack C8
+newstack C10
+newstack C8
+newstack C10
+newstack C8
+freecell C10
+newstack C11
+newstack C8
+newstack C11
+newstack C9
+newstack C7
+newstack C8
+newstack C9
+newstack C11
+newstack C9
+newstack C11
+newstack C8
+newstack C11
+newstack C9
+newstack C8
+newstack C9
+newstack C8
+newstack C7
+newstack C8
+newstack C11
+newstack C8
+newstack C11
+newstack C9
+newstack C11
+newstack C8
+newstack C9
+newstack C8
+newstack C7
+newstack C9
+newstack C11
+newstack C7
+newstack C8
+newstack C9
+newstack C7
+newstack C10
+newstack C9
+newstack C10
+newstack C9
+newstack C11
+newstack C9
+newstack C11
+newstack C10
+newstack C11
+newstack C10
+newstack C11
+newstack C8
+newstack C9
+newstack C8
+newstack C10
+newstack C9
+newstack C10
+newstack C9
+newstack C10
+freecell C11
+newstack C9
+newstack C8
+newstack C9
+newstack C8
+newstack C9
+newstack C8
+newstack C9
+newstack C10
+newstack C8
+newstack C7
+newstack C9
+newstack C7
+newstack C10
+newstack C8
+newstack C10
+newstack C8
+newstack C10
+newstack C8
+newstack C10
+newstack C8
+newstack C10
+newstack C9
+newstack C8
+newstack C9
+newstack C8
+newstack C9
+newstack C8
+newstack C9
+newstack C8
+newstack C9
+newstack C8
+newstack C10
+newstack C9
+newstack C10
+newstack C9
+newstack C10
+newstack C9
+newstack C10
+newstack C9
+newstack C10
+newstack C9
+newstack C8
+newstack C9
+newstack C8
+newstack C9
+newstack C10
+newstack C9
+newstack C10
+newstack C9
+newstack C8
+newstack C9
+newstack C8
+newstack C9
+newstack C8
+newstack C9
+newstack C8
+newstack C7
+newstack C8
+newstack C7
+newstack C8
+newstack C7
+newstack C8
+newstack C9
+newstack C7
+newstack C9
+newstack C8
+newstack C9
+newstack C8
+newstack C9
+newstack C7
+newstack C9
+newstack C7
+newstack C9
+newstack C7
+newstack C9
+newstack C7
+newstack C9
+newstack C10
+newstack C7
+newstack C10
+newstack C7
+newstack C10
+newstack C7
+newstack C10
+newstack C7
+newstack C9
+newstack C10
+newstack C9
+newstack C10
+newstack C7
+newstack C10
+newstack C7
+newstack C10
+newstack C7
+newstack C10
+newstack C7
+newstack C9
+newstack C10
+newstack C9
+newstack C10
+newstack C9
+newstack C7
+newstack C10
+newstack C11
+newstack C9
+newstack C7
+newstack C9
+freecell C7
+newstack C11
+newstack C10
+newstack C8
+newstack C11
+newstack C8
+newstack C10
+newstack C11
+newstack C10
+newstack C11
+newstack C8
+newstack C11
+newstack C10
+newstack C11
+newstack C9
+newstack C8
+newstack C9
+newstack C10
+newstack C11
+newstack C10
+newstack C11
+newstack C9
+newstack C8
+newstack C9
+newstack C10
+newstack C9
+newstack C10
+newstack C8
+newstack C10
+newstack C7
+newstack C8
+newstack C7
+newstack C10
+newstack C7
+newstack C10
+newstack C9
+newstack C10
+newstack C9
+newstack C7
+newstack C9
+newstack C7
+newstack C10
+newstack C8
+newstack C7
+newstack C9
+newstack C8
+newstack C9
+newstack C7
+newstack C9
+newstack C11
+newstack C9
+newstack C7
+newstack C8
+newstack C7
+newstack C8
+newstack C7
+freecell C8
+newstack C10
+newstack C11
+newstack C10
+newstack C11
+newstack C10
+newstack C11
+newstack C10
+newstack C8
+newstack C7
+newstack C8
+newstack C7
+newstack C10
+newstack C7
+newstack C10
+newstack C8
+newstack C10
+newstack C8
+newstack C10
+newstack C8
+newstack C7
+newstack C10
+newstack C11
+newstack C10
+newstack C11
+newstack C10
+newstack C7
+newstack C10
+newstack C11
+newstack C7
+newstack C10
+newstack C11
+newstack C7
+newstack C9
+newstack C7
+newstack C11
+newstack C9
+newstack C11
+newstack C7
+freecell C11
+newstack C9
+newstack C8
+newstack C9
+newstack C7
+newstack C11
+newstack C7
+newstack C11
+newstack C8
+newstack C11
+newstack C8
+newstack C10
+newstack C11
+newstack C10
+newstack C11
+newstack C10
+newstack C11
+newstack C8
+newstack C10
+newstack C9
+newstack C8
+newstack C10
+newstack C8
+newstack C10
+newstack C9
+newstack C8
+newstack C9
+newstack C8
+newstack C10
+newstack C8
+newstack C11
+freecell C8
+newstack C11
+newstack C10
+newstack C11
+newstack C10
+newstack C7
+newstack C10
+newstack C7
+newstack C11
+newstack C7
+newstack C10
+newstack C7
+newstack C10
+newstack C11
+newstack C10
+newstack C11
+newstack C10
+newstack C11
+newstack C7
+newstack C9
+newstack C7
+newstack C9
+newstack C7
+newstack C10
+newstack C7
+newstack C10
+newstack C7
+newstack C10
+newstack C7
+newstack C10
+newstack C7
+newstack C11
+newstack C9
+newstack C11
+newstack C10
+newstack C9
+newstack C11
+newstack C9
+newstack C11
+newstack C9
+newstack C11
+newstack C10
+newstack C11
+newstack C10
+newstack C11
+newstack C10
+newstack C8
+newstack C10
+newstack C8
+newstack C11
+newstack C8
+newstack C11
+newstack C7
+newstack C11
+newstack C7
+newstack C8
+newstack C7
+newstack C8
+newstack C10
+newstack C7
+newstack C8
+newstack C10
+newstack C7
+newstack C10
+newstack C7
+newstack C10
+newstack C7
+newstack C8
+newstack C11
+newstack C10
+newstack C11
+newstack C10
+newstack C8
+newstack C10
+newstack C8
+newstack C10
+freecell C8
+newstack C7
+newstack C11
+newstack C8
+newstack C7
+newstack C8
+newstack C7
+newstack C10
+newstack C8
+newstack C10
+newstack C9
+newstack C10
+newstack C8
+newstack C10
+newstack C9
+newstack C7
+newstack C9
+newstack C7
+newstack C8
+newstack C7
+newstack C11
+newstack C7
+newstack C8
+newstack C10
+newstack C7
+newstack C11
+newstack C10
+newstack C11
+newstack C8
+newstack C11
+newstack C8
+newstack C7
+newstack C10
+newstack C7
+newstack C8
+newstack C7
+newstack C8
+newstack C7
+newstack C11
+newstack C8
+newstack C10
+source C6
+newstack C8
+source C7
+source C8
+newstack C10
+newstack C11
+newstack C10
+newstack C11
+newstack C10
+newstack C11
+newstack C10
+newstack C11
+newstack C10
+newstack C11
+newstack C10
+newstack C11
+freecell C10
+freecell C11
+source C9
+source C10
+source C11
+source C12
+source C13
