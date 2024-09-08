@@ -1,0 +1,93 @@
+1)
+Αρχικό TS={A,B,C,D,E,F,G,H,I,J,K}
+
+
+2)ENN k=3
+TS={A,B,C,D,E,F,G,H,I,J,K}
+ES={A,B,C,D,E,F,G,H,I,J,K}	
+
+A BEI ES={A,B,C,D,E,F,G,H,I,J,K}
+B ACE ES={A,B,C,D,E,F,G,H,I,J,K}
+C ABE ES={A,B,D,E,F,G,H,I,J,K}
+D EFH ES={A,B,D,E,F,G,H,I,J,K}
+E ADI ES={A,B,D,E,F,G,H,I,J,K}
+F DGK ES={A,B,D,E,F,G,H,I,J,K}
+G FJK ES={A,B,D,E,F,G,H,I,J,K}
+H DEI ES={A,B,D,E,F,G,I,J,K}
+I AEH ES={A,B,D,E,F,G,I,J,K}
+J DGK ES={A,B,D,E,F,G,I,J,K}
+K FGJ ES={A,B,D,E,F,G,I,J}
+
+Τελικό ES={A,B,D,E,F,G,I,J}
+
+
+3)CNN k=1
+TS={A,B,C,D,E,F,G,H,I,J,K}
+CS={}
+-> CS={A} ,TS={B,C,D,E,F,G,H,I,J,K}
+
+1o repeat
+Stop<-True
+B (εγγύτερο)A  CS={A},TS={B,C,D,E,F,G,H,I,J,K}
+C (εγγύτερο)Α  CS={A,C},TS={B,D,E,F,G,H,I,J,K} (Stop<-False)
+D (εγγύτερο)Α  CS={A,C,D},TS={B,E,F,G,H,I,J,K}
+E (εγγύτερο)Α  CS={A,C,D},TS={B,E,F,G,H,I,J,K}
+F (εγγύτερο)D  CS={A,C,D},TS={B,E,F,G,H,I,J,K}
+G (εγγύτερο)D  CS={A,C,D},TS={B,E,F,G,H,I,J,K}
+H (εγγύτερο)D  CS={A,C,D},TS={B,E,F,G,H,I,J,K}
+I (εγγύτερο)A  CS={A,C,D},TS={B,E,F,G,H,I,J,K}
+J (εγγύτερο)D  CS={A,C,D},TS={B,E,F,G,H,I,J,K}
+K (εγγύτερο)D  CS={A,C,D,K},TS={B,E,F,G,H,I,J}
+
+2o repeat
+Stop<-True
+B (εγγύτερο)C  CS={A,B,C,D,K},TS={E,F,G,H,I,J} (Stop<-false)
+E (εγγύτερο)A  CS={A,B,C,D,K},TS={E,F,G,H,I,J}
+F (εγγύτερο)K  CS={A,B,C,D,F,K},TS={E,G,H,I,J}
+G (εγγύτερο)F  CS={A,B,C,D,F,K},TS={E,G,H,I,J}
+H (εγγύτερο)D  CS={A,B,C,D,F,K},TS={E,G,H,I,J}
+I (εγγύτερο)A  CS={A,B,C,D,F,K},TS={E,G,H,I,J}
+J (εγγύτερο)K  CS={A,B,C,D,F,J,K},TS={E,G,H,I}
+
+3o repeat
+Stop<-True
+E (εγγύτερο)A  CS={A,B,C,D,F,J,K},TS={E,G,H,I}
+G (εγγύτερο)F  CS={A,B,C,D,F,J,K},TS={E,G,H,I}
+H (εγγύτερο)D  CS={A,B,C,D,F,J,K},TS={E,G,H,I}
+I (εγγύτερο)A  CS={A,B,C,D,F,J,K},TS={E,G,H,I}
+Stop=True , συνεπώς τερματίζει ο αλγόριθμος CNN.
+
+Τελικό CS={A,B,C,D,F,J,K},TS={E,G,H,I}
+
+4)IB2 k=1
+TS={A,B,C,D,E,F,G,H,I,J,K}
+CS={}
+-> CS={A} ,TS={B,C,D,E,F,G,H,I,J,K}
+
+B (εγγύτερο)A CS={A},TS={C,D,E,F,G,H,I,J,K}
+C (εγγύτερο)A CS={A,C},TS={D,E,F,G,H,I,J,K}
+D (εγγύτερο)A CS={A,C,D},TS={E,F,G,H,I,J,K}
+E (εγγύτερο)A CS={A,C,D},TS={F,G,H,I,J,K}
+F (εγγύτερο)D CS={A,C,D},TS={G,H,I,J,K}
+G (εγγύτερο)D CS={A,C,D},TS={H,I,J,K}
+H (εγγύτερο)D CS={A,C,D},TS={I,J,K}
+I (εγγύτερο)A CS={A,C,D},TS={J,K}
+J (εγγύτερο)D CS={A,C,D},TS={K}
+K (εγγύτερο)D CS={A,C,D,K},TS={}
+
+Τελικό CS={A,C,D,K}
+
+k-NN:
+k=1:
+1)ENN: ES={A,B,D,E,F,G,I,J} -> E ->WHITE
+2)CNN: CS={A,B,C,D,F,J,K,}  -> D ->BLACK
+3)IB2: CS={A,C,D,K}         -> D ->BLACK
+
+k=3:
+1)ENN: ES={A,B,D,E,F,G,I,J} -> DEI ->WHITE
+2)CNN: CS={A,B,C,D,F,J,K,}  -> DKJ ->BLACK
+3)IB2: CS={A,C,D,K}	    -> ADK ->WHITE
+
+
+
+
