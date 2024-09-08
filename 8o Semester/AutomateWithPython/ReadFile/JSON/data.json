@@ -1,0 +1,24 @@
+
+{
+
+"emp_details":[
+	{
+		"id":1,
+		"name":"Panagiotis",
+		"age":24,
+		"skills":["Python","Java"]
+
+	},
+	{
+		"id":2,
+		"name":"Petros",
+		"age":20,
+		"hobbies":["HTML","CSS"]
+
+
+	}
+
+
+]
+
+}
