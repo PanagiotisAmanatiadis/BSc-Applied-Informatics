@@ -1,0 +1,96 @@
+1)
+ENN k=3
+TS={A,B,C,D,E,F,G,H,I,J,K,L,M}
+ES={A,B,C,D,E,F,G,H,I,J,K,L,M}
+ 
+A BEG ES={A,B,C,D,E,F,G,H,I,J,K,L,M}  
+B AEF ES={A,C,D,E,F,G,H,I,J,K,L,M}      
+C DIL ES={A,D,E,F,G,H,I,J,K,L,M}        
+D CIJ ES={A,D,E,F,G,H,I,J,K,L,M}     
+E FGH ES={A,D,F,G,H,I,J,K,L,M}          
+F BEH ES={A,D,F,G,H,I,J,K,L,M}     
+G EHK ES={A,D,F,G,H,I,J,K,L,M}     
+H EHG ES={A,D,F,G,I,J,K,L,M}          
+I JLM ES={A,D,F,G,J,K,L,M}            
+J GIK ES={A,D,F,G,K,L,M}              
+K EGH ES={A,D,F,G,K,L,M}           
+L IJM ES={A,D,F,G,K,M}                
+M IJL ES={A,D,F,G,K}                  
+
+Τελικό ES={A,D,F,G,K}
+
+2)
+CNN k=1
+CS={},TS={A,B,C,D,E,F,G,H,I,J,K,L,M}
+CS={A},TS={B,C,D,E,F,G,H,I,J,K,L,M}
+
+1o repeat:
+Stop<-True
+Β (εγγύτερο)A CS={A,B},           TS={C,D,E,F,G,H,I,J,K,L,M} (Stop<-False)
+C (εγγύτερο)Α CS={A,B,C},         TS={D,E,F,G,H,I,J,K,L,M}
+D (εγγύτερο)C CS={A,B,C},         TS={D,E,F,G,H,I,J,K,L,M}
+E (εγγύτερο)A CS={A,B,C},         TS={D,E,F,G,H,I,J,K,L,M}
+F (εγγύτερο)B CS={A,B,C},         TS={D,E,F,G,H,I,J,K,L,M}
+G (εγγύτερο)A CS={A,B,C},         TS={D,E,F,G,H,I,J,K,L,M}
+H (εγγύτερο)B CS={A,B,C},         TS={D,E,F,G,H,I,J,K,L,M}
+I (εγγύτερο)C CS={A,B,C,I},       TS={D,E,F,G,H,J,K,L,M} 
+J (εγγύτερο)Ι CS={A,B,C,I,J},     TS={D,E,F,G,H,K,L,M}
+K (εγγύτερο)J CS={A,B,C,I,J,K},   TS={D,E,F,G,H,L,M}
+L (εγγύτερο)I CS={A,B,C,I,J,K},   TS={D,E,F,G,H,L,M}
+M (εγγύτερο)Ι CS={A,B,C,I,J,K,M}, TS={D,E,F,G,H,L} 
+
+2o repeat:
+Stop<-True
+D (εγγύτερο)C CS={A,B,C,I,J,K,M},   TS={D,E,F,G,H,L}
+Ε (εγγύτερο)K CS={A,B,C,I,J,K,M},   TS={D,E,F,G,H,L}
+F (εγγύτερο)B CS={A,B,C,I,J,K,M},   TS={D,E,F,G,H,L}
+G (εγγύτερο)K CS={A,B,C,I,J,K,M},   TS={D,E,F,G,H,L}
+Η (εγγύτερο)Κ CS={A,B,C,H,I,J,K,M}, TS={D,E,F,G,L} (Stop<-False)
+L (εγγύτερο)I CS={A,B,C,H,I,J,K,M}, TS={D,E,F,G,L}
+
+3o repeat:
+Stop<-True
+D (εγγύτερο)C CS={A,B,C,H,I,J,K,M},     TS={D,E,F,G,L}
+E (εγγύτερο)Η CS={A,B,C,E,H,I,J,K,M},   TS={D,F,G,L} (Stop<-False)
+F (εγγύτερο)Ε CS={A,B,C,E,F,H,I,J,K,M}, TS={D,G,L}
+G (εγγύτερο)E CS={A,B,C,E,F,H,I,J,K,M}, TS={D,G,L}
+L (εγγύτερο)I CS={A,B,C,E,F,H,I,J,K,M}, TS={D,G,L}
+
+4o repeat:
+Stop<-True
+D (εγγύτερο)C CS={A,B,C,E,F,H,I,J,K,M}, TS={D,G,L}
+G (εγγύτερο)E CS={A,B,C,E,F,H,I,J,K,M}, TS={D,G,L}
+L (εγγύτερο)I CS={A,B,C,E,F,H,I,J,K,M}, TS={D,G,L}
+
+Stop=True, συνεπώς τερματίζει ο αλγόριθμος CNN.
+Τελικό CS={A,B,C,E,F,H,I,J,K,M} και TS={D,G,L}
+
+
+3)
+IB2 k=1
+CS={},TS={A,B,C,D,E,F,G,H,I,J,K,L,M}
+CS={A},TS={B,C,D,E,F,G,H,I,J,K,L,M}
+
+Β (εγγύτερο)Α CS={A,B},           TS{C,D,E,F,G,H,I,J,K,L,M}
+C (εγγύτερο)Α CS={A,B,C},         TS={D,E,F,G,H,I,J,K,L,M}
+D (εγγύτερο)C CS={A,B,C},         TS={E,F,G,H,I,J,K,L,M}
+E (εγγύτερο)A CS={A,B,C},         TS={F,G,H,I,J,K,L,M}
+F (εγγύτερο)B CS={A,B,C},         TS={G,H,I,J,K,L,M}
+G (εγγύτερο)A CS={A,B,C},         TS={H,I,J,K,L,M}
+Η (εγγύτερο)B CS={A,B,C},         TS={I,J,K,L,M}
+I (εγγύτερο)C CS={A,B,C,I},       TS={J,K,L,M}
+J (εγγύτερο)I CS={A,B,C,I,J},     TS={K,L,M}
+K (εγγύτερο)J CS={A,B,C,I,J,K},   TS={L,M}
+L (εγγύτερο)I CS={A,B,C,I,J,K},   TS={M}
+M (εγγύτερο)I CS={A,B,C,I,J,K,M}, TS={}
+
+Τελικό CS={A,B,C,I,J,K,M}
+ 
+
+
+
+
+
+
+
+
