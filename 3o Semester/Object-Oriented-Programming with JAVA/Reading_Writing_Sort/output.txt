@@ -1,0 +1,3 @@
+City: Thessaloniki
+Onoma: Vasilis
+Age: 23
