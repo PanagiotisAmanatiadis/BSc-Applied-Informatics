@@ -1,0 +1,39 @@
+1)πSpecialization.ssn (σ Category.name='tennis' (σ Specialization.categoryID=Category.id
+(Specialization⨝Category))) ∩ π Specialization.ssn (σ Category.name='golf' (σ
+Specialization.categoryID=Category.id (Specialization⨝Category)))
+
+2)πSpecialization.ssn (σ Category.name='tennis' (σ Specialization.categoryID=Category.id
+(Specialization⨝Category)) ∪ σ Category.name='ski' (σ
+Specialization.categoryID=Category.id (Specialization⨝Category)))
+
+3)πtype (σCategory.id=Specialization.categoryID ∧ name='snowboard' (Category⨝ Salesperson⨝ Specialization))
+
+4)πCategory.name, Category.season (σ Specialization.last_spec_date >= date('2014-01-01') (σ
+Specialization.categoryID=Category.id (Specialization⨝Category))) - πCategory.name, Category.season (σ Specialization.last_spec_date < date('2014-01-01') (σ
+Specialization.categoryID=Category.id (Specialization⨝Category)))
+
+
+5)πSalesperson2.firstname, Salesperson2.lastname (σ Salesperson1.ssn=Salesperson2.boss
+(σ Salesperson1.firstname='Bradley' ∧ Salesperson1.lastname='Salinas' ((ρ Salesperson1
+Salesperson) ⨯ (ρ Salesperson2 Salesperson))))
+
+6)πtype,firstname,lastname (σ firstname like 'G%' ∨ lastname like 'M%'  (πtype,firstname,lastname σtype!='trainee' Salesperson ))
+
+7)πTable2.ssn,Table2.firstname,Table2.lastname (σ Table1.categoryID=Table2.categoryID
+(σ Table1.ssn='9771-50397' ((ρ Table1 (Specialization⨝Salesperson)) ⨯ (ρ Table2
+(Specialization⨝Salesperson))))) - πssn,firstname,lastname (σssn='9771-50397' Salesperson)
+
+8)πTable1.firstname,Table1.lastname (σ Table1.ssn = Table2.ssn ∧ Table2.ssn = Table3.ssn
+∧ Table1.categoryID ≠ Table2.categoryID ∧ Table2.categoryID ≠ Table3.categoryID ∧
+Table3.categoryID ≠ Table1.categoryID ((ρ Table1 (Salesperson⨝Specialization)) ⨯ (ρ Table2
+(Salesperson⨝Specialization)) ⨯ (ρ Table3 (Salesperson⨝Specialization))))
+
+9)πSpecialization.ssn, Specialization.categoryID, Specialization.last_spec_date Specialization -
+π Specialization1.ssn , Specialization1.categoryID ,Specialization1.last_spec_date (σ
+Specialization1.last_spec_date > Specialization2.last_spec_date ((ρ Specialization1
+Specialization) ⨯ (ρ Specialization2 Specialization)))
+
+
+10)(π Specialization.categoryID, Salesperson.type (σ Specialization.categoryID=Category.id
+(Specialization⨝Salesperson⨝Category))) ÷ (π Salesperson.type (σ
+Specialization.categoryID=Category.id (Specialization⨝Salesperson⨝Category)))
