@@ -1,0 +1,3 @@
+Total sum of movements to find goal_number:2, time: 1 milliseconds  
+factorial 
+root 

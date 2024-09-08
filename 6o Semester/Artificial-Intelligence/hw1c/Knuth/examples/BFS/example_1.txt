@@ -1,0 +1,13 @@
+Total sum of movements to find goal_number:12, time: 4 milliseconds  
+factorial 
+root 
+factorial 
+root 
+factorial 
+root 
+root 
+floor 
+root 
+factorial 
+root 
+floor 
