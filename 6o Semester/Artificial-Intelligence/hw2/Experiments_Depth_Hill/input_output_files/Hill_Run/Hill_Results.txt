@@ -1,0 +1,6821 @@
+
+
+C:\Users\user\Desktop\HW2-AI\input files>run.bat
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test10_1.txt Hill_Results
+
+
+Solution found with hill-climbing!
+P1=true  P2=false  P3=true  P4=false  P5=true  P6=true  P7=false  P8=true
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 0
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test10_2.txt Hill_Results
+
+
+Solution found with hill-climbing!
+P1=true  P2=false  P3=false  P4=false  P5=true  P6=true  P7=false  P8=true
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 1
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test10_3.txt Hill_Results
+
+
+Solution found with hill-climbing!
+P1=true  P2=false  P3=true  P4=false  P5=true  P6=true  P7=false  P8=true
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 0
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test10_4.txt Hill_Results
+
+
+Solution found with hill-climbing!
+P1=true  P2=false  P3=true  P4=true  P5=true  P6=true  P7=false  P8=true
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 1
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test10_5.txt Hill_Results
+
+
+Solution found with hill-climbing!
+P1=true  P2=false  P3=false  P4=false  P5=true  P6=true  P7=false  P8=true
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 1
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test10_6.txt Hill_Results
+
+
+Solution found with hill-climbing!
+P1=true  P2=true  P3=true  P4=false  P5=true  P6=true  P7=false  P8=true
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 1
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test10_7.txt Hill_Results
+
+
+Solution found with hill-climbing!
+P1=true  P2=false  P3=true  P4=false  P5=true  P6=true  P7=false  P8=true
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 0
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test10_8.txt Hill_Results
+
+
+Solution found with hill-climbing!
+P1=true  P2=true  P3=true  P4=false  P5=true  P6=true  P7=false  P8=true
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 1
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test10_9.txt Hill_Results
+
+
+Solution found with hill-climbing!
+P1=true  P2=false  P3=true  P4=false  P5=true  P6=true  P7=false  P8=true
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 0
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test10_10.txt Hill_Results
+
+
+Solution found with hill-climbing!
+P1=true  P2=false  P3=true  P4=false  P5=true  P6=true  P7=false  P8=true
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 0
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test10_1.txt Hill_Results
+
+
+Solution found with hill-climbing!
+P1=true  P2=false  P3=true  P4=false  P5=true  P6=true  P7=false  P8=true
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 0
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test10_2.txt Hill_Results
+
+
+Solution found with hill-climbing!
+P1=true  P2=false  P3=false  P4=false  P5=true  P6=true  P7=false  P8=true
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 1
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test10_3.txt Hill_Results
+
+
+Solution found with hill-climbing!
+P1=true  P2=false  P3=true  P4=false  P5=true  P6=true  P7=false  P8=true
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 0
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test10_4.txt Hill_Results
+
+
+Solution found with hill-climbing!
+P1=true  P2=false  P3=true  P4=true  P5=true  P6=true  P7=false  P8=true
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 1
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test10_5.txt Hill_Results
+
+
+Solution found with hill-climbing!
+P1=true  P2=false  P3=false  P4=false  P5=true  P6=true  P7=false  P8=true
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 1
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test10_6.txt Hill_Results
+
+
+Solution found with hill-climbing!
+P1=true  P2=true  P3=true  P4=false  P5=true  P6=true  P7=false  P8=true
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 1
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test10_7.txt Hill_Results
+
+
+Solution found with hill-climbing!
+P1=true  P2=false  P3=true  P4=false  P5=true  P6=true  P7=false  P8=true
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 0
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test10_8.txt Hill_Results
+
+
+Solution found with hill-climbing!
+P1=true  P2=true  P3=true  P4=false  P5=true  P6=true  P7=false  P8=true
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 1
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test10_9.txt Hill_Results
+
+
+Solution found with hill-climbing!
+P1=true  P2=false  P3=true  P4=false  P5=true  P6=true  P7=false  P8=true
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 0
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test10_10.txt Hill_Results
+
+
+Solution found with hill-climbing!
+P1=true  P2=false  P3=true  P4=false  P5=true  P6=true  P7=false  P8=true
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 0
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test10_1.txt Hill_Results
+
+
+Solution found with hill-climbing!
+P1=true  P2=false  P3=true  P4=false  P5=true  P6=true  P7=false  P8=true
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 0
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test10_2.txt Hill_Results
+
+
+Solution found with hill-climbing!
+P1=true  P2=false  P3=false  P4=false  P5=true  P6=true  P7=false  P8=true
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 1
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test10_3.txt Hill_Results
+
+
+Solution found with hill-climbing!
+P1=true  P2=false  P3=true  P4=false  P5=true  P6=true  P7=false  P8=true
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 0
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test10_4.txt Hill_Results
+
+
+Solution found with hill-climbing!
+P1=true  P2=false  P3=true  P4=true  P5=true  P6=true  P7=false  P8=true
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 1
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test10_5.txt Hill_Results
+
+
+Solution found with hill-climbing!
+P1=true  P2=false  P3=false  P4=false  P5=true  P6=true  P7=false  P8=true
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 1
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test10_6.txt Hill_Results
+
+
+Solution found with hill-climbing!
+P1=true  P2=true  P3=true  P4=false  P5=true  P6=true  P7=false  P8=true
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 1
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test10_7.txt Hill_Results
+
+
+Solution found with hill-climbing!
+P1=true  P2=false  P3=true  P4=false  P5=true  P6=true  P7=false  P8=true
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 0
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test10_8.txt Hill_Results
+
+
+Solution found with hill-climbing!
+P1=true  P2=true  P3=true  P4=false  P5=false  P6=false  P7=false  P8=false
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 0
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test10_9.txt Hill_Results
+
+
+Solution found with hill-climbing!
+P1=true  P2=true  P3=true  P4=false  P5=false  P6=false  P7=false  P8=false
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 0
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test10_10.txt Hill_Results
+
+
+Solution found with hill-climbing!
+P1=true  P2=true  P3=true  P4=false  P5=false  P6=false  P7=false  P8=false
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 0
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test10_1.txt Hill_Results
+
+
+Solution found with hill-climbing!
+P1=true  P2=true  P3=true  P4=true  P5=false  P6=false  P7=false  P8=false
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 1
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test10_2.txt Hill_Results
+
+
+Solution found with hill-climbing!
+P1=true  P2=true  P3=true  P4=false  P5=false  P6=false  P7=false  P8=false
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 0
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test10_3.txt Hill_Results
+
+
+Solution found with hill-climbing!
+P1=true  P2=false  P3=true  P4=false  P5=false  P6=false  P7=false  P8=false
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 1
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test10_4.txt Hill_Results
+
+
+Solution found with hill-climbing!
+P1=true  P2=true  P3=true  P4=false  P5=false  P6=false  P7=false  P8=false
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 0
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test10_5.txt Hill_Results
+
+
+Solution found with hill-climbing!
+P1=true  P2=true  P3=true  P4=false  P5=false  P6=false  P7=false  P8=false
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 0
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test10_6.txt Hill_Results
+
+
+Solution found with hill-climbing!
+P1=false  P2=true  P3=true  P4=false  P5=false  P6=false  P7=false  P8=false
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 1
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test10_7.txt Hill_Results
+
+
+Solution found with hill-climbing!
+P1=true  P2=true  P3=true  P4=false  P5=false  P6=false  P7=false  P8=false
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 0
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test10_8.txt Hill_Results
+
+
+Solution found with hill-climbing!
+P1=true  P2=true  P3=true  P4=false  P5=false  P6=false  P7=false  P8=false
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 0
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test10_9.txt Hill_Results
+
+
+Solution found with hill-climbing!
+P1=true  P2=true  P3=true  P4=false  P5=false  P6=false  P7=false  P8=false
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 0
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test10_10.txt Hill_Results
+
+
+Solution found with hill-climbing!
+P1=true  P2=true  P3=true  P4=false  P5=false  P6=false  P7=false  P8=false
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 0
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test10_1.txt Hill_Results
+
+
+Solution found with hill-climbing!
+P1=true  P2=true  P3=true  P4=true  P5=false  P6=false  P7=false  P8=false
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 1
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test10_2.txt Hill_Results
+
+
+Solution found with hill-climbing!
+P1=true  P2=true  P3=true  P4=false  P5=false  P6=false  P7=false  P8=false
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 0
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test10_3.txt Hill_Results
+
+
+Solution found with hill-climbing!
+P1=true  P2=false  P3=true  P4=false  P5=false  P6=false  P7=false  P8=false
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 1
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test10_4.txt Hill_Results
+
+
+Solution found with hill-climbing!
+P1=true  P2=true  P3=true  P4=false  P5=false  P6=false  P7=false  P8=false
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 0
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test10_5.txt Hill_Results
+
+
+Solution found with hill-climbing!
+P1=true  P2=true  P3=true  P4=false  P5=false  P6=false  P7=false  P8=false
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 0
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test10_6.txt Hill_Results
+
+
+Solution found with hill-climbing!
+P1=false  P2=true  P3=true  P4=false  P5=false  P6=false  P7=false  P8=false
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 1
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test10_7.txt Hill_Results
+
+
+Solution found with hill-climbing!
+P1=true  P2=true  P3=true  P4=false  P5=false  P6=false  P7=false  P8=false
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 0
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test10_8.txt Hill_Results
+
+
+Solution found with hill-climbing!
+P1=true  P2=true  P3=true  P4=false  P5=false  P6=false  P7=false  P8=false
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 0
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test10_9.txt Hill_Results
+
+
+Solution found with hill-climbing!
+P1=true  P2=true  P3=true  P4=false  P5=false  P6=false  P7=false  P8=false
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 0
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test10_10.txt Hill_Results
+
+
+Solution found with hill-climbing!
+P1=true  P2=true  P3=true  P4=false  P5=false  P6=false  P7=false  P8=false
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 0
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test20_1.txt Hill_Results
+
+
+Solution found with hill-climbing!
+P1=true  P2=true  P3=true  P4=true  P5=false  P6=false  P7=false  P8=false
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 1
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test20_2.txt Hill_Results
+
+
+Solution found with hill-climbing!
+P1=false  P2=true  P3=true  P4=false  P5=false  P6=false  P7=false  P8=false
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 1
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test20_3.txt Hill_Results
+
+
+Solution found with hill-climbing!
+P1=false  P2=true  P3=true  P4=false  P5=false  P6=false  P7=false  P8=false
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 1
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test20_4.txt Hill_Results
+
+
+Solution found with hill-climbing!
+P1=true  P2=false  P3=true  P4=false  P5=false  P6=false  P7=false  P8=false
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 1
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test20_5.txt Hill_Results
+
+
+Solution found with hill-climbing!
+P1=true  P2=true  P3=true  P4=true  P5=false  P6=false  P7=false  P8=false
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 1
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test20_6.txt Hill_Results
+
+
+Solution found with hill-climbing!
+P1=true  P2=true  P3=true  P4=false  P5=false  P6=false  P7=false  P8=false
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 0
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test20_7.txt Hill_Results
+
+
+Solution found with hill-climbing!
+P1=false  P2=true  P3=true  P4=false  P5=false  P6=false  P7=false  P8=false
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 1
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test20_8.txt Hill_Results
+
+
+Solution found with hill-climbing!
+P1=true  P2=false  P3=true  P4=false  P5=false  P6=false  P7=false  P8=false
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 1
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test20_9.txt Hill_Results
+
+
+Solution found with hill-climbing!
+P1=true  P2=false  P3=true  P4=false  P5=false  P6=false  P7=false  P8=false
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 1
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test20_10.txt Hill_Results
+
+
+Solution found with hill-climbing!
+P1=true  P2=true  P3=true  P4=false  P5=false  P6=false  P7=false  P8=false
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 0
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test20_1.txt Hill_Results
+
+
+Solution found with hill-climbing!
+P1=true  P2=true  P3=true  P4=true  P5=false  P6=false  P7=false  P8=false
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 1
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test20_2.txt Hill_Results
+
+
+Solution found with hill-climbing!
+P1=false  P2=true  P3=true  P4=false  P5=false  P6=false  P7=false  P8=false
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 1
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test20_3.txt Hill_Results
+
+
+Solution found with hill-climbing!
+P1=false  P2=true  P3=true  P4=false  P5=false  P6=false  P7=false  P8=false
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 1
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test20_4.txt Hill_Results
+
+
+Solution found with hill-climbing!
+P1=true  P2=false  P3=true  P4=false  P5=false  P6=false  P7=false  P8=false
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 1
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test20_5.txt Hill_Results
+
+
+Solution found with hill-climbing!
+P1=true  P2=true  P3=true  P4=true  P5=false  P6=false  P7=false  P8=false
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 1
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test20_6.txt Hill_Results
+
+
+Solution found with hill-climbing!
+P1=true  P2=true  P3=true  P4=false  P5=false  P6=false  P7=false  P8=false
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 0
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test20_7.txt Hill_Results
+
+
+Solution found with hill-climbing!
+P1=false  P2=true  P3=true  P4=false  P5=false  P6=false  P7=false  P8=false
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 1
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test20_8.txt Hill_Results
+
+
+Solution found with hill-climbing!
+P1=true  P2=true  P3=false  P4=false  P5=false  P6=false  P7=false  P8=false
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 1
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test20_9.txt Hill_Results
+
+
+Solution found with hill-climbing!
+P1=false  P2=true  P3=false  P4=false  P5=false  P6=true  P7=false  P8=false
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 1
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test20_10.txt Hill_Results
+
+
+Solution found with hill-climbing!
+P1=true  P2=true  P3=false  P4=false  P5=false  P6=true  P7=false  P8=false
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 0
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test20_1.txt Hill_Results
+
+
+Solution found with hill-climbing!
+P1=true  P2=false  P3=false  P4=false  P5=false  P6=false  P7=false  P8=false
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 2
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test20_2.txt Hill_Results
+
+
+Solution found with hill-climbing!
+P1=true  P2=true  P3=false  P4=true  P5=false  P6=false  P7=false  P8=false
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 2
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test20_3.txt Hill_Results
+
+
+Solution found with hill-climbing!
+P1=true  P2=true  P3=false  P4=false  P5=false  P6=true  P7=false  P8=false
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 0
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test20_4.txt Hill_Results
+
+
+Solution found with hill-climbing!
+P1=true  P2=false  P3=false  P4=false  P5=false  P6=true  P7=false  P8=false
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 1
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test20_5.txt Hill_Results
+
+
+Solution found with hill-climbing!
+P1=true  P2=true  P3=false  P4=false  P5=false  P6=true  P7=false  P8=false
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 0
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test20_6.txt Hill_Results
+
+
+Solution found with hill-climbing!
+P1=true  P2=true  P3=false  P4=false  P5=false  P6=false  P7=false  P8=false
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 1
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test20_7.txt Hill_Results
+
+
+Solution found with hill-climbing!
+P1=false  P2=true  P3=false  P4=false  P5=false  P6=true  P7=false  P8=false
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 1
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test20_8.txt Hill_Results
+
+
+Solution found with hill-climbing!
+P1=true  P2=true  P3=false  P4=false  P5=false  P6=false  P7=false  P8=false
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 1
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test20_9.txt Hill_Results
+
+
+Solution found with hill-climbing!
+P1=false  P2=true  P3=false  P4=false  P5=false  P6=true  P7=false  P8=false
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 1
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test20_10.txt Hill_Results
+
+
+Solution found with hill-climbing!
+P1=true  P2=true  P3=false  P4=false  P5=false  P6=true  P7=false  P8=false
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 0
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test20_1.txt Hill_Results
+
+
+Solution found with hill-climbing!
+P1=true  P2=false  P3=false  P4=false  P5=false  P6=false  P7=false  P8=false
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 2
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test20_2.txt Hill_Results
+
+
+Solution found with hill-climbing!
+P1=true  P2=true  P3=false  P4=true  P5=false  P6=false  P7=false  P8=false
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 2
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test20_3.txt Hill_Results
+
+
+Solution found with hill-climbing!
+P1=true  P2=true  P3=false  P4=false  P5=false  P6=true  P7=false  P8=false
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 0
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test20_4.txt Hill_Results
+
+
+Solution found with hill-climbing!
+P1=true  P2=false  P3=false  P4=false  P5=false  P6=true  P7=false  P8=false
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 1
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test20_5.txt Hill_Results
+
+
+Solution found with hill-climbing!
+P1=true  P2=true  P3=false  P4=false  P5=false  P6=true  P7=false  P8=false
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 0
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test20_6.txt Hill_Results
+
+
+Solution found with hill-climbing!
+P1=true  P2=true  P3=false  P4=false  P5=false  P6=false  P7=false  P8=false
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 1
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test20_7.txt Hill_Results
+
+
+Solution found with hill-climbing!
+P1=false  P2=true  P3=false  P4=false  P5=false  P6=true  P7=false  P8=false
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 1
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test20_8.txt Hill_Results
+
+
+Solution found with hill-climbing!
+P1=true  P2=true  P3=false  P4=false  P5=false  P6=false  P7=false  P8=false
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 1
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test20_9.txt Hill_Results
+
+
+Solution found with hill-climbing!
+P1=false  P2=true  P3=false  P4=false  P5=false  P6=true  P7=false  P8=false
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 1
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test20_10.txt Hill_Results
+
+
+Solution found with hill-climbing!
+P1=true  P2=true  P3=false  P4=false  P5=false  P6=true  P7=false  P8=false
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 0
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test20_1.txt Hill_Results
+
+
+Solution found with hill-climbing!
+P1=true  P2=false  P3=false  P4=false  P5=false  P6=false  P7=false  P8=false
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 2
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test20_2.txt Hill_Results
+
+
+Solution found with hill-climbing!
+P1=true  P2=true  P3=false  P4=true  P5=false  P6=false  P7=false  P8=false
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 2
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test20_3.txt Hill_Results
+
+
+Solution found with hill-climbing!
+P1=true  P2=true  P3=false  P4=false  P5=false  P6=true  P7=false  P8=false
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 0
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test20_4.txt Hill_Results
+
+
+Solution found with hill-climbing!
+P1=true  P2=false  P3=false  P4=false  P5=false  P6=true  P7=false  P8=false
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 1
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test20_5.txt Hill_Results
+
+
+Solution found with hill-climbing!
+P1=true  P2=true  P3=false  P4=false  P5=false  P6=true  P7=false  P8=false
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 0
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test20_6.txt Hill_Results
+
+
+Solution found with hill-climbing!
+P1=true  P2=true  P3=false  P4=false  P5=false  P6=false  P7=false  P8=false
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 1
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test20_7.txt Hill_Results
+
+
+Solution found with hill-climbing!
+P1=false  P2=true  P3=false  P4=false  P5=false  P6=true  P7=false  P8=false
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 1
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test20_8.txt Hill_Results
+
+
+Solution found with hill-climbing!
+P1=true  P2=true  P3=false  P4=false  P5=false  P6=false  P7=false  P8=false
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 1
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test20_9.txt Hill_Results
+
+
+Solution found with hill-climbing!
+P1=false  P2=true  P3=false  P4=false  P5=false  P6=true  P7=false  P8=false
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 1
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test20_10.txt Hill_Results
+
+
+Solution found with hill-climbing!
+P1=true  P2=true  P3=false  P4=false  P5=false  P6=true  P7=false  P8=false
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 0
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test30_1.txt Hill_Results
+
+
+Solution found with hill-climbing!
+P1=true  P2=true  P3=true  P4=false  P5=false  P6=true  P7=false  P8=false
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 1
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test30_2.txt Hill_Results
+
+
+Solution found with hill-climbing!
+P1=true  P2=true  P3=false  P4=false  P5=false  P6=false  P7=false  P8=false
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 1
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test30_3.txt Hill_Results
+
+
+Solution found with hill-climbing!
+P1=true  P2=true  P3=false  P4=false  P5=false  P6=true  P7=false  P8=false
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 0
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test30_4.txt Hill_Results
+
+
+Solution found with hill-climbing!
+P1=true  P2=true  P3=false  P4=false  P5=false  P6=true  P7=false  P8=false
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 0
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test30_5.txt Hill_Results
+
+
+Solution found with hill-climbing!
+P1=true  P2=true  P3=false  P4=false  P5=false  P6=false  P7=false  P8=false
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 1
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test30_6.txt Hill_Results
+
+
+Solution found with hill-climbing!
+P1=true  P2=false  P3=false  P4=true  P5=true  P6=true  P7=false  P8=false
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 1
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test30_7.txt Hill_Results
+
+
+Solution found with hill-climbing!
+P1=false  P2=false  P3=false  P4=true  P5=true  P6=true  P7=false  P8=true
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 1
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test30_8.txt Hill_Results
+
+
+Solution found with hill-climbing!
+P1=true  P2=true  P3=false  P4=true  P5=false  P6=true  P7=false  P8=true
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 2
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test30_9.txt Hill_Results
+
+
+Solution found with hill-climbing!
+P1=true  P2=true  P3=false  P4=true  P5=true  P6=true  P7=false  P8=true
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 1
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test30_10.txt Hill_Results
+
+
+Solution found with hill-climbing!
+P1=true  P2=true  P3=false  P4=true  P5=false  P6=true  P7=false  P8=true
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 2
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test30_1.txt Hill_Results
+
+
+Solution found with hill-climbing!
+P1=true  P2=false  P3=false  P4=true  P5=true  P6=false  P7=false  P8=true
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 1
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test30_2.txt Hill_Results
+
+
+Solution found with hill-climbing!
+P1=false  P2=false  P3=false  P4=true  P5=true  P6=true  P7=false  P8=true
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 1
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test30_3.txt Hill_Results
+
+
+Solution found with hill-climbing!
+P1=false  P2=true  P3=false  P4=true  P5=true  P6=true  P7=false  P8=true
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 2
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test30_4.txt Hill_Results
+
+
+Solution found with hill-climbing!
+P1=true  P2=false  P3=true  P4=false  P5=true  P6=true  P7=false  P8=true
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 2
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test30_5.txt Hill_Results
+
+
+Solution found with hill-climbing!
+P1=true  P2=false  P3=false  P4=true  P5=false  P6=true  P7=false  P8=true
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 1
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test30_6.txt Hill_Results
+
+
+Solution found with hill-climbing!
+P1=true  P2=false  P3=false  P4=true  P5=true  P6=true  P7=false  P8=false
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 1
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test30_7.txt Hill_Results
+
+
+Solution found with hill-climbing!
+P1=false  P2=false  P3=false  P4=true  P5=true  P6=true  P7=false  P8=true
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 1
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test30_8.txt Hill_Results
+
+
+Solution found with hill-climbing!
+P1=true  P2=true  P3=false  P4=true  P5=false  P6=true  P7=false  P8=true
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 2
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test30_9.txt Hill_Results
+
+
+Solution found with hill-climbing!
+P1=true  P2=true  P3=false  P4=true  P5=true  P6=true  P7=false  P8=true
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 1
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test30_10.txt Hill_Results
+
+
+Solution found with hill-climbing!
+P1=true  P2=true  P3=false  P4=true  P5=false  P6=true  P7=false  P8=true
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 2
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test30_1.txt Hill_Results
+
+
+Solution found with hill-climbing!
+P1=true  P2=false  P3=false  P4=true  P5=true  P6=false  P7=false  P8=true
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 1
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test30_2.txt Hill_Results
+
+
+Solution found with hill-climbing!
+P1=false  P2=false  P3=false  P4=true  P5=true  P6=true  P7=false  P8=true
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 1
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test30_3.txt Hill_Results
+
+
+Solution found with hill-climbing!
+P1=false  P2=true  P3=false  P4=true  P5=true  P6=true  P7=false  P8=true
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 2
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test30_4.txt Hill_Results
+
+
+Solution found with hill-climbing!
+P1=true  P2=false  P3=true  P4=false  P5=true  P6=true  P7=false  P8=true
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 2
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test30_5.txt Hill_Results
+
+
+Solution found with hill-climbing!
+P1=true  P2=false  P3=false  P4=true  P5=false  P6=true  P7=false  P8=true
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 1
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test30_6.txt Hill_Results
+
+
+Solution found with hill-climbing!
+P1=true  P2=false  P3=false  P4=true  P5=true  P6=true  P7=false  P8=false
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 1
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test30_7.txt Hill_Results
+
+
+Solution found with hill-climbing!
+P1=false  P2=false  P3=false  P4=true  P5=true  P6=true  P7=false  P8=true
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 1
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test30_8.txt Hill_Results
+
+
+Solution found with hill-climbing!
+P1=true  P2=true  P3=false  P4=true  P5=false  P6=true  P7=false  P8=true
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 2
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test30_9.txt Hill_Results
+
+
+Solution found with hill-climbing!
+P1=true  P2=true  P3=false  P4=true  P5=true  P6=true  P7=false  P8=true
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 1
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test30_10.txt Hill_Results
+
+
+Solution found with hill-climbing!
+P1=true  P2=true  P3=false  P4=true  P5=false  P6=true  P7=false  P8=true
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 2
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test30_1.txt Hill_Results
+
+
+Solution found with hill-climbing!
+P1=true  P2=false  P3=false  P4=true  P5=true  P6=false  P7=false  P8=true
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 1
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test30_2.txt Hill_Results
+
+
+Solution found with hill-climbing!
+P1=false  P2=false  P3=false  P4=true  P5=true  P6=true  P7=false  P8=true
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 1
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test30_3.txt Hill_Results
+
+
+Solution found with hill-climbing!
+P1=false  P2=true  P3=false  P4=true  P5=true  P6=true  P7=false  P8=true
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 2
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test30_4.txt Hill_Results
+
+
+Solution found with hill-climbing!
+P1=true  P2=false  P3=true  P4=false  P5=true  P6=true  P7=false  P8=true
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 2
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test30_5.txt Hill_Results
+
+
+Solution found with hill-climbing!
+P1=true  P2=false  P3=false  P4=true  P5=false  P6=true  P7=false  P8=true
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 1
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test30_6.txt Hill_Results
+
+
+Solution found with hill-climbing!
+P1=true  P2=false  P3=false  P4=true  P5=true  P6=true  P7=false  P8=false
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 1
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test30_7.txt Hill_Results
+
+
+Solution found with hill-climbing!
+P1=false  P2=false  P3=false  P4=true  P5=true  P6=true  P7=false  P8=true
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 1
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test30_8.txt Hill_Results
+
+
+Solution found with hill-climbing!
+P1=true  P2=true  P3=false  P4=true  P5=false  P6=true  P7=false  P8=true
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 2
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test30_9.txt Hill_Results
+
+
+Solution found with hill-climbing!
+P1=true  P2=true  P3=false  P4=true  P5=true  P6=true  P7=false  P8=true
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 1
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test30_10.txt Hill_Results
+
+
+Solution found with hill-climbing!
+P1=true  P2=true  P3=false  P4=true  P5=false  P6=true  P7=false  P8=true
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 2
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test30_1.txt Hill_Results
+
+
+Solution found with hill-climbing!
+P1=true  P2=false  P3=false  P4=true  P5=true  P6=false  P7=false  P8=true
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 1
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test30_2.txt Hill_Results
+
+
+Solution found with hill-climbing!
+P1=false  P2=false  P3=false  P4=true  P5=true  P6=true  P7=false  P8=true
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 1
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test30_3.txt Hill_Results
+
+
+Solution found with hill-climbing!
+P1=false  P2=true  P3=false  P4=true  P5=true  P6=true  P7=false  P8=true
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 2
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test30_4.txt Hill_Results
+
+
+Solution found with hill-climbing!
+P1=true  P2=false  P3=true  P4=false  P5=true  P6=true  P7=false  P8=true
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 2
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test30_5.txt Hill_Results
+
+
+Solution found with hill-climbing!
+P1=true  P2=false  P3=false  P4=true  P5=false  P6=true  P7=false  P8=true
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 1
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test30_6.txt Hill_Results
+
+
+Solution found with hill-climbing!
+P1=true  P2=false  P3=false  P4=true  P5=true  P6=true  P7=false  P8=false
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 1
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test30_7.txt Hill_Results
+
+
+Solution found with hill-climbing!
+P1=false  P2=false  P3=false  P4=true  P5=true  P6=true  P7=false  P8=true
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 1
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test30_8.txt Hill_Results
+
+
+Solution found with hill-climbing!
+P1=true  P2=true  P3=false  P4=true  P5=false  P6=true  P7=false  P8=true
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 2
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test30_9.txt Hill_Results
+
+
+Solution found with hill-climbing!
+P1=true  P2=true  P3=false  P4=true  P5=true  P6=true  P7=false  P8=true
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 1
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test30_10.txt Hill_Results
+
+
+Solution found with hill-climbing!
+P1=true  P2=true  P3=false  P4=true  P5=false  P6=true  P7=false  P8=true
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 2
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test40_1.txt Hill_Results
+
+
+Solution found with hill-climbing!
+P1=false  P2=false  P3=false  P4=false  P5=true  P6=true  P7=false  P8=true
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 2
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test40_2.txt Hill_Results
+
+
+Solution found with hill-climbing!
+P1=true  P2=false  P3=false  P4=false  P5=true  P6=false  P7=true  P8=true
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 2
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test40_3.txt Hill_Results
+
+
+Solution found with hill-climbing!
+P1=true  P2=true  P3=true  P4=true  P5=true  P6=true  P7=false  P8=false
+Time spent: 0.000000 secs
+Number of restarts: 1
+Number of steps: 1
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test40_4.txt Hill_Results
+
+
+Solution found with hill-climbing!
+P1=true  P2=true  P3=false  P4=true  P5=false  P6=false  P7=true  P8=true
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 1
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test40_5.txt Hill_Results
+
+
+Solution found with hill-climbing!
+P1=true  P2=true  P3=false  P4=true  P5=true  P6=true  P7=true  P8=true
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 1
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test40_6.txt Hill_Results
+
+
+Solution found with hill-climbing!
+P1=true  P2=false  P3=false  P4=true  P5=false  P6=true  P7=true  P8=true
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 3
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test40_7.txt Hill_Results
+
+
+Solution found with hill-climbing!
+P1=true  P2=false  P3=false  P4=true  P5=true  P6=false  P7=true  P8=true
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 1
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test40_8.txt Hill_Results
+
+
+Solution found with hill-climbing!
+P1=true  P2=true  P3=false  P4=true  P5=true  P6=false  P7=true  P8=true
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 0
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test40_9.txt Hill_Results
+
+
+Solution found with hill-climbing!
+P1=false  P2=true  P3=false  P4=true  P5=true  P6=false  P7=true  P8=true
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 1
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test40_10.txt Hill_Results
+
+
+Solution found with hill-climbing!
+P1=true  P2=true  P3=true  P4=true  P5=true  P6=false  P7=true  P8=true
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 1
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test40_1.txt Hill_Results
+
+
+Solution found with hill-climbing!
+P1=true  P2=false  P3=false  P4=true  P5=true  P6=false  P7=true  P8=false
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 2
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test40_2.txt Hill_Results
+
+
+Solution found with hill-climbing!
+P1=true  P2=false  P3=false  P4=false  P5=true  P6=false  P7=true  P8=true
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 2
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test40_3.txt Hill_Results
+
+
+Solution found with hill-climbing!
+P1=true  P2=true  P3=true  P4=true  P5=true  P6=true  P7=false  P8=false
+Time spent: 0.000000 secs
+Number of restarts: 1
+Number of steps: 1
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test40_4.txt Hill_Results
+
+
+Solution found with hill-climbing!
+P1=true  P2=true  P3=false  P4=true  P5=false  P6=false  P7=true  P8=true
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 1
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test40_5.txt Hill_Results
+
+
+Solution found with hill-climbing!
+P1=true  P2=true  P3=false  P4=true  P5=true  P6=true  P7=true  P8=true
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 1
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test40_6.txt Hill_Results
+
+
+Solution found with hill-climbing!
+P1=true  P2=false  P3=false  P4=true  P5=false  P6=true  P7=true  P8=true
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 3
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test40_7.txt Hill_Results
+
+
+Solution found with hill-climbing!
+P1=true  P2=false  P3=false  P4=true  P5=true  P6=false  P7=true  P8=true
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 1
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test40_8.txt Hill_Results
+
+
+Solution found with hill-climbing!
+P1=true  P2=true  P3=false  P4=true  P5=true  P6=false  P7=true  P8=true
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 0
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test40_9.txt Hill_Results
+
+
+Solution found with hill-climbing!
+P1=false  P2=true  P3=false  P4=true  P5=true  P6=false  P7=true  P8=true
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 1
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test40_10.txt Hill_Results
+
+
+Solution found with hill-climbing!
+P1=true  P2=true  P3=true  P4=true  P5=true  P6=false  P7=true  P8=true
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 1
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test40_1.txt Hill_Results
+
+
+Solution found with hill-climbing!
+P1=true  P2=false  P3=false  P4=true  P5=true  P6=false  P7=true  P8=false
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 2
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test40_2.txt Hill_Results
+
+
+Solution found with hill-climbing!
+P1=true  P2=false  P3=false  P4=false  P5=true  P6=false  P7=true  P8=true
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 2
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test40_3.txt Hill_Results
+
+
+Solution found with hill-climbing!
+P1=true  P2=true  P3=true  P4=true  P5=true  P6=true  P7=false  P8=false
+Time spent: 0.000000 secs
+Number of restarts: 1
+Number of steps: 1
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test40_4.txt Hill_Results
+
+
+Solution found with hill-climbing!
+P1=true  P2=true  P3=false  P4=true  P5=false  P6=false  P7=true  P8=true
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 1
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test40_5.txt Hill_Results
+
+
+Solution found with hill-climbing!
+P1=true  P2=true  P3=false  P4=true  P5=true  P6=true  P7=true  P8=true
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 1
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test40_6.txt Hill_Results
+
+
+Solution found with hill-climbing!
+P1=true  P2=false  P3=false  P4=true  P5=false  P6=true  P7=true  P8=true
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 3
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test40_7.txt Hill_Results
+
+
+Solution found with hill-climbing!
+P1=true  P2=false  P3=false  P4=true  P5=true  P6=false  P7=true  P8=true
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 1
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test40_8.txt Hill_Results
+
+
+Solution found with hill-climbing!
+P1=true  P2=true  P3=false  P4=true  P5=true  P6=false  P7=true  P8=true
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 0
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test40_9.txt Hill_Results
+
+
+Solution found with hill-climbing!
+P1=false  P2=true  P3=false  P4=true  P5=true  P6=false  P7=true  P8=true
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 1
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test40_10.txt Hill_Results
+
+
+Solution found with hill-climbing!
+P1=true  P2=true  P3=true  P4=true  P5=true  P6=false  P7=true  P8=true
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 1
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test40_1.txt Hill_Results
+
+
+Solution found with hill-climbing!
+P1=true  P2=false  P3=false  P4=true  P5=true  P6=false  P7=true  P8=false
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 2
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test40_2.txt Hill_Results
+
+
+Solution found with hill-climbing!
+P1=true  P2=false  P3=false  P4=false  P5=true  P6=false  P7=true  P8=true
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 2
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test40_3.txt Hill_Results
+
+
+Solution found with hill-climbing!
+P1=true  P2=true  P3=true  P4=true  P5=true  P6=true  P7=false  P8=false
+Time spent: 0.000000 secs
+Number of restarts: 1
+Number of steps: 1
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test40_4.txt Hill_Results
+
+
+Solution found with hill-climbing!
+P1=true  P2=true  P3=false  P4=true  P5=false  P6=false  P7=true  P8=true
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 1
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test40_5.txt Hill_Results
+
+
+Solution found with hill-climbing!
+P1=true  P2=true  P3=false  P4=true  P5=true  P6=true  P7=true  P8=true
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 1
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test40_6.txt Hill_Results
+
+
+Solution found with hill-climbing!
+P1=true  P2=false  P3=false  P4=true  P5=false  P6=true  P7=true  P8=true
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 3
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test40_7.txt Hill_Results
+
+
+Solution found with hill-climbing!
+P1=true  P2=false  P3=false  P4=true  P5=true  P6=false  P7=true  P8=true
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 1
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test40_8.txt Hill_Results
+
+
+Solution found with hill-climbing!
+P1=true  P2=true  P3=false  P4=true  P5=true  P6=false  P7=true  P8=true
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 0
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test40_9.txt Hill_Results
+
+
+Solution found with hill-climbing!
+P1=false  P2=true  P3=false  P4=true  P5=true  P6=false  P7=true  P8=true
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 1
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test40_10.txt Hill_Results
+
+
+Solution found with hill-climbing!
+P1=true  P2=true  P3=true  P4=true  P5=true  P6=false  P7=true  P8=true
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 1
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test40_1.txt Hill_Results
+
+
+Solution found with hill-climbing!
+P1=true  P2=false  P3=false  P4=true  P5=true  P6=false  P7=true  P8=false
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 2
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test40_2.txt Hill_Results
+
+
+Solution found with hill-climbing!
+P1=true  P2=false  P3=false  P4=false  P5=true  P6=false  P7=true  P8=true
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 2
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test40_3.txt Hill_Results
+
+
+Solution found with hill-climbing!
+P1=true  P2=true  P3=true  P4=true  P5=true  P6=true  P7=false  P8=false
+Time spent: 0.000000 secs
+Number of restarts: 1
+Number of steps: 1
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test40_4.txt Hill_Results
+
+
+Solution found with hill-climbing!
+P1=true  P2=true  P3=false  P4=true  P5=false  P6=false  P7=true  P8=true
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 1
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test40_5.txt Hill_Results
+
+
+Solution found with hill-climbing!
+P1=true  P2=true  P3=false  P4=true  P5=true  P6=true  P7=true  P8=true
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 1
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test40_6.txt Hill_Results
+
+
+Solution found with hill-climbing!
+P1=true  P2=false  P3=false  P4=true  P5=false  P6=true  P7=true  P8=true
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 1
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test40_7.txt Hill_Results
+
+
+Solution found with hill-climbing!
+P1=false  P2=false  P3=true  P4=false  P5=false  P6=true  P7=false  P8=true
+Time spent: 0.000000 secs
+Number of restarts: 1
+Number of steps: 3
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test40_8.txt Hill_Results
+
+
+Solution found with hill-climbing!
+P1=true  P2=false  P3=false  P4=true  P5=false  P6=true  P7=true  P8=false
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 0
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test40_9.txt Hill_Results
+
+
+Solution found with hill-climbing!
+P1=true  P2=false  P3=false  P4=true  P5=false  P6=false  P7=false  P8=false
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 2
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test40_10.txt Hill_Results
+
+
+Solution found with hill-climbing!
+P1=true  P2=false  P3=false  P4=false  P5=true  P6=false  P7=false  P8=true
+Time spent: 0.000000 secs
+Number of restarts: 1
+Number of steps: 4
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test50_1.txt Hill_Results
+
+
+Solution found with hill-climbing!
+P1=true  P2=false  P3=true  P4=true  P5=false  P6=true  P7=true  P8=true
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 2
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test50_2.txt Hill_Results
+
+
+Solution found with hill-climbing!
+P1=true  P2=true  P3=false  P4=true  P5=false  P6=true  P7=true  P8=false
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 1
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test50_3.txt Hill_Results
+
+
+Solution found with hill-climbing!
+P1=true  P2=false  P3=false  P4=false  P5=true  P6=true  P7=false  P8=true
+Time spent: 0.000000 secs
+Number of restarts: 1
+Number of steps: 4
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test50_4.txt Hill_Results
+
+
+Solution found with hill-climbing!
+P1=true  P2=false  P3=false  P4=true  P5=false  P6=true  P7=false  P8=false
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 1
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test50_5.txt Hill_Results
+
+
+Solution found with hill-climbing!
+P1=false  P2=false  P3=false  P4=false  P5=false  P6=true  P7=false  P8=true
+Time spent: 0.000000 secs
+Number of restarts: 1
+Number of steps: 3
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test50_6.txt Hill_Results
+
+
+Solution found with hill-climbing!
+P1=true  P2=false  P3=false  P4=false  P5=false  P6=false  P7=true  P8=false
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 2
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test50_7.txt Hill_Results
+
+
+Solution found with hill-climbing!
+P1=true  P2=false  P3=true  P4=false  P5=true  P6=true  P7=false  P8=true
+Time spent: 0.000000 secs
+Number of restarts: 1
+Number of steps: 3
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test50_8.txt Hill_Results
+
+
+Solution found with hill-climbing!
+P1=true  P2=true  P3=false  P4=false  P5=false  P6=false  P7=true  P8=false
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 3
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test50_9.txt Hill_Results
+
+
+Solution found with hill-climbing!
+P1=true  P2=false  P3=false  P4=false  P5=false  P6=false  P7=true  P8=false
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 2
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test50_10.txt Hill_Results
+
+
+Solution found with hill-climbing!
+P1=true  P2=true  P3=false  P4=true  P5=true  P6=true  P7=true  P8=false
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 2
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test50_1.txt Hill_Results
+
+
+Solution found with hill-climbing!
+P1=true  P2=false  P3=true  P4=true  P5=false  P6=true  P7=true  P8=true
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 2
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test50_2.txt Hill_Results
+
+
+Solution found with hill-climbing!
+P1=true  P2=true  P3=false  P4=true  P5=false  P6=true  P7=true  P8=false
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 1
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test50_3.txt Hill_Results
+
+
+Solution found with hill-climbing!
+P1=true  P2=false  P3=false  P4=false  P5=true  P6=true  P7=false  P8=true
+Time spent: 0.000000 secs
+Number of restarts: 1
+Number of steps: 4
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test50_4.txt Hill_Results
+
+
+Solution found with hill-climbing!
+P1=true  P2=false  P3=false  P4=true  P5=false  P6=true  P7=false  P8=false
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 1
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test50_5.txt Hill_Results
+
+
+Solution found with hill-climbing!
+P1=false  P2=false  P3=false  P4=false  P5=false  P6=true  P7=false  P8=true
+Time spent: 0.000000 secs
+Number of restarts: 1
+Number of steps: 3
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test50_6.txt Hill_Results
+
+
+Solution found with hill-climbing!
+P1=true  P2=false  P3=false  P4=false  P5=false  P6=false  P7=true  P8=false
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 2
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test50_7.txt Hill_Results
+
+
+Solution found with hill-climbing!
+P1=true  P2=false  P3=true  P4=false  P5=true  P6=true  P7=false  P8=true
+Time spent: 0.000000 secs
+Number of restarts: 1
+Number of steps: 3
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test50_8.txt Hill_Results
+
+
+Solution found with hill-climbing!
+P1=true  P2=true  P3=false  P4=false  P5=false  P6=false  P7=true  P8=false
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 3
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test50_9.txt Hill_Results
+
+
+Solution found with hill-climbing!
+P1=true  P2=false  P3=false  P4=false  P5=false  P6=false  P7=true  P8=false
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 2
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test50_10.txt Hill_Results
+
+
+Solution found with hill-climbing!
+P1=true  P2=true  P3=false  P4=true  P5=true  P6=true  P7=true  P8=false
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 2
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test50_1.txt Hill_Results
+
+
+Solution found with hill-climbing!
+P1=true  P2=false  P3=true  P4=true  P5=false  P6=true  P7=true  P8=true
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 2
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test50_2.txt Hill_Results
+
+
+Solution found with hill-climbing!
+P1=true  P2=true  P3=false  P4=true  P5=false  P6=true  P7=true  P8=false
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 1
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test50_3.txt Hill_Results
+
+
+Solution found with hill-climbing!
+P1=true  P2=false  P3=false  P4=false  P5=true  P6=true  P7=false  P8=true
+Time spent: 0.000000 secs
+Number of restarts: 1
+Number of steps: 4
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test50_4.txt Hill_Results
+
+
+Solution found with hill-climbing!
+P1=true  P2=false  P3=false  P4=true  P5=false  P6=true  P7=false  P8=false
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 1
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test50_5.txt Hill_Results
+
+
+Solution found with hill-climbing!
+P1=false  P2=false  P3=false  P4=false  P5=false  P6=true  P7=false  P8=true
+Time spent: 0.000000 secs
+Number of restarts: 1
+Number of steps: 3
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test50_6.txt Hill_Results
+
+
+Solution found with hill-climbing!
+P1=true  P2=false  P3=false  P4=false  P5=false  P6=false  P7=true  P8=false
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 2
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test50_7.txt Hill_Results
+
+
+Solution found with hill-climbing!
+P1=true  P2=false  P3=true  P4=false  P5=true  P6=true  P7=false  P8=true
+Time spent: 0.000000 secs
+Number of restarts: 1
+Number of steps: 3
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test50_8.txt Hill_Results
+
+
+Solution found with hill-climbing!
+P1=true  P2=true  P3=false  P4=false  P5=false  P6=false  P7=true  P8=false
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 3
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test50_9.txt Hill_Results
+
+
+Solution found with hill-climbing!
+P1=true  P2=false  P3=false  P4=false  P5=false  P6=false  P7=true  P8=false
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 2
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test50_10.txt Hill_Results
+
+
+Solution found with hill-climbing!
+P1=true  P2=true  P3=false  P4=true  P5=true  P6=true  P7=true  P8=false
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 2
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test50_1.txt Hill_Results
+
+
+Solution found with hill-climbing!
+P1=true  P2=false  P3=true  P4=true  P5=false  P6=true  P7=true  P8=true
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 2
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test50_2.txt Hill_Results
+
+
+Solution found with hill-climbing!
+P1=true  P2=true  P3=false  P4=true  P5=false  P6=true  P7=true  P8=false
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 1
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test50_3.txt Hill_Results
+
+
+Solution found with hill-climbing!
+P1=true  P2=false  P3=false  P4=false  P5=true  P6=true  P7=false  P8=true
+Time spent: 0.000000 secs
+Number of restarts: 1
+Number of steps: 4
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test50_4.txt Hill_Results
+
+
+Solution found with hill-climbing!
+P1=true  P2=false  P3=false  P4=true  P5=false  P6=true  P7=false  P8=false
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 1
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test50_5.txt Hill_Results
+
+
+Solution found with hill-climbing!
+P1=false  P2=false  P3=false  P4=false  P5=false  P6=true  P7=false  P8=true
+Time spent: 0.000000 secs
+Number of restarts: 1
+Number of steps: 3
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test50_6.txt Hill_Results
+
+
+Solution found with hill-climbing!
+P1=true  P2=false  P3=false  P4=false  P5=false  P6=false  P7=true  P8=false
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 2
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test50_7.txt Hill_Results
+
+
+Solution found with hill-climbing!
+P1=true  P2=false  P3=true  P4=false  P5=true  P6=true  P7=false  P8=true
+Time spent: 0.000000 secs
+Number of restarts: 1
+Number of steps: 3
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test50_8.txt Hill_Results
+
+
+Solution found with hill-climbing!
+P1=true  P2=true  P3=false  P4=false  P5=false  P6=false  P7=true  P8=false
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 3
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test50_9.txt Hill_Results
+
+
+Solution found with hill-climbing!
+P1=true  P2=false  P3=false  P4=false  P5=false  P6=false  P7=true  P8=false
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 2
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test50_10.txt Hill_Results
+
+
+Solution found with hill-climbing!
+P1=true  P2=true  P3=false  P4=true  P5=true  P6=true  P7=true  P8=false
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 2
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test50_1.txt Hill_Results
+
+
+Solution found with hill-climbing!
+P1=true  P2=false  P3=true  P4=true  P5=false  P6=true  P7=true  P8=true
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 2
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test50_2.txt Hill_Results
+
+
+Solution found with hill-climbing!
+P1=true  P2=true  P3=false  P4=true  P5=false  P6=true  P7=true  P8=false
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 1
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test50_3.txt Hill_Results
+
+
+Solution found with hill-climbing!
+P1=true  P2=false  P3=false  P4=false  P5=true  P6=true  P7=false  P8=true
+Time spent: 0.000000 secs
+Number of restarts: 1
+Number of steps: 4
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test50_4.txt Hill_Results
+
+
+Solution found with hill-climbing!
+P1=true  P2=false  P3=false  P4=true  P5=false  P6=true  P7=false  P8=false
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 1
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test50_5.txt Hill_Results
+
+
+Solution found with hill-climbing!
+P1=true  P2=false  P3=true  P4=true  P5=true  P6=true  P7=false  P8=false
+Time spent: 0.000000 secs
+Number of restarts: 2
+Number of steps: 5
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test50_6.txt Hill_Results
+
+
+Solution found with hill-climbing!
+P1=false  P2=false  P3=true  P4=true  P5=true  P6=false  P7=false  P8=false
+Time spent: 0.000000 secs
+Number of restarts: 2
+Number of steps: 8
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test50_7.txt Hill_Results
+
+
+Solution found with hill-climbing!
+P1=false  P2=false  P3=false  P4=false  P5=true  P6=true  P7=true  P8=false
+Time spent: 0.000000 secs
+Number of restarts: 5
+Number of steps: 9
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test50_8.txt Hill_Results
+
+
+Solution found with hill-climbing!
+P1=true  P2=false  P3=true  P4=false  P5=true  P6=false  P7=false  P8=false
+Time spent: 0.000000 secs
+Number of restarts: 2
+Number of steps: 6
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test50_9.txt Hill_Results
+
+
+Solution found with hill-climbing!
+P1=false  P2=true  P3=true  P4=false  P5=false  P6=false  P7=true  P8=false
+Time spent: 0.000000 secs
+Number of restarts: 1
+Number of steps: 4
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test50_10.txt Hill_Results
+
+
+Solution found with hill-climbing!
+P1=true  P2=true  P3=false  P4=true  P5=true  P6=true  P7=true  P8=false
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 2
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test60_1.txt Hill_Results
+
+
+Solution found with hill-climbing!
+P1=true  P2=false  P3=false  P4=true  P5=false  P6=true  P7=true  P8=false
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 2
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test60_2.txt Hill_Results
+
+
+Solution found with hill-climbing!
+P1=false  P2=false  P3=true  P4=false  P5=false  P6=false  P7=true  P8=false
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 4
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test60_3.txt Hill_Results
+
+
+Solution found with hill-climbing!
+P1=false  P2=false  P3=true  P4=true  P5=false  P6=true  P7=true  P8=false
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 2
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test60_4.txt Hill_Results
+
+
+Solution found with hill-climbing!
+P1=true  P2=false  P3=true  P4=false  P5=true  P6=false  P7=true  P8=false
+Time spent: 0.000000 secs
+Number of restarts: 4
+Number of steps: 10
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test60_5.txt Hill_Results
+
+
+Solution found with hill-climbing!
+P1=false  P2=false  P3=true  P4=false  P5=true  P6=false  P7=true  P8=true
+Time spent: 0.000000 secs
+Number of restarts: 4
+Number of steps: 12
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test60_6.txt Hill_Results
+
+
+Solution found with hill-climbing!
+P1=true  P2=false  P3=false  P4=true  P5=true  P6=true  P7=true  P8=true
+Time spent: 0.000000 secs
+Number of restarts: 4
+Number of steps: 9
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test60_7.txt Hill_Results
+
+
+Solution found with hill-climbing!
+P1=true  P2=true  P3=true  P4=false  P5=true  P6=false  P7=true  P8=true
+Time spent: 0.000000 secs
+Number of restarts: 4
+Number of steps: 11
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test60_8.txt Hill_Results
+
+
+Solution found with hill-climbing!
+P1=true  P2=false  P3=true  P4=true  P5=false  P6=true  P7=true  P8=true
+Time spent: 0.000000 secs
+Number of restarts: 9
+Number of steps: 24
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test60_9.txt Hill_Results
+
+
+Solution found with hill-climbing!
+P1=false  P2=true  P3=true  P4=true  P5=false  P6=false  P7=false  P8=false
+Time spent: 0.000000 secs
+Number of restarts: 1
+Number of steps: 3
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test60_10.txt Hill_Results
+
+
+Solution found with hill-climbing!
+P1=true  P2=true  P3=false  P4=false  P5=false  P6=true  P7=true  P8=false
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 2
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test60_1.txt Hill_Results
+
+
+Solution found with hill-climbing!
+P1=true  P2=false  P3=false  P4=true  P5=false  P6=true  P7=true  P8=false
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 2
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test60_2.txt Hill_Results
+
+
+Solution found with hill-climbing!
+P1=false  P2=false  P3=true  P4=false  P5=false  P6=false  P7=true  P8=false
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 4
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test60_3.txt Hill_Results
+
+
+Solution found with hill-climbing!
+P1=false  P2=false  P3=true  P4=true  P5=false  P6=true  P7=true  P8=false
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 2
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test60_4.txt Hill_Results
+
+
+Solution found with hill-climbing!
+P1=true  P2=false  P3=true  P4=false  P5=true  P6=false  P7=true  P8=false
+Time spent: 0.001000 secs
+Number of restarts: 4
+Number of steps: 10
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test60_5.txt Hill_Results
+
+
+Solution found with hill-climbing!
+P1=false  P2=false  P3=true  P4=false  P5=true  P6=false  P7=true  P8=true
+Time spent: 0.001000 secs
+Number of restarts: 4
+Number of steps: 12
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test60_6.txt Hill_Results
+
+
+Solution found with hill-climbing!
+P1=true  P2=false  P3=false  P4=true  P5=true  P6=true  P7=true  P8=true
+Time spent: 0.000000 secs
+Number of restarts: 4
+Number of steps: 9
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test60_7.txt Hill_Results
+
+
+Solution found with hill-climbing!
+P1=true  P2=true  P3=true  P4=false  P5=true  P6=false  P7=true  P8=true
+Time spent: 0.001000 secs
+Number of restarts: 4
+Number of steps: 11
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test60_8.txt Hill_Results
+
+
+Solution found with hill-climbing!
+P1=true  P2=false  P3=true  P4=true  P5=false  P6=true  P7=true  P8=true
+Time spent: 0.000000 secs
+Number of restarts: 9
+Number of steps: 24
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test60_9.txt Hill_Results
+
+
+Solution found with hill-climbing!
+P1=false  P2=true  P3=true  P4=true  P5=false  P6=false  P7=false  P8=false
+Time spent: 0.000000 secs
+Number of restarts: 1
+Number of steps: 3
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test60_10.txt Hill_Results
+
+
+Solution found with hill-climbing!
+P1=true  P2=true  P3=false  P4=false  P5=false  P6=true  P7=true  P8=false
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 2
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test60_1.txt Hill_Results
+
+
+Solution found with hill-climbing!
+P1=true  P2=false  P3=false  P4=true  P5=false  P6=true  P7=true  P8=false
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 2
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test60_2.txt Hill_Results
+
+
+Solution found with hill-climbing!
+P1=false  P2=false  P3=true  P4=false  P5=false  P6=false  P7=true  P8=false
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 4
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test60_3.txt Hill_Results
+
+
+Solution found with hill-climbing!
+P1=false  P2=false  P3=true  P4=true  P5=false  P6=true  P7=true  P8=false
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 2
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test60_4.txt Hill_Results
+
+
+Solution found with hill-climbing!
+P1=true  P2=false  P3=true  P4=false  P5=true  P6=false  P7=true  P8=false
+Time spent: 0.001000 secs
+Number of restarts: 4
+Number of steps: 10
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test60_5.txt Hill_Results
+
+
+Solution found with hill-climbing!
+P1=false  P2=false  P3=true  P4=false  P5=true  P6=false  P7=true  P8=true
+Time spent: 0.000000 secs
+Number of restarts: 4
+Number of steps: 12
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test60_6.txt Hill_Results
+
+
+Solution found with hill-climbing!
+P1=true  P2=false  P3=false  P4=true  P5=true  P6=true  P7=true  P8=true
+Time spent: 0.001000 secs
+Number of restarts: 4
+Number of steps: 9
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test60_7.txt Hill_Results
+
+
+Solution found with hill-climbing!
+P1=true  P2=true  P3=true  P4=false  P5=true  P6=false  P7=true  P8=true
+Time spent: 0.000000 secs
+Number of restarts: 4
+Number of steps: 11
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test60_8.txt Hill_Results
+
+
+Solution found with hill-climbing!
+P1=true  P2=false  P3=true  P4=true  P5=false  P6=true  P7=true  P8=true
+Time spent: 0.001000 secs
+Number of restarts: 9
+Number of steps: 24
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test60_9.txt Hill_Results
+
+
+Solution found with hill-climbing!
+P1=false  P2=true  P3=true  P4=true  P5=false  P6=false  P7=false  P8=false
+Time spent: 0.000000 secs
+Number of restarts: 1
+Number of steps: 3
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test60_10.txt Hill_Results
+
+
+Solution found with hill-climbing!
+P1=true  P2=true  P3=false  P4=false  P5=false  P6=true  P7=true  P8=false
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 2
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test60_1.txt Hill_Results
+
+
+Solution found with hill-climbing!
+P1=true  P2=false  P3=false  P4=true  P5=false  P6=true  P7=true  P8=false
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 2
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test60_2.txt Hill_Results
+
+
+Solution found with hill-climbing!
+P1=false  P2=false  P3=true  P4=false  P5=false  P6=false  P7=true  P8=false
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 4
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test60_3.txt Hill_Results
+
+
+Solution found with hill-climbing!
+P1=false  P2=false  P3=true  P4=true  P5=false  P6=true  P7=true  P8=false
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 2
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test60_4.txt Hill_Results
+
+
+Solution found with hill-climbing!
+P1=true  P2=false  P3=true  P4=false  P5=true  P6=false  P7=true  P8=false
+Time spent: 0.000000 secs
+Number of restarts: 4
+Number of steps: 10
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test60_5.txt Hill_Results
+
+
+Solution found with hill-climbing!
+P1=false  P2=false  P3=true  P4=false  P5=true  P6=false  P7=true  P8=true
+Time spent: 0.000000 secs
+Number of restarts: 4
+Number of steps: 12
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test60_6.txt Hill_Results
+
+
+Solution found with hill-climbing!
+P1=true  P2=false  P3=false  P4=true  P5=true  P6=true  P7=true  P8=true
+Time spent: 0.000000 secs
+Number of restarts: 4
+Number of steps: 9
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test60_7.txt Hill_Results
+
+
+Solution found with hill-climbing!
+P1=true  P2=true  P3=true  P4=false  P5=true  P6=false  P7=true  P8=true
+Time spent: 0.000000 secs
+Number of restarts: 4
+Number of steps: 11
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test60_8.txt Hill_Results
+
+
+Solution found with hill-climbing!
+P1=true  P2=false  P3=true  P4=true  P5=false  P6=true  P7=true  P8=true
+Time spent: 0.000000 secs
+Number of restarts: 9
+Number of steps: 24
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test60_9.txt Hill_Results
+
+
+Solution found with hill-climbing!
+P1=false  P2=true  P3=true  P4=true  P5=false  P6=false  P7=false  P8=false
+Time spent: 0.000000 secs
+Number of restarts: 1
+Number of steps: 3
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test60_10.txt Hill_Results
+
+
+Solution found with hill-climbing!
+P1=true  P2=true  P3=false  P4=false  P5=false  P6=true  P7=true  P8=false
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 2
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test60_1.txt Hill_Results
+
+
+Solution found with hill-climbing!
+P1=true  P2=false  P3=false  P4=true  P5=false  P6=true  P7=true  P8=false
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 2
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test60_2.txt Hill_Results
+
+
+Solution found with hill-climbing!
+P1=false  P2=false  P3=true  P4=false  P5=false  P6=false  P7=true  P8=false
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 4
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test60_3.txt Hill_Results
+
+
+Solution found with hill-climbing!
+P1=true  P2=false  P3=false  P4=false  P5=false  P6=false  P7=true  P8=true
+Time spent: 0.000000 secs
+Number of restarts: 1
+Number of steps: 3
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test60_4.txt Hill_Results
+
+
+Solution found with hill-climbing!
+P1=true  P2=false  P3=true  P4=false  P5=true  P6=false  P7=true  P8=false
+Time spent: 0.000000 secs
+Number of restarts: 1
+Number of steps: 4
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test60_5.txt Hill_Results
+
+
+Solution found with hill-climbing!
+P1=false  P2=false  P3=true  P4=false  P5=true  P6=false  P7=true  P8=true
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 2
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test60_6.txt Hill_Results
+
+
+Solution found with hill-climbing!
+P1=true  P2=false  P3=false  P4=true  P5=true  P6=true  P7=true  P8=true
+Time spent: 0.000000 secs
+Number of restarts: 1
+Number of steps: 4
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test60_7.txt Hill_Results
+
+
+Solution found with hill-climbing!
+P1=true  P2=true  P3=true  P4=false  P5=true  P6=false  P7=true  P8=true
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 2
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test60_8.txt Hill_Results
+
+
+Solution found with hill-climbing!
+P1=true  P2=true  P3=false  P4=true  P5=true  P6=false  P7=false  P8=true
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 3
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test60_9.txt Hill_Results
+
+
+Solution found with hill-climbing!
+P1=false  P2=false  P3=false  P4=false  P5=true  P6=false  P7=false  P8=true
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 2
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test60_10.txt Hill_Results
+
+
+Solution found with hill-climbing!
+P1=false  P2=true  P3=true  P4=true  P5=false  P6=false  P7=true  P8=false
+Time spent: 0.000000 secs
+Number of restarts: 6
+Number of steps: 15
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test70_1.txt Hill_Results
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.000999 secs
+Number of restarts: 812289
+Number of steps: 1931731
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test70_2.txt Hill_Results
+
+
+Solution found with hill-climbing!
+P1=false  P2=true  P3=true  P4=true  P5=true  P6=true  P7=true  P8=true
+Time spent: 0.000000 secs
+Number of restarts: 1
+Number of steps: 3
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test70_3.txt Hill_Results
+
+
+Solution found with hill-climbing!
+P1=false  P2=false  P3=true  P4=true  P5=false  P6=true  P7=true  P8=true
+Time spent: 0.000000 secs
+Number of restarts: 1
+Number of steps: 5
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test70_4.txt Hill_Results
+
+
+Solution found with hill-climbing!
+P1=false  P2=true  P3=false  P4=false  P5=false  P6=false  P7=false  P8=true
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 2
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test70_5.txt Hill_Results
+
+
+Solution found with hill-climbing!
+P1=true  P2=true  P3=false  P4=true  P5=true  P6=true  P7=true  P8=false
+Time spent: 0.001000 secs
+Number of restarts: 3
+Number of steps: 9
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test70_6.txt Hill_Results
+
+
+Solution found with hill-climbing!
+P1=false  P2=false  P3=true  P4=false  P5=false  P6=false  P7=true  P8=true
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 3
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test70_7.txt Hill_Results
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.000999 secs
+Number of restarts: 785330
+Number of steps: 2043669
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test70_8.txt Hill_Results
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.000999 secs
+Number of restarts: 849740
+Number of steps: 2038731
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test70_9.txt Hill_Results
+
+
+Solution found with hill-climbing!
+P1=false  P2=false  P3=false  P4=true  P5=false  P6=false  P7=false  P8=true
+Time spent: 0.000000 secs
+Number of restarts: 3
+Number of steps: 8
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test70_10.txt Hill_Results
+
+
+Solution found with hill-climbing!
+P1=false  P2=true  P3=true  P4=true  P5=false  P6=true  P7=false  P8=false
+Time spent: 0.000000 secs
+Number of restarts: 6
+Number of steps: 20
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test70_1.txt Hill_Results
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.000999 secs
+Number of restarts: 861545
+Number of steps: 2048859
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test70_2.txt Hill_Results
+
+
+Solution found with hill-climbing!
+P1=false  P2=true  P3=true  P4=true  P5=true  P6=true  P7=true  P8=true
+Time spent: 0.001000 secs
+Number of restarts: 4
+Number of steps: 10
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test70_3.txt Hill_Results
+
+
+Solution found with hill-climbing!
+P1=false  P2=false  P3=true  P4=true  P5=false  P6=true  P7=true  P8=true
+Time spent: 0.000000 secs
+Number of restarts: 2
+Number of steps: 5
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test70_4.txt Hill_Results
+
+
+Solution found with hill-climbing!
+P1=false  P2=false  P3=false  P4=true  P5=true  P6=true  P7=true  P8=true
+Time spent: 0.000000 secs
+Number of restarts: 1
+Number of steps: 4
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test70_5.txt Hill_Results
+
+
+Solution found with hill-climbing!
+P1=true  P2=true  P3=false  P4=true  P5=true  P6=true  P7=true  P8=false
+Time spent: 0.001000 secs
+Number of restarts: 4
+Number of steps: 12
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test70_6.txt Hill_Results
+
+
+Solution found with hill-climbing!
+P1=false  P2=false  P3=true  P4=false  P5=true  P6=false  P7=true  P8=true
+Time spent: 0.000000 secs
+Number of restarts: 1
+Number of steps: 4
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test70_7.txt Hill_Results
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.000999 secs
+Number of restarts: 794444
+Number of steps: 2067391
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test70_8.txt Hill_Results
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.000999 secs
+Number of restarts: 848348
+Number of steps: 2034293
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test70_9.txt Hill_Results
+
+
+Solution found with hill-climbing!
+P1=false  P2=false  P3=false  P4=true  P5=false  P6=false  P7=false  P8=true
+Time spent: 0.000000 secs
+Number of restarts: 2
+Number of steps: 5
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test70_10.txt Hill_Results
+
+
+Solution found with hill-climbing!
+P1=false  P2=true  P3=true  P4=true  P5=false  P6=true  P7=false  P8=false
+Time spent: 0.000000 secs
+Number of restarts: 2
+Number of steps: 7
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test70_1.txt Hill_Results
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.000999 secs
+Number of restarts: 865197
+Number of steps: 2057865
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test70_2.txt Hill_Results
+
+
+Solution found with hill-climbing!
+P1=false  P2=true  P3=true  P4=true  P5=true  P6=true  P7=true  P8=true
+Time spent: 0.001000 secs
+Number of restarts: 7
+Number of steps: 22
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test70_3.txt Hill_Results
+
+
+Solution found with hill-climbing!
+P1=false  P2=true  P3=false  P4=true  P5=false  P6=true  P7=true  P8=false
+Time spent: 0.000000 secs
+Number of restarts: 5
+Number of steps: 9
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test70_4.txt Hill_Results
+
+
+Solution found with hill-climbing!
+P1=false  P2=false  P3=false  P4=true  P5=true  P6=true  P7=true  P8=true
+Time spent: 0.000000 secs
+Number of restarts: 1
+Number of steps: 4
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test70_5.txt Hill_Results
+
+
+Solution found with hill-climbing!
+P1=true  P2=true  P3=false  P4=true  P5=true  P6=true  P7=true  P8=false
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 3
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test70_6.txt Hill_Results
+
+
+Solution found with hill-climbing!
+P1=false  P2=false  P3=true  P4=false  P5=true  P6=false  P7=true  P8=true
+Time spent: 0.000000 secs
+Number of restarts: 1
+Number of steps: 5
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test70_7.txt Hill_Results
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.000999 secs
+Number of restarts: 822530
+Number of steps: 2139271
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test70_8.txt Hill_Results
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.000999 secs
+Number of restarts: 889774
+Number of steps: 2135992
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test70_9.txt Hill_Results
+
+
+Solution found with hill-climbing!
+P1=true  P2=false  P3=false  P4=true  P5=true  P6=true  P7=true  P8=true
+Time spent: 0.001000 secs
+Number of restarts: 0
+Number of steps: 3
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test70_10.txt Hill_Results
+
+
+Solution found with hill-climbing!
+P1=false  P2=true  P3=true  P4=true  P5=false  P6=true  P7=false  P8=false
+Time spent: 0.000000 secs
+Number of restarts: 2
+Number of steps: 6
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test70_1.txt Hill_Results
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.000999 secs
+Number of restarts: 894353
+Number of steps: 2125804
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test70_2.txt Hill_Results
+
+
+Solution found with hill-climbing!
+P1=true  P2=true  P3=false  P4=true  P5=false  P6=true  P7=false  P8=true
+Time spent: 0.000000 secs
+Number of restarts: 1
+Number of steps: 7
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test70_3.txt Hill_Results
+
+
+Solution found with hill-climbing!
+P1=false  P2=false  P3=true  P4=true  P5=false  P6=true  P7=true  P8=true
+Time spent: 0.000000 secs
+Number of restarts: 4
+Number of steps: 11
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test70_4.txt Hill_Results
+
+
+Solution found with hill-climbing!
+P1=false  P2=false  P3=false  P4=true  P5=true  P6=false  P7=false  P8=true
+Time spent: 0.000000 secs
+Number of restarts: 1
+Number of steps: 6
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test70_5.txt Hill_Results
+
+
+Solution found with hill-climbing!
+P1=true  P2=false  P3=false  P4=false  P5=true  P6=true  P7=true  P8=true
+Time spent: 0.000000 secs
+Number of restarts: 6
+Number of steps: 16
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test70_6.txt Hill_Results
+
+
+Solution found with hill-climbing!
+P1=true  P2=false  P3=true  P4=false  P5=true  P6=true  P7=false  P8=false
+Time spent: 0.001000 secs
+Number of restarts: 0
+Number of steps: 2
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test70_7.txt Hill_Results
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.000999 secs
+Number of restarts: 821829
+Number of steps: 2137074
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test70_8.txt Hill_Results
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.000999 secs
+Number of restarts: 881602
+Number of steps: 2114284
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test70_9.txt Hill_Results
+
+
+Solution found with hill-climbing!
+P1=false  P2=false  P3=false  P4=true  P5=false  P6=false  P7=false  P8=true
+Time spent: 0.001000 secs
+Number of restarts: 3
+Number of steps: 4
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test70_10.txt Hill_Results
+
+
+Solution found with hill-climbing!
+P1=false  P2=true  P3=true  P4=true  P5=false  P6=true  P7=false  P8=false
+Time spent: 0.001000 secs
+Number of restarts: 4
+Number of steps: 14
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test70_1.txt Hill_Results
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.000999 secs
+Number of restarts: 890174
+Number of steps: 2117286
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test70_2.txt Hill_Results
+
+
+Solution found with hill-climbing!
+P1=false  P2=true  P3=true  P4=true  P5=true  P6=true  P7=true  P8=true
+Time spent: 0.000000 secs
+Number of restarts: 1
+Number of steps: 2
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test70_3.txt Hill_Results
+
+
+Solution found with hill-climbing!
+P1=false  P2=true  P3=true  P4=false  P5=true  P6=false  P7=false  P8=false
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 1
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test70_4.txt Hill_Results
+
+
+Solution found with hill-climbing!
+P1=false  P2=false  P3=false  P4=true  P5=true  P6=false  P7=false  P8=true
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 3
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test70_5.txt Hill_Results
+
+
+Solution found with hill-climbing!
+P1=true  P2=true  P3=false  P4=true  P5=true  P6=true  P7=true  P8=false
+Time spent: 0.000000 secs
+Number of restarts: 8
+Number of steps: 19
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test70_6.txt Hill_Results
+
+
+Solution found with hill-climbing!
+P1=true  P2=false  P3=true  P4=false  P5=true  P6=false  P7=false  P8=false
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 1
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test70_7.txt Hill_Results
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.000999 secs
+Number of restarts: 824764
+Number of steps: 2145858
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test70_8.txt Hill_Results
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.000999 secs
+Number of restarts: 883061
+Number of steps: 2118377
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test70_9.txt Hill_Results
+
+
+Solution found with hill-climbing!
+P1=true  P2=false  P3=false  P4=true  P5=true  P6=true  P7=true  P8=true
+Time spent: 0.000000 secs
+Number of restarts: 1
+Number of steps: 5
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test70_10.txt Hill_Results
+
+
+Solution found with hill-climbing!
+P1=false  P2=true  P3=true  P4=true  P5=false  P6=true  P7=false  P8=false
+Time spent: 0.001000 secs
+Number of restarts: 6
+Number of steps: 15
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test80_1.txt Hill_Results
+
+
+Solution found with hill-climbing!
+P1=true  P2=false  P3=true  P4=false  P5=false  P6=false  P7=true  P8=false
+Time spent: 0.000000 secs
+Number of restarts: 1
+Number of steps: 5
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test80_2.txt Hill_Results
+
+
+Solution found with hill-climbing!
+P1=true  P2=true  P3=true  P4=false  P5=true  P6=true  P7=false  P8=false
+Time spent: 0.001000 secs
+Number of restarts: 1
+Number of steps: 6
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test80_3.txt Hill_Results
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.000999 secs
+Number of restarts: 705060
+Number of steps: 1823094
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test80_4.txt Hill_Results
+
+
+Solution found with hill-climbing!
+P1=true  P2=false  P3=false  P4=false  P5=true  P6=true  P7=true  P8=false
+Time spent: 0.000000 secs
+Number of restarts: 17
+Number of steps: 48
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test80_5.txt Hill_Results
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.000999 secs
+Number of restarts: 746026
+Number of steps: 1790855
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test80_6.txt Hill_Results
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.000999 secs
+Number of restarts: 728526
+Number of steps: 1841833
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test80_7.txt Hill_Results
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.000999 secs
+Number of restarts: 688832
+Number of steps: 1868438
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test80_8.txt Hill_Results
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.000999 secs
+Number of restarts: 637774
+Number of steps: 1737007
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test80_9.txt Hill_Results
+
+
+Solution found with hill-climbing!
+P1=false  P2=false  P3=true  P4=true  P5=true  P6=false  P7=false  P8=true
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 2
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test80_10.txt Hill_Results
+
+
+Solution found with hill-climbing!
+P1=true  P2=false  P3=false  P4=false  P5=true  P6=false  P7=false  P8=true
+Time spent: 0.001000 secs
+Number of restarts: 5
+Number of steps: 11
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test80_1.txt Hill_Results
+
+
+Solution found with hill-climbing!
+P1=false  P2=false  P3=true  P4=false  P5=false  P6=false  P7=true  P8=false
+Time spent: 0.001000 secs
+Number of restarts: 3
+Number of steps: 10
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test80_2.txt Hill_Results
+
+
+Solution found with hill-climbing!
+P1=true  P2=true  P3=true  P4=false  P5=true  P6=true  P7=false  P8=false
+Time spent: 0.001000 secs
+Number of restarts: 2
+Number of steps: 7
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test80_3.txt Hill_Results
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.000999 secs
+Number of restarts: 669693
+Number of steps: 1731308
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test80_4.txt Hill_Results
+
+
+Solution found with hill-climbing!
+P1=true  P2=false  P3=false  P4=false  P5=true  P6=true  P7=true  P8=false
+Time spent: 0.000000 secs
+Number of restarts: 5
+Number of steps: 13
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test80_5.txt Hill_Results
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.000999 secs
+Number of restarts: 663557
+Number of steps: 1594661
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test80_6.txt Hill_Results
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.000999 secs
+Number of restarts: 652172
+Number of steps: 1647788
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test80_7.txt Hill_Results
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.000999 secs
+Number of restarts: 608789
+Number of steps: 1649822
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test80_8.txt Hill_Results
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.000999 secs
+Number of restarts: 674681
+Number of steps: 1837011
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test80_9.txt Hill_Results
+
+
+Solution found with hill-climbing!
+P1=false  P2=false  P3=true  P4=true  P5=true  P6=false  P7=false  P8=true
+Time spent: 0.001000 secs
+Number of restarts: 12
+Number of steps: 31
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test80_10.txt Hill_Results
+
+
+Solution found with hill-climbing!
+P1=true  P2=false  P3=false  P4=false  P5=true  P6=true  P7=false  P8=true
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 3
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test80_1.txt Hill_Results
+
+
+Solution found with hill-climbing!
+P1=true  P2=false  P3=true  P4=false  P5=false  P6=false  P7=true  P8=false
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 2
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test80_2.txt Hill_Results
+
+
+Solution found with hill-climbing!
+P1=false  P2=false  P3=false  P4=false  P5=true  P6=true  P7=true  P8=false
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 2
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test80_3.txt Hill_Results
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.000999 secs
+Number of restarts: 689732
+Number of steps: 1784648
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test80_4.txt Hill_Results
+
+
+Solution found with hill-climbing!
+P1=true  P2=false  P3=false  P4=false  P5=true  P6=true  P7=true  P8=false
+Time spent: 0.001000 secs
+Number of restarts: 17
+Number of steps: 47
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test80_5.txt Hill_Results
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.000999 secs
+Number of restarts: 650200
+Number of steps: 1561873
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test80_6.txt Hill_Results
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.000999 secs
+Number of restarts: 660871
+Number of steps: 1670089
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test80_7.txt Hill_Results
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.000999 secs
+Number of restarts: 612510
+Number of steps: 1660085
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test80_8.txt Hill_Results
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.000999 secs
+Number of restarts: 635131
+Number of steps: 1729282
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test80_9.txt Hill_Results
+
+
+Solution found with hill-climbing!
+P1=false  P2=false  P3=true  P4=true  P5=true  P6=false  P7=false  P8=true
+Time spent: 0.000000 secs
+Number of restarts: 3
+Number of steps: 6
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test80_10.txt Hill_Results
+
+
+Solution found with hill-climbing!
+P1=true  P2=false  P3=false  P4=false  P5=true  P6=true  P7=false  P8=true
+Time spent: 0.000000 secs
+Number of restarts: 3
+Number of steps: 9
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test80_1.txt Hill_Results
+
+
+Solution found with hill-climbing!
+P1=true  P2=false  P3=true  P4=false  P5=false  P6=false  P7=true  P8=false
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 1
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test80_2.txt Hill_Results
+
+
+Solution found with hill-climbing!
+P1=false  P2=false  P3=false  P4=false  P5=true  P6=true  P7=true  P8=false
+Time spent: 0.000000 secs
+Number of restarts: 4
+Number of steps: 13
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test80_3.txt Hill_Results
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.000999 secs
+Number of restarts: 579424
+Number of steps: 1499979
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test80_4.txt Hill_Results
+
+
+Solution found with hill-climbing!
+P1=true  P2=false  P3=false  P4=false  P5=true  P6=true  P7=true  P8=false
+Time spent: 0.000000 secs
+Number of restarts: 2
+Number of steps: 7
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test80_5.txt Hill_Results
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.000999 secs
+Number of restarts: 708796
+Number of steps: 1701569
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test80_6.txt Hill_Results
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.000999 secs
+Number of restarts: 696887
+Number of steps: 1761894
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test80_7.txt Hill_Results
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.000999 secs
+Number of restarts: 661189
+Number of steps: 1791916
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test80_8.txt Hill_Results
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.000999 secs
+Number of restarts: 662500
+Number of steps: 1803260
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test80_9.txt Hill_Results
+
+
+Solution found with hill-climbing!
+P1=false  P2=false  P3=true  P4=true  P5=true  P6=false  P7=false  P8=true
+Time spent: 0.001000 secs
+Number of restarts: 15
+Number of steps: 35
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test80_10.txt Hill_Results
+
+
+Solution found with hill-climbing!
+P1=true  P2=false  P3=false  P4=false  P5=true  P6=false  P7=false  P8=true
+Time spent: 0.000000 secs
+Number of restarts: 2
+Number of steps: 8
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test80_1.txt Hill_Results
+
+
+Solution found with hill-climbing!
+P1=false  P2=false  P3=true  P4=false  P5=false  P6=false  P7=true  P8=false
+Time spent: 0.000000 secs
+Number of restarts: 1
+Number of steps: 6
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test80_2.txt Hill_Results
+
+
+Solution found with hill-climbing!
+P1=true  P2=true  P3=true  P4=false  P5=true  P6=true  P7=false  P8=false
+Time spent: 0.000000 secs
+Number of restarts: 5
+Number of steps: 11
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test80_3.txt Hill_Results
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.000999 secs
+Number of restarts: 688272
+Number of steps: 1780282
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test80_4.txt Hill_Results
+
+
+Solution found with hill-climbing!
+P1=true  P2=false  P3=false  P4=false  P5=true  P6=true  P7=true  P8=false
+Time spent: 0.001000 secs
+Number of restarts: 20
+Number of steps: 52
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test80_5.txt Hill_Results
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.000999 secs
+Number of restarts: 733759
+Number of steps: 1762671
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test80_6.txt Hill_Results
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.000999 secs
+Number of restarts: 687687
+Number of steps: 1737434
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test80_7.txt Hill_Results
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.000999 secs
+Number of restarts: 633321
+Number of steps: 1717494
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test80_8.txt Hill_Results
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.000999 secs
+Number of restarts: 617997
+Number of steps: 1681796
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test80_9.txt Hill_Results
+
+
+Solution found with hill-climbing!
+P1=false  P2=false  P3=true  P4=true  P5=true  P6=false  P7=false  P8=true
+Time spent: 0.000000 secs
+Number of restarts: 5
+Number of steps: 13
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test80_10.txt Hill_Results
+
+
+Solution found with hill-climbing!
+P1=true  P2=false  P3=false  P4=false  P5=true  P6=false  P7=false  P8=true
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 5
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test90_1.txt Hill_Results
+
+
+Solution found with hill-climbing!
+P1=true  P2=false  P3=false  P4=false  P5=true  P6=true  P7=true  P8=false
+Time spent: 0.001000 secs
+Number of restarts: 3
+Number of steps: 10
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test90_2.txt Hill_Results
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.000999 secs
+Number of restarts: 577167
+Number of steps: 1461206
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test90_3.txt Hill_Results
+
+
+Solution found with hill-climbing!
+P1=true  P2=true  P3=true  P4=false  P5=false  P6=false  P7=false  P8=true
+Time spent: 0.000000 secs
+Number of restarts: 1
+Number of steps: 7
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test90_4.txt Hill_Results
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.000999 secs
+Number of restarts: 578209
+Number of steps: 1573730
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test90_5.txt Hill_Results
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.000999 secs
+Number of restarts: 580979
+Number of steps: 1491229
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test90_6.txt Hill_Results
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.000999 secs
+Number of restarts: 595614
+Number of steps: 1461868
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test90_7.txt Hill_Results
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.000999 secs
+Number of restarts: 532932
+Number of steps: 1463334
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test90_8.txt Hill_Results
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.000999 secs
+Number of restarts: 582160
+Number of steps: 1473720
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test90_9.txt Hill_Results
+
+
+Solution found with hill-climbing!
+P1=false  P2=false  P3=false  P4=true  P5=false  P6=false  P7=false  P8=true
+Time spent: 0.001000 secs
+Number of restarts: 4
+Number of steps: 10
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test90_10.txt Hill_Results
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.000999 secs
+Number of restarts: 549424
+Number of steps: 1521335
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test90_1.txt Hill_Results
+
+
+Solution found with hill-climbing!
+P1=true  P2=false  P3=false  P4=false  P5=true  P6=true  P7=true  P8=false
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 2
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test90_2.txt Hill_Results
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.000999 secs
+Number of restarts: 610988
+Number of steps: 1546267
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test90_3.txt Hill_Results
+
+
+Solution found with hill-climbing!
+P1=true  P2=true  P3=true  P4=false  P5=false  P6=false  P7=false  P8=true
+Time spent: 0.000000 secs
+Number of restarts: 8
+Number of steps: 23
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test90_4.txt Hill_Results
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.000999 secs
+Number of restarts: 573746
+Number of steps: 1561117
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test90_5.txt Hill_Results
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.000999 secs
+Number of restarts: 592480
+Number of steps: 1520075
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test90_6.txt Hill_Results
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.000999 secs
+Number of restarts: 578023
+Number of steps: 1418463
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test90_7.txt Hill_Results
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.000999 secs
+Number of restarts: 526390
+Number of steps: 1445028
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test90_8.txt Hill_Results
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.000999 secs
+Number of restarts: 568498
+Number of steps: 1438775
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test90_9.txt Hill_Results
+
+
+Solution found with hill-climbing!
+P1=false  P2=false  P3=false  P4=true  P5=false  P6=false  P7=false  P8=true
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 3
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test90_10.txt Hill_Results
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.000999 secs
+Number of restarts: 539581
+Number of steps: 1494302
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test90_1.txt Hill_Results
+
+
+Solution found with hill-climbing!
+P1=true  P2=false  P3=false  P4=false  P5=true  P6=true  P7=true  P8=false
+Time spent: 0.000000 secs
+Number of restarts: 1
+Number of steps: 4
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test90_2.txt Hill_Results
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.000999 secs
+Number of restarts: 576434
+Number of steps: 1460116
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test90_3.txt Hill_Results
+
+
+Solution found with hill-climbing!
+P1=true  P2=true  P3=true  P4=false  P5=false  P6=false  P7=false  P8=true
+Time spent: 0.001000 secs
+Number of restarts: 6
+Number of steps: 20
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test90_4.txt Hill_Results
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.000999 secs
+Number of restarts: 572855
+Number of steps: 1560204
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test90_5.txt Hill_Results
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.000999 secs
+Number of restarts: 594628
+Number of steps: 1526433
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test90_6.txt Hill_Results
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.000999 secs
+Number of restarts: 609142
+Number of steps: 1492819
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test90_7.txt Hill_Results
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.000999 secs
+Number of restarts: 541161
+Number of steps: 1486649
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test90_8.txt Hill_Results
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.000999 secs
+Number of restarts: 594596
+Number of steps: 1505328
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test90_9.txt Hill_Results
+
+
+Solution found with hill-climbing!
+P1=false  P2=false  P3=false  P4=true  P5=false  P6=false  P7=false  P8=true
+Time spent: 0.000000 secs
+Number of restarts: 10
+Number of steps: 29
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test90_10.txt Hill_Results
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.000999 secs
+Number of restarts: 536186
+Number of steps: 1484832
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test90_1.txt Hill_Results
+
+
+Solution found with hill-climbing!
+P1=true  P2=false  P3=false  P4=false  P5=true  P6=true  P7=true  P8=false
+Time spent: 0.003000 secs
+Number of restarts: 25
+Number of steps: 73
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test90_2.txt Hill_Results
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.000999 secs
+Number of restarts: 581494
+Number of steps: 1472132
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test90_3.txt Hill_Results
+
+
+Solution found with hill-climbing!
+P1=true  P2=true  P3=true  P4=false  P5=false  P6=false  P7=false  P8=true
+Time spent: 0.000000 secs
+Number of restarts: 1
+Number of steps: 5
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test90_4.txt Hill_Results
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.000999 secs
+Number of restarts: 577496
+Number of steps: 1572228
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test90_5.txt Hill_Results
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.000999 secs
+Number of restarts: 571125
+Number of steps: 1465988
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test90_6.txt Hill_Results
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.000999 secs
+Number of restarts: 552187
+Number of steps: 1354781
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test90_7.txt Hill_Results
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.000999 secs
+Number of restarts: 552750
+Number of steps: 1518049
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test90_8.txt Hill_Results
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.000999 secs
+Number of restarts: 582898
+Number of steps: 1475654
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test90_9.txt Hill_Results
+
+
+Solution found with hill-climbing!
+P1=false  P2=false  P3=false  P4=true  P5=false  P6=false  P7=false  P8=true
+Time spent: 0.000000 secs
+Number of restarts: 3
+Number of steps: 11
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test90_10.txt Hill_Results
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.000999 secs
+Number of restarts: 505413
+Number of steps: 1398968
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test90_1.txt Hill_Results
+
+
+Solution found with hill-climbing!
+P1=true  P2=false  P3=false  P4=false  P5=true  P6=true  P7=true  P8=false
+Time spent: 0.001000 secs
+Number of restarts: 10
+Number of steps: 23
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test90_2.txt Hill_Results
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.000999 secs
+Number of restarts: 545959
+Number of steps: 1381786
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test90_3.txt Hill_Results
+
+
+Solution found with hill-climbing!
+P1=true  P2=true  P3=true  P4=false  P5=false  P6=false  P7=false  P8=true
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 1
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test90_4.txt Hill_Results
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.000999 secs
+Number of restarts: 565578
+Number of steps: 1539638
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test90_5.txt Hill_Results
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.000999 secs
+Number of restarts: 595060
+Number of steps: 1527005
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test90_6.txt Hill_Results
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.000999 secs
+Number of restarts: 628931
+Number of steps: 1542344
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test90_7.txt Hill_Results
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.000999 secs
+Number of restarts: 574097
+Number of steps: 1576767
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test90_8.txt Hill_Results
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.000999 secs
+Number of restarts: 623147
+Number of steps: 1577659
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test90_9.txt Hill_Results
+
+
+Solution found with hill-climbing!
+P1=false  P2=false  P3=false  P4=true  P5=false  P6=false  P7=false  P8=true
+Time spent: 0.001000 secs
+Number of restarts: 3
+Number of steps: 10
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test90_10.txt Hill_Results
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.000999 secs
+Number of restarts: 565566
+Number of steps: 1565847
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test100_1.txt Hill_Results
+
+
+Solution found with hill-climbing!
+P1=true  P2=false  P3=true  P4=true  P5=false  P6=true  P7=true  P8=true
+Time spent: 0.000000 secs
+Number of restarts: 5
+Number of steps: 16
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test100_2.txt Hill_Results
+
+
+Solution found with hill-climbing!
+P1=false  P2=true  P3=true  P4=true  P5=false  P6=true  P7=false  P8=false
+Time spent: 0.001000 secs
+Number of restarts: 3
+Number of steps: 10
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test100_3.txt Hill_Results
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.000999 secs
+Number of restarts: 533904
+Number of steps: 1399605
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test100_4.txt Hill_Results
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.000999 secs
+Number of restarts: 533652
+Number of steps: 1426660
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test100_5.txt Hill_Results
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.000999 secs
+Number of restarts: 514182
+Number of steps: 1403198
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test100_6.txt Hill_Results
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.000999 secs
+Number of restarts: 528519
+Number of steps: 1413391
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test100_7.txt Hill_Results
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.000999 secs
+Number of restarts: 532801
+Number of steps: 1408467
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test100_8.txt Hill_Results
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.000999 secs
+Number of restarts: 521632
+Number of steps: 1417039
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test100_9.txt Hill_Results
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.000999 secs
+Number of restarts: 519174
+Number of steps: 1389933
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test100_10.txt Hill_Results
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.000999 secs
+Number of restarts: 547379
+Number of steps: 1417934
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test100_1.txt Hill_Results
+
+
+Solution found with hill-climbing!
+P1=true  P2=false  P3=true  P4=true  P5=false  P6=true  P7=true  P8=true
+Time spent: 0.000000 secs
+Number of restarts: 3
+Number of steps: 9
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test100_2.txt Hill_Results
+
+
+Solution found with hill-climbing!
+P1=false  P2=true  P3=true  P4=true  P5=false  P6=true  P7=false  P8=false
+Time spent: 0.000000 secs
+Number of restarts: 5
+Number of steps: 15
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test100_3.txt Hill_Results
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.000999 secs
+Number of restarts: 535267
+Number of steps: 1403432
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test100_4.txt Hill_Results
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.000999 secs
+Number of restarts: 535469
+Number of steps: 1431807
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test100_5.txt Hill_Results
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.000999 secs
+Number of restarts: 516128
+Number of steps: 1408046
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test100_6.txt Hill_Results
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.000999 secs
+Number of restarts: 525252
+Number of steps: 1406936
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test100_7.txt Hill_Results
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.000999 secs
+Number of restarts: 538492
+Number of steps: 1423941
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test100_8.txt Hill_Results
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.000999 secs
+Number of restarts: 489237
+Number of steps: 1328017
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test100_9.txt Hill_Results
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.000999 secs
+Number of restarts: 487808
+Number of steps: 1306251
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test100_10.txt Hill_Results
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.000999 secs
+Number of restarts: 519526
+Number of steps: 1345918
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test100_1.txt Hill_Results
+
+
+Solution found with hill-climbing!
+P1=true  P2=false  P3=true  P4=true  P5=false  P6=true  P7=true  P8=true
+Time spent: 0.001000 secs
+Number of restarts: 6
+Number of steps: 18
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test100_2.txt Hill_Results
+
+
+Solution found with hill-climbing!
+P1=false  P2=true  P3=true  P4=true  P5=false  P6=true  P7=false  P8=false
+Time spent: 0.001000 secs
+Number of restarts: 13
+Number of steps: 37
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test100_3.txt Hill_Results
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.000999 secs
+Number of restarts: 513805
+Number of steps: 1346692
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test100_4.txt Hill_Results
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.000999 secs
+Number of restarts: 512117
+Number of steps: 1367481
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test100_5.txt Hill_Results
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.000999 secs
+Number of restarts: 491417
+Number of steps: 1341093
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test100_6.txt Hill_Results
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.000999 secs
+Number of restarts: 501351
+Number of steps: 1342109
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test100_7.txt Hill_Results
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.000999 secs
+Number of restarts: 514903
+Number of steps: 1360978
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test100_8.txt Hill_Results
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.000999 secs
+Number of restarts: 497712
+Number of steps: 1351148
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test100_9.txt Hill_Results
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.000999 secs
+Number of restarts: 491176
+Number of steps: 1313979
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test100_10.txt Hill_Results
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.000999 secs
+Number of restarts: 517865
+Number of steps: 1341038
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test100_1.txt Hill_Results
+
+
+Solution found with hill-climbing!
+P1=true  P2=false  P3=true  P4=true  P5=false  P6=true  P7=true  P8=true
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 3
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test100_2.txt Hill_Results
+
+
+Solution found with hill-climbing!
+P1=false  P2=true  P3=true  P4=true  P5=false  P6=true  P7=false  P8=false
+Time spent: 0.000000 secs
+Number of restarts: 2
+Number of steps: 10
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test100_3.txt Hill_Results
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.000999 secs
+Number of restarts: 506100
+Number of steps: 1326420
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test100_4.txt Hill_Results
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.000999 secs
+Number of restarts: 498347
+Number of steps: 1331073
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test100_5.txt Hill_Results
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.000999 secs
+Number of restarts: 482778
+Number of steps: 1317015
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test100_6.txt Hill_Results
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.000999 secs
+Number of restarts: 495620
+Number of steps: 1325098
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test100_7.txt Hill_Results
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.000999 secs
+Number of restarts: 512117
+Number of steps: 1355016
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test100_8.txt Hill_Results
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.000999 secs
+Number of restarts: 475014
+Number of steps: 1289752
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test100_9.txt Hill_Results
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.000999 secs
+Number of restarts: 476561
+Number of steps: 1275599
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test100_10.txt Hill_Results
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.000999 secs
+Number of restarts: 505120
+Number of steps: 1308146
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test100_1.txt Hill_Results
+
+
+Solution found with hill-climbing!
+P1=true  P2=false  P3=true  P4=true  P5=false  P6=true  P7=true  P8=true
+Time spent: 0.000000 secs
+Number of restarts: 4
+Number of steps: 14
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test100_2.txt Hill_Results
+
+
+Solution found with hill-climbing!
+P1=false  P2=true  P3=true  P4=true  P5=false  P6=true  P7=false  P8=false
+Time spent: 0.000000 secs
+Number of restarts: 1
+Number of steps: 5
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test100_3.txt Hill_Results
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.000999 secs
+Number of restarts: 475844
+Number of steps: 1247042
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test100_4.txt Hill_Results
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.000999 secs
+Number of restarts: 475901
+Number of steps: 1271108
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test100_5.txt Hill_Results
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.000999 secs
+Number of restarts: 485645
+Number of steps: 1323890
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test100_6.txt Hill_Results
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.000999 secs
+Number of restarts: 484536
+Number of steps: 1297081
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test100_7.txt Hill_Results
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.000999 secs
+Number of restarts: 481406
+Number of steps: 1272558
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test100_8.txt Hill_Results
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.000999 secs
+Number of restarts: 505890
+Number of steps: 1373397
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test100_9.txt Hill_Results
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.000999 secs
+Number of restarts: 462254
+Number of steps: 1237353
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test100_10.txt Hill_Results
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.000999 secs
+Number of restarts: 499529
+Number of steps: 1294545
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test110_1.txt Hill_Results
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.000999 secs
+Number of restarts: 426875
+Number of steps: 1178589
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test110_2.txt Hill_Results
+
+
+Solution found with hill-climbing!
+P1=true  P2=false  P3=false  P4=false  P5=false  P6=true  P7=false  P8=true
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 6
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test110_3.txt Hill_Results
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.000999 secs
+Number of restarts: 396743
+Number of steps: 1173715
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test110_4.txt Hill_Results
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.000999 secs
+Number of restarts: 463343
+Number of steps: 1247345
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test110_5.txt Hill_Results
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.000999 secs
+Number of restarts: 480136
+Number of steps: 1226736
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test110_6.txt Hill_Results
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.000999 secs
+Number of restarts: 473606
+Number of steps: 1276806
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test110_7.txt Hill_Results
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.000999 secs
+Number of restarts: 414285
+Number of steps: 1213543
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test110_8.txt Hill_Results
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.000999 secs
+Number of restarts: 463160
+Number of steps: 1261358
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test110_9.txt Hill_Results
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.000999 secs
+Number of restarts: 411344
+Number of steps: 1176360
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test110_10.txt Hill_Results
+
+
+Solution found with hill-climbing!
+P1=true  P2=true  P3=false  P4=false  P5=true  P6=true  P7=true  P8=true
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 1
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test110_1.txt Hill_Results
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.000999 secs
+Number of restarts: 459989
+Number of steps: 1270391
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test110_2.txt Hill_Results
+
+
+Solution found with hill-climbing!
+P1=true  P2=false  P3=false  P4=false  P5=false  P6=true  P7=false  P8=true
+Time spent: 0.000000 secs
+Number of restarts: 1
+Number of steps: 5
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test110_3.txt Hill_Results
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.000999 secs
+Number of restarts: 417540
+Number of steps: 1236011
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test110_4.txt Hill_Results
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.000999 secs
+Number of restarts: 427517
+Number of steps: 1150155
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test110_5.txt Hill_Results
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.000999 secs
+Number of restarts: 438248
+Number of steps: 1119231
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test110_6.txt Hill_Results
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.000999 secs
+Number of restarts: 446046
+Number of steps: 1201678
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test110_7.txt Hill_Results
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.000999 secs
+Number of restarts: 400698
+Number of steps: 1173482
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test110_8.txt Hill_Results
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.000999 secs
+Number of restarts: 447223
+Number of steps: 1217637
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test110_9.txt Hill_Results
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.000999 secs
+Number of restarts: 409627
+Number of steps: 1171877
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test110_10.txt Hill_Results
+
+
+Solution found with hill-climbing!
+P1=true  P2=true  P3=false  P4=false  P5=true  P6=true  P7=true  P8=true
+Time spent: 0.000000 secs
+Number of restarts: 1
+Number of steps: 5
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test110_1.txt Hill_Results
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.000999 secs
+Number of restarts: 419985
+Number of steps: 1160084
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test110_2.txt Hill_Results
+
+
+Solution found with hill-climbing!
+P1=true  P2=false  P3=false  P4=false  P5=false  P6=true  P7=false  P8=true
+Time spent: 0.000000 secs
+Number of restarts: 1
+Number of steps: 5
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test110_3.txt Hill_Results
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.000999 secs
+Number of restarts: 404316
+Number of steps: 1197087
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test110_4.txt Hill_Results
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.000999 secs
+Number of restarts: 467226
+Number of steps: 1257838
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test110_5.txt Hill_Results
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.000999 secs
+Number of restarts: 456062
+Number of steps: 1165329
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test110_6.txt Hill_Results
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.000999 secs
+Number of restarts: 446352
+Number of steps: 1203307
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test110_7.txt Hill_Results
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.000999 secs
+Number of restarts: 415621
+Number of steps: 1218369
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test110_8.txt Hill_Results
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.000999 secs
+Number of restarts: 437325
+Number of steps: 1191370
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test110_9.txt Hill_Results
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.000999 secs
+Number of restarts: 398260
+Number of steps: 1139592
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test110_10.txt Hill_Results
+
+
+Solution found with hill-climbing!
+P1=true  P2=true  P3=false  P4=false  P5=true  P6=true  P7=true  P8=true
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 3
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test110_1.txt Hill_Results
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.000999 secs
+Number of restarts: 429710
+Number of steps: 1187141
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test110_2.txt Hill_Results
+
+
+Solution found with hill-climbing!
+P1=true  P2=false  P3=false  P4=false  P5=false  P6=true  P7=false  P8=true
+Time spent: 0.000000 secs
+Number of restarts: 3
+Number of steps: 6
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test110_3.txt Hill_Results
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.000999 secs
+Number of restarts: 414810
+Number of steps: 1226937
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test110_4.txt Hill_Results
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.000999 secs
+Number of restarts: 426309
+Number of steps: 1147277
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test110_5.txt Hill_Results
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.000999 secs
+Number of restarts: 439214
+Number of steps: 1122500
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test110_6.txt Hill_Results
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.000999 secs
+Number of restarts: 448431
+Number of steps: 1207758
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test110_7.txt Hill_Results
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.000999 secs
+Number of restarts: 389048
+Number of steps: 1140143
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test110_8.txt Hill_Results
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.000999 secs
+Number of restarts: 455016
+Number of steps: 1237831
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test110_9.txt Hill_Results
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.000999 secs
+Number of restarts: 430633
+Number of steps: 1231038
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test110_10.txt Hill_Results
+
+
+Solution found with hill-climbing!
+P1=true  P2=true  P3=true  P4=true  P5=true  P6=false  P7=false  P8=true
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 4
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test110_1.txt Hill_Results
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.000999 secs
+Number of restarts: 457473
+Number of steps: 1264317
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test110_2.txt Hill_Results
+
+
+Solution found with hill-climbing!
+P1=true  P2=false  P3=false  P4=false  P5=false  P6=true  P7=false  P8=true
+Time spent: 0.000000 secs
+Number of restarts: 3
+Number of steps: 11
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test110_3.txt Hill_Results
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.000999 secs
+Number of restarts: 391921
+Number of steps: 1160054
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test110_4.txt Hill_Results
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.000999 secs
+Number of restarts: 468590
+Number of steps: 1261630
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test110_5.txt Hill_Results
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.000999 secs
+Number of restarts: 476004
+Number of steps: 1215652
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test110_6.txt Hill_Results
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.000999 secs
+Number of restarts: 463267
+Number of steps: 1248212
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test110_7.txt Hill_Results
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.000999 secs
+Number of restarts: 427144
+Number of steps: 1249523
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test110_8.txt Hill_Results
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.000999 secs
+Number of restarts: 448036
+Number of steps: 1219229
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test110_9.txt Hill_Results
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.000999 secs
+Number of restarts: 398245
+Number of steps: 1137620
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test110_10.txt Hill_Results
+
+
+Solution found with hill-climbing!
+P1=true  P2=true  P3=true  P4=true  P5=false  P6=false  P7=false  P8=true
+Time spent: 0.000000 secs
+Number of restarts: 2
+Number of steps: 6
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test120_1.txt Hill_Results
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.000999 secs
+Number of restarts: 398399
+Number of steps: 1067590
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test120_2.txt Hill_Results
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.000999 secs
+Number of restarts: 397232
+Number of steps: 1136794
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test120_3.txt Hill_Results
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.000999 secs
+Number of restarts: 417084
+Number of steps: 1178129
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test120_4.txt Hill_Results
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.000999 secs
+Number of restarts: 375268
+Number of steps: 1113599
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test120_5.txt Hill_Results
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.000999 secs
+Number of restarts: 362078
+Number of steps: 1025856
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test120_6.txt Hill_Results
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.000999 secs
+Number of restarts: 351239
+Number of steps: 1048465
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test120_7.txt Hill_Results
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.000999 secs
+Number of restarts: 329931
+Number of steps: 1022529
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test120_8.txt Hill_Results
+
+
+Solution found with hill-climbing!
+P1=true  P2=false  P3=true  P4=true  P5=false  P6=true  P7=false  P8=true
+Time spent: 0.000000 secs
+Number of restarts: 1
+Number of steps: 6
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test120_9.txt Hill_Results
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.000999 secs
+Number of restarts: 432816
+Number of steps: 1118184
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test120_10.txt Hill_Results
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.000999 secs
+Number of restarts: 443405
+Number of steps: 1144747
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test120_1.txt Hill_Results
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.000999 secs
+Number of restarts: 417962
+Number of steps: 1120308
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test120_2.txt Hill_Results
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.000999 secs
+Number of restarts: 384072
+Number of steps: 1099909
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test120_3.txt Hill_Results
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.000999 secs
+Number of restarts: 405974
+Number of steps: 1146983
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test120_4.txt Hill_Results
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.000999 secs
+Number of restarts: 374628
+Number of steps: 1111056
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test120_5.txt Hill_Results
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.000999 secs
+Number of restarts: 399191
+Number of steps: 1131230
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test120_6.txt Hill_Results
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.000999 secs
+Number of restarts: 384282
+Number of steps: 1148321
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test120_7.txt Hill_Results
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.000999 secs
+Number of restarts: 356781
+Number of steps: 1105530
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test120_8.txt Hill_Results
+
+
+Solution found with hill-climbing!
+P1=true  P2=false  P3=true  P4=true  P5=false  P6=true  P7=false  P8=true
+Time spent: 0.000000 secs
+Number of restarts: 2
+Number of steps: 10
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test120_9.txt Hill_Results
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.000999 secs
+Number of restarts: 440148
+Number of steps: 1136456
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test120_10.txt Hill_Results
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.000999 secs
+Number of restarts: 434156
+Number of steps: 1120894
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test120_1.txt Hill_Results
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.000999 secs
+Number of restarts: 405450
+Number of steps: 1085688
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test120_2.txt Hill_Results
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.000999 secs
+Number of restarts: 370197
+Number of steps: 1059897
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test120_3.txt Hill_Results
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.000999 secs
+Number of restarts: 382683
+Number of steps: 1081161
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test120_4.txt Hill_Results
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.000999 secs
+Number of restarts: 359095
+Number of steps: 1066029
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test120_5.txt Hill_Results
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.000999 secs
+Number of restarts: 395061
+Number of steps: 1120615
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test120_6.txt Hill_Results
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.000999 secs
+Number of restarts: 394787
+Number of steps: 1178001
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test120_7.txt Hill_Results
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.000999 secs
+Number of restarts: 366796
+Number of steps: 1136814
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test120_8.txt Hill_Results
+
+
+Solution found with hill-climbing!
+P1=true  P2=false  P3=true  P4=true  P5=false  P6=true  P7=false  P8=true
+Time spent: 0.000000 secs
+Number of restarts: 6
+Number of steps: 20
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test120_9.txt Hill_Results
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.000999 secs
+Number of restarts: 447307
+Number of steps: 1156021
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test120_10.txt Hill_Results
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.000999 secs
+Number of restarts: 450437
+Number of steps: 1163708
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test120_1.txt Hill_Results
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.000999 secs
+Number of restarts: 439323
+Number of steps: 1178154
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test120_2.txt Hill_Results
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.000999 secs
+Number of restarts: 406289
+Number of steps: 1162185
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test120_3.txt Hill_Results
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.000999 secs
+Number of restarts: 416492
+Number of steps: 1176555
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test120_4.txt Hill_Results
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.000999 secs
+Number of restarts: 389131
+Number of steps: 1154236
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test120_5.txt Hill_Results
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.000999 secs
+Number of restarts: 397668
+Number of steps: 1127915
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test120_6.txt Hill_Results
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.000999 secs
+Number of restarts: 352853
+Number of steps: 1052504
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test120_7.txt Hill_Results
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.000999 secs
+Number of restarts: 334661
+Number of steps: 1036551
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test120_8.txt Hill_Results
+
+
+Solution found with hill-climbing!
+P1=true  P2=false  P3=true  P4=true  P5=false  P6=true  P7=false  P8=true
+Time spent: 0.000000 secs
+Number of restarts: 1
+Number of steps: 7
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test120_9.txt Hill_Results
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.000999 secs
+Number of restarts: 400473
+Number of steps: 1033959
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test120_10.txt Hill_Results
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.000999 secs
+Number of restarts: 395995
+Number of steps: 1023198
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test120_1.txt Hill_Results
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.000999 secs
+Number of restarts: 390155
+Number of steps: 1045554
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test120_2.txt Hill_Results
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.000999 secs
+Number of restarts: 363801
+Number of steps: 1042180
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test120_3.txt Hill_Results
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.000999 secs
+Number of restarts: 378963
+Number of steps: 1070215
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test120_4.txt Hill_Results
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.000999 secs
+Number of restarts: 345602
+Number of steps: 1025768
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test120_5.txt Hill_Results
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.000999 secs
+Number of restarts: 373671
+Number of steps: 1059088
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test120_6.txt Hill_Results
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.000999 secs
+Number of restarts: 368014
+Number of steps: 1098885
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test120_7.txt Hill_Results
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.000999 secs
+Number of restarts: 337087
+Number of steps: 1044639
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test120_8.txt Hill_Results
+
+
+Solution found with hill-climbing!
+P1=true  P2=false  P3=true  P4=true  P5=false  P6=true  P7=false  P8=true
+Time spent: 0.000000 secs
+Number of restarts: 2
+Number of steps: 11
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test120_9.txt Hill_Results
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.000999 secs
+Number of restarts: 420774
+Number of steps: 1086777
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test120_10.txt Hill_Results
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.000999 secs
+Number of restarts: 448690
+Number of steps: 1158239
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test130_1.txt Hill_Results
+
+
+Solution found with hill-climbing!
+P1=true  P2=false  P3=false  P4=false  P5=false  P6=false  P7=false  P8=true
+Time spent: 0.000000 secs
+Number of restarts: 3
+Number of steps: 11
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test130_2.txt Hill_Results
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.000999 secs
+Number of restarts: 338035
+Number of steps: 955887
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test130_3.txt Hill_Results
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.000999 secs
+Number of restarts: 338504
+Number of steps: 988014
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test130_4.txt Hill_Results
+
+
+Solution found with hill-climbing!
+P1=true  P2=true  P3=false  P4=true  P5=false  P6=false  P7=true  P8=true
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 4
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test130_5.txt Hill_Results
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.000999 secs
+Number of restarts: 355769
+Number of steps: 987835
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test130_6.txt Hill_Results
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.000999 secs
+Number of restarts: 359823
+Number of steps: 1042860
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test130_7.txt Hill_Results
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.000999 secs
+Number of restarts: 332420
+Number of steps: 989866
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test130_8.txt Hill_Results
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.000999 secs
+Number of restarts: 351373
+Number of steps: 991219
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test130_9.txt Hill_Results
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.000999 secs
+Number of restarts: 338109
+Number of steps: 989646
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test130_10.txt Hill_Results
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.000999 secs
+Number of restarts: 357710
+Number of steps: 1003188
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test130_1.txt Hill_Results
+
+
+Solution found with hill-climbing!
+P1=true  P2=false  P3=false  P4=false  P5=false  P6=false  P7=false  P8=true
+Time spent: 0.000000 secs
+Number of restarts: 1
+Number of steps: 5
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test130_2.txt Hill_Results
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.000999 secs
+Number of restarts: 345247
+Number of steps: 976304
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test130_3.txt Hill_Results
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.000999 secs
+Number of restarts: 338972
+Number of steps: 988336
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test130_4.txt Hill_Results
+
+
+Solution found with hill-climbing!
+P1=true  P2=true  P3=false  P4=true  P5=false  P6=false  P7=true  P8=true
+Time spent: 0.000000 secs
+Number of restarts: 3
+Number of steps: 11
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test130_5.txt Hill_Results
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.000999 secs
+Number of restarts: 354743
+Number of steps: 985375
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test130_6.txt Hill_Results
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.000999 secs
+Number of restarts: 362994
+Number of steps: 1051778
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test130_7.txt Hill_Results
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.000999 secs
+Number of restarts: 338108
+Number of steps: 1006941
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test130_8.txt Hill_Results
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.000999 secs
+Number of restarts: 352019
+Number of steps: 993471
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test130_9.txt Hill_Results
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.000999 secs
+Number of restarts: 337955
+Number of steps: 987596
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test130_10.txt Hill_Results
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.000999 secs
+Number of restarts: 353048
+Number of steps: 989079
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test130_1.txt Hill_Results
+
+
+Solution found with hill-climbing!
+P1=true  P2=false  P3=false  P4=false  P5=false  P6=false  P7=false  P8=true
+Time spent: 0.000000 secs
+Number of restarts: 1
+Number of steps: 8
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test130_2.txt Hill_Results
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.000999 secs
+Number of restarts: 342093
+Number of steps: 967402
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test130_3.txt Hill_Results
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.000999 secs
+Number of restarts: 335128
+Number of steps: 978772
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test130_4.txt Hill_Results
+
+
+Solution found with hill-climbing!
+P1=true  P2=true  P3=false  P4=true  P5=false  P6=false  P7=true  P8=true
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 3
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test130_5.txt Hill_Results
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.000999 secs
+Number of restarts: 357918
+Number of steps: 994732
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test130_6.txt Hill_Results
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.000999 secs
+Number of restarts: 360073
+Number of steps: 1043357
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test130_7.txt Hill_Results
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.000999 secs
+Number of restarts: 333274
+Number of steps: 991344
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test130_8.txt Hill_Results
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.000999 secs
+Number of restarts: 353058
+Number of steps: 996166
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test130_9.txt Hill_Results
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.000999 secs
+Number of restarts: 347406
+Number of steps: 1017654
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test130_10.txt Hill_Results
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.000999 secs
+Number of restarts: 352394
+Number of steps: 987516
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test130_1.txt Hill_Results
+
+
+Solution found with hill-climbing!
+P1=true  P2=false  P3=false  P4=false  P5=false  P6=false  P7=false  P8=true
+Time spent: 0.000000 secs
+Number of restarts: 1
+Number of steps: 2
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test130_2.txt Hill_Results
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.000999 secs
+Number of restarts: 341349
+Number of steps: 966219
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test130_3.txt Hill_Results
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.000999 secs
+Number of restarts: 344205
+Number of steps: 1003215
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test130_4.txt Hill_Results
+
+
+Solution found with hill-climbing!
+P1=true  P2=true  P3=false  P4=true  P5=false  P6=false  P7=true  P8=true
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 2
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test130_5.txt Hill_Results
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.000999 secs
+Number of restarts: 358762
+Number of steps: 997288
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test130_6.txt Hill_Results
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.000999 secs
+Number of restarts: 356012
+Number of steps: 1032131
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test130_7.txt Hill_Results
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.000999 secs
+Number of restarts: 344137
+Number of steps: 1024349
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test130_8.txt Hill_Results
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.000999 secs
+Number of restarts: 378166
+Number of steps: 1067820
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test130_9.txt Hill_Results
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.000999 secs
+Number of restarts: 359718
+Number of steps: 1052800
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test130_10.txt Hill_Results
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.000999 secs
+Number of restarts: 372352
+Number of steps: 1042363
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test130_1.txt Hill_Results
+
+
+Solution found with hill-climbing!
+P1=true  P2=false  P3=false  P4=false  P5=false  P6=false  P7=false  P8=true
+Time spent: 0.000000 secs
+Number of restarts: 1
+Number of steps: 4
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test130_2.txt Hill_Results
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.000999 secs
+Number of restarts: 348312
+Number of steps: 984012
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test130_3.txt Hill_Results
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.000999 secs
+Number of restarts: 332548
+Number of steps: 971044
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test130_4.txt Hill_Results
+
+
+Solution found with hill-climbing!
+P1=true  P2=true  P3=false  P4=true  P5=false  P6=false  P7=true  P8=true
+Time spent: 0.001000 secs
+Number of restarts: 2
+Number of steps: 11
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test130_5.txt Hill_Results
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.000999 secs
+Number of restarts: 378359
+Number of steps: 1051421
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test130_6.txt Hill_Results
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.000999 secs
+Number of restarts: 385678
+Number of steps: 1117164
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test130_7.txt Hill_Results
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.000999 secs
+Number of restarts: 352985
+Number of steps: 1051008
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test130_8.txt Hill_Results
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.000999 secs
+Number of restarts: 346773
+Number of steps: 978447
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test130_9.txt Hill_Results
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.000999 secs
+Number of restarts: 329988
+Number of steps: 966374
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test130_10.txt Hill_Results
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.000999 secs
+Number of restarts: 343294
+Number of steps: 960257
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test133_1.txt Hill_Results
+
+
+Solution found with hill-climbing!
+P1=true  P2=false  P3=true  P4=false  P5=false  P6=false  P7=true  P8=false
+Time spent: 0.000000 secs
+Number of restarts: 6
+Number of steps: 18
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test133_2.txt Hill_Results
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.000999 secs
+Number of restarts: 357995
+Number of steps: 928751
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test133_3.txt Hill_Results
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.000999 secs
+Number of restarts: 356970
+Number of steps: 982400
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test133_4.txt Hill_Results
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.000999 secs
+Number of restarts: 332280
+Number of steps: 982989
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test133_5.txt Hill_Results
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.000999 secs
+Number of restarts: 349920
+Number of steps: 968412
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test133_6.txt Hill_Results
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.000999 secs
+Number of restarts: 349430
+Number of steps: 970325
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test133_7.txt Hill_Results
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.000999 secs
+Number of restarts: 329725
+Number of steps: 983332
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test133_8.txt Hill_Results
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.000999 secs
+Number of restarts: 338491
+Number of steps: 970184
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test133_9.txt Hill_Results
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.000999 secs
+Number of restarts: 351427
+Number of steps: 959137
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test133_10.txt Hill_Results
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.000999 secs
+Number of restarts: 360697
+Number of steps: 971176
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test133_1.txt Hill_Results
+
+
+Solution found with hill-climbing!
+P1=true  P2=false  P3=true  P4=false  P5=false  P6=false  P7=true  P8=false
+Time spent: 0.000000 secs
+Number of restarts: 1
+Number of steps: 7
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test133_2.txt Hill_Results
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.000999 secs
+Number of restarts: 369403
+Number of steps: 958277
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test133_3.txt Hill_Results
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.000999 secs
+Number of restarts: 352551
+Number of steps: 969717
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test133_4.txt Hill_Results
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.000999 secs
+Number of restarts: 321535
+Number of steps: 952161
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test133_5.txt Hill_Results
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.000999 secs
+Number of restarts: 342727
+Number of steps: 949197
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test133_6.txt Hill_Results
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.000999 secs
+Number of restarts: 349389
+Number of steps: 968774
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test133_7.txt Hill_Results
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.000999 secs
+Number of restarts: 322848
+Number of steps: 964769
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test133_8.txt Hill_Results
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.000999 secs
+Number of restarts: 339790
+Number of steps: 974180
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test133_9.txt Hill_Results
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.000999 secs
+Number of restarts: 348839
+Number of steps: 951060
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test133_10.txt Hill_Results
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.000999 secs
+Number of restarts: 367921
+Number of steps: 989372
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test133_1.txt Hill_Results
+
+
+Solution found with hill-climbing!
+P1=true  P2=false  P3=true  P4=false  P5=false  P6=false  P7=true  P8=false
+Time spent: 0.000000 secs
+Number of restarts: 4
+Number of steps: 14
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test133_2.txt Hill_Results
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.000999 secs
+Number of restarts: 381009
+Number of steps: 988386
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test133_3.txt Hill_Results
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.000999 secs
+Number of restarts: 358804
+Number of steps: 985975
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test133_4.txt Hill_Results
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.000999 secs
+Number of restarts: 336700
+Number of steps: 996544
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test133_5.txt Hill_Results
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.000999 secs
+Number of restarts: 358138
+Number of steps: 992145
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test133_6.txt Hill_Results
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.000999 secs
+Number of restarts: 356277
+Number of steps: 987405
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test133_7.txt Hill_Results
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.000999 secs
+Number of restarts: 331762
+Number of steps: 990573
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test133_8.txt Hill_Results
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.000999 secs
+Number of restarts: 335998
+Number of steps: 964358
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test133_9.txt Hill_Results
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.000999 secs
+Number of restarts: 344366
+Number of steps: 938277
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test133_10.txt Hill_Results
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.000999 secs
+Number of restarts: 356958
+Number of steps: 960834
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test133_1.txt Hill_Results
+
+
+Solution found with hill-climbing!
+P1=true  P2=false  P3=true  P4=false  P5=false  P6=false  P7=true  P8=false
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 4
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test133_2.txt Hill_Results
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.000999 secs
+Number of restarts: 378675
+Number of steps: 982661
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test133_3.txt Hill_Results
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.000999 secs
+Number of restarts: 360759
+Number of steps: 992260
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test133_4.txt Hill_Results
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.000999 secs
+Number of restarts: 333328
+Number of steps: 987577
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test133_5.txt Hill_Results
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.000999 secs
+Number of restarts: 345049
+Number of steps: 955768
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test133_6.txt Hill_Results
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.000999 secs
+Number of restarts: 336866
+Number of steps: 934221
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test133_7.txt Hill_Results
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.000999 secs
+Number of restarts: 314867
+Number of steps: 938868
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test133_8.txt Hill_Results
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.000999 secs
+Number of restarts: 342179
+Number of steps: 981330
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test133_9.txt Hill_Results
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.000999 secs
+Number of restarts: 343433
+Number of steps: 936115
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test133_10.txt Hill_Results
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.000999 secs
+Number of restarts: 343942
+Number of steps: 924658
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test133_1.txt Hill_Results
+
+
+Solution found with hill-climbing!
+P1=true  P2=false  P3=true  P4=false  P5=false  P6=false  P7=true  P8=false
+Time spent: 0.000000 secs
+Number of restarts: 4
+Number of steps: 14
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test133_2.txt Hill_Results
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.000999 secs
+Number of restarts: 364745
+Number of steps: 945218
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test133_3.txt Hill_Results
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.000999 secs
+Number of restarts: 360829
+Number of steps: 991227
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test133_4.txt Hill_Results
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.000999 secs
+Number of restarts: 333818
+Number of steps: 988235
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test133_5.txt Hill_Results
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.000999 secs
+Number of restarts: 341070
+Number of steps: 944766
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test133_6.txt Hill_Results
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.000999 secs
+Number of restarts: 354727
+Number of steps: 984009
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test133_7.txt Hill_Results
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.000999 secs
+Number of restarts: 331149
+Number of steps: 987678
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test133_8.txt Hill_Results
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.000999 secs
+Number of restarts: 345077
+Number of steps: 988546
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test133_9.txt Hill_Results
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.000999 secs
+Number of restarts: 351516
+Number of steps: 958640
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test133_10.txt Hill_Results
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.000999 secs
+Number of restarts: 373741
+Number of steps: 1006408
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test137_1.txt Hill_Results
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.000999 secs
+Number of restarts: 324829
+Number of steps: 962229
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test137_2.txt Hill_Results
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.000999 secs
+Number of restarts: 344192
+Number of steps: 949875
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test137_3.txt Hill_Results
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.000999 secs
+Number of restarts: 319389
+Number of steps: 912491
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test137_4.txt Hill_Results
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.000999 secs
+Number of restarts: 324994
+Number of steps: 937784
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test137_5.txt Hill_Results
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.000999 secs
+Number of restarts: 335467
+Number of steps: 966755
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test137_6.txt Hill_Results
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.000999 secs
+Number of restarts: 324368
+Number of steps: 959816
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test137_7.txt Hill_Results
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.000999 secs
+Number of restarts: 314735
+Number of steps: 877153
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test137_8.txt Hill_Results
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.000999 secs
+Number of restarts: 314541
+Number of steps: 893411
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test137_9.txt Hill_Results
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.000999 secs
+Number of restarts: 329595
+Number of steps: 905383
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test137_10.txt Hill_Results
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.000999 secs
+Number of restarts: 329262
+Number of steps: 935804
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test137_1.txt Hill_Results
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.000999 secs
+Number of restarts: 308930
+Number of steps: 913822
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test137_2.txt Hill_Results
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.000999 secs
+Number of restarts: 330614
+Number of steps: 911963
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test137_3.txt Hill_Results
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.000999 secs
+Number of restarts: 323981
+Number of steps: 924681
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test137_4.txt Hill_Results
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.000999 secs
+Number of restarts: 314771
+Number of steps: 908566
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test137_5.txt Hill_Results
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.000999 secs
+Number of restarts: 330022
+Number of steps: 951875
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test137_6.txt Hill_Results
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.000999 secs
+Number of restarts: 305412
+Number of steps: 903559
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test137_7.txt Hill_Results
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.000999 secs
+Number of restarts: 327084
+Number of steps: 910844
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test137_8.txt Hill_Results
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.000999 secs
+Number of restarts: 313862
+Number of steps: 891519
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test137_9.txt Hill_Results
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.000999 secs
+Number of restarts: 320944
+Number of steps: 881172
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test137_10.txt Hill_Results
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.000999 secs
+Number of restarts: 319638
+Number of steps: 908529
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test137_1.txt Hill_Results
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.000999 secs
+Number of restarts: 307836
+Number of steps: 912284
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test137_2.txt Hill_Results
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.000999 secs
+Number of restarts: 323459
+Number of steps: 892160
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test137_3.txt Hill_Results
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.000999 secs
+Number of restarts: 326921
+Number of steps: 934108
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test137_4.txt Hill_Results
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.000999 secs
+Number of restarts: 339149
+Number of steps: 979872
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test137_5.txt Hill_Results
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.000999 secs
+Number of restarts: 327408
+Number of steps: 943584
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test137_6.txt Hill_Results
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.000999 secs
+Number of restarts: 332985
+Number of steps: 985693
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test137_7.txt Hill_Results
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.000999 secs
+Number of restarts: 340938
+Number of steps: 950433
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test137_8.txt Hill_Results
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.000999 secs
+Number of restarts: 312956
+Number of steps: 889248
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test137_9.txt Hill_Results
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.000999 secs
+Number of restarts: 325681
+Number of steps: 894973
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test137_10.txt Hill_Results
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.000999 secs
+Number of restarts: 299956
+Number of steps: 853394
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test137_1.txt Hill_Results
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.000999 secs
+Number of restarts: 298883
+Number of steps: 884477
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test137_2.txt Hill_Results
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.000999 secs
+Number of restarts: 331314
+Number of steps: 914058
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test137_3.txt Hill_Results
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.000999 secs
+Number of restarts: 345147
+Number of steps: 985895
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test137_4.txt Hill_Results
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.000999 secs
+Number of restarts: 336644
+Number of steps: 971262
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test137_5.txt Hill_Results
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.000999 secs
+Number of restarts: 311932
+Number of steps: 899913
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test137_6.txt Hill_Results
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.000999 secs
+Number of restarts: 304541
+Number of steps: 902222
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test137_7.txt Hill_Results
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.000999 secs
+Number of restarts: 322726
+Number of steps: 898117
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test137_8.txt Hill_Results
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.000999 secs
+Number of restarts: 311947
+Number of steps: 884945
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test137_9.txt Hill_Results
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.000999 secs
+Number of restarts: 334019
+Number of steps: 917237
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test137_10.txt Hill_Results
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.000999 secs
+Number of restarts: 338669
+Number of steps: 962809
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test137_1.txt Hill_Results
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.000999 secs
+Number of restarts: 340683
+Number of steps: 1009062
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test137_2.txt Hill_Results
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.000999 secs
+Number of restarts: 364394
+Number of steps: 1004827
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test137_3.txt Hill_Results
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.000999 secs
+Number of restarts: 351520
+Number of steps: 1003510
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test137_4.txt Hill_Results
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.000999 secs
+Number of restarts: 341503
+Number of steps: 986089
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test137_5.txt Hill_Results
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.000999 secs
+Number of restarts: 348867
+Number of steps: 1005817
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test137_6.txt Hill_Results
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.000999 secs
+Number of restarts: 341392
+Number of steps: 1011039
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test137_7.txt Hill_Results
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.000999 secs
+Number of restarts: 357852
+Number of steps: 996278
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test137_8.txt Hill_Results
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.000999 secs
+Number of restarts: 345010
+Number of steps: 979996
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test137_9.txt Hill_Results
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.000999 secs
+Number of restarts: 355047
+Number of steps: 975105
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test137_10.txt Hill_Results
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.000999 secs
+Number of restarts: 309550
+Number of steps: 881150
+
+
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test140_1.txt Hill_Results
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.000999 secs
+Number of restarts: 338328
+Number of steps: 940413
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test140_2.txt Hill_Results
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.000999 secs
+Number of restarts: 357977
+Number of steps: 962653
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test140_3.txt Hill_Results
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.000999 secs
+Number of restarts: 349150
+Number of steps: 1005977
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test140_4.txt Hill_Results
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.000999 secs
+Number of restarts: 360549
+Number of steps: 991049
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test140_5.txt Hill_Results
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.000999 secs
+Number of restarts: 333613
+Number of steps: 946987
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test140_6.txt Hill_Results
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.000999 secs
+Number of restarts: 331505
+Number of steps: 939964
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test140_7.txt Hill_Results
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.000999 secs
+Number of restarts: 342512
+Number of steps: 898318
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test140_8.txt Hill_Results
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.000999 secs
+Number of restarts: 299411
+Number of steps: 880084
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test140_9.txt Hill_Results
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.000999 secs
+Number of restarts: 316349
+Number of steps: 864812
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test140_10.txt Hill_Results
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.000999 secs
+Number of restarts: 299489
+Number of steps: 869976
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test140_1.txt Hill_Results
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.000999 secs
+Number of restarts: 328346
+Number of steps: 912497
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test140_2.txt Hill_Results
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.000999 secs
+Number of restarts: 328458
+Number of steps: 883528
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test140_3.txt Hill_Results
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.000999 secs
+Number of restarts: 313827
+Number of steps: 905301
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test140_4.txt Hill_Results
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.000999 secs
+Number of restarts: 337548
+Number of steps: 927856
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test140_5.txt Hill_Results
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.000999 secs
+Number of restarts: 318289
+Number of steps: 903449
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test140_6.txt Hill_Results
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.000999 secs
+Number of restarts: 321362
+Number of steps: 913191
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test140_7.txt Hill_Results
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.000999 secs
+Number of restarts: 337632
+Number of steps: 884007
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test140_8.txt Hill_Results
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.000999 secs
+Number of restarts: 314248
+Number of steps: 925057
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test140_9.txt Hill_Results
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.000999 secs
+Number of restarts: 336943
+Number of steps: 921719
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test140_10.txt Hill_Results
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.000999 secs
+Number of restarts: 330628
+Number of steps: 961145
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test140_1.txt Hill_Results
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.000999 secs
+Number of restarts: 347498
+Number of steps: 964080
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test140_2.txt Hill_Results
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.000999 secs
+Number of restarts: 341571
+Number of steps: 918932
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test140_3.txt Hill_Results
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.000999 secs
+Number of restarts: 334268
+Number of steps: 962964
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test140_4.txt Hill_Results
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.000999 secs
+Number of restarts: 358396
+Number of steps: 985056
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test140_5.txt Hill_Results
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.000999 secs
+Number of restarts: 350656
+Number of steps: 995285
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test140_6.txt Hill_Results
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.000999 secs
+Number of restarts: 344994
+Number of steps: 979523
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test140_7.txt Hill_Results
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.000999 secs
+Number of restarts: 369028
+Number of steps: 966769
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test140_8.txt Hill_Results
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.000999 secs
+Number of restarts: 325979
+Number of steps: 958956
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test140_9.txt Hill_Results
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.000999 secs
+Number of restarts: 344646
+Number of steps: 943296
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test140_10.txt Hill_Results
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.000999 secs
+Number of restarts: 315712
+Number of steps: 917187
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test140_1.txt Hill_Results
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.000999 secs
+Number of restarts: 303725
+Number of steps: 843582
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test140_2.txt Hill_Results
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.000999 secs
+Number of restarts: 335339
+Number of steps: 902063
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test140_3.txt Hill_Results
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.001999 secs
+Number of restarts: 318016
+Number of steps: 916564
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test140_4.txt Hill_Results
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.000999 secs
+Number of restarts: 325716
+Number of steps: 895932
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test140_5.txt Hill_Results
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.000999 secs
+Number of restarts: 327604
+Number of steps: 930304
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test140_6.txt Hill_Results
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.000999 secs
+Number of restarts: 323418
+Number of steps: 918573
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test140_7.txt Hill_Results
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.000999 secs
+Number of restarts: 353083
+Number of steps: 924805
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test140_8.txt Hill_Results
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.000999 secs
+Number of restarts: 315329
+Number of steps: 927443
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test140_9.txt Hill_Results
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.000999 secs
+Number of restarts: 336285
+Number of steps: 919273
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test140_10.txt Hill_Results
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.000999 secs
+Number of restarts: 311168
+Number of steps: 905158
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test140_1.txt Hill_Results
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.000999 secs
+Number of restarts: 316793
+Number of steps: 879673
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test140_2.txt Hill_Results
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.000999 secs
+Number of restarts: 329645
+Number of steps: 886433
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test140_3.txt Hill_Results
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.000999 secs
+Number of restarts: 323779
+Number of steps: 933322
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test140_4.txt Hill_Results
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.000999 secs
+Number of restarts: 337458
+Number of steps: 926672
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test140_5.txt Hill_Results
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.000999 secs
+Number of restarts: 324581
+Number of steps: 921587
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test140_6.txt Hill_Results
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.000999 secs
+Number of restarts: 305487
+Number of steps: 866079
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test140_7.txt Hill_Results
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.000999 secs
+Number of restarts: 335440
+Number of steps: 878946
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test140_8.txt Hill_Results
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.000999 secs
+Number of restarts: 285299
+Number of steps: 838976
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test140_9.txt Hill_Results
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.000999 secs
+Number of restarts: 335654
+Number of steps: 918119
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe hill test140_10.txt Hill_Results
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.000999 secs
+Number of restarts: 318609
+Number of steps: 925230
+

@@ -1,0 +1,1204 @@
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe depth test10_1.txt Depth_Results
+
+Solution found with depth-first!
+P1=true  P2=true  P3=true  P4=true  P5=true  P6=true  P7=false  P8=true
+Time spent: 0.000000 secs
+Number of steps: 9
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe depth test10_2.txt Depth_Results
+
+
+Solution found with depth-first!
+P1=true  P2=true  P3=true  P4=true  P5=true  P6=true  P7=true  P8=true
+Time spent: 0.000000 secs
+Number of steps: 9
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe depth test10_3.txt Depth_Results
+
+
+Solution found with depth-first!
+P1=true  P2=true  P3=true  P4=true  P5=true  P6=true  P7=true  P8=true
+Time spent: 0.000000 secs
+Number of steps: 9
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe depth test10_4.txt Depth_Results
+
+
+Solution found with depth-first!
+P1=true  P2=true  P3=true  P4=true  P5=true  P6=false  P7=true  P8=false
+Time spent: 0.000000 secs
+Number of steps: 12
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe depth test10_5.txt Depth_Results
+
+
+Solution found with depth-first!
+P1=true  P2=true  P3=true  P4=true  P5=true  P6=true  P7=false  P8=false
+Time spent: 0.000000 secs
+Number of steps: 9
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe depth test10_6.txt Depth_Results
+
+
+Solution found with depth-first!
+P1=true  P2=true  P3=true  P4=true  P5=true  P6=true  P7=true  P8=true
+Time spent: 0.000000 secs
+Number of steps: 9
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe depth test10_7.txt Depth_Results
+
+
+Solution found with depth-first!
+P1=true  P2=true  P3=true  P4=true  P5=true  P6=true  P7=true  P8=true
+Time spent: 0.000000 secs
+Number of steps: 9
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe depth test10_8.txt Depth_Results
+
+
+Solution found with depth-first!
+P1=true  P2=true  P3=true  P4=true  P5=true  P6=false  P7=true  P8=true
+Time spent: 0.000000 secs
+Number of steps: 9
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe depth test10_9.txt Depth_Results
+
+
+Solution found with depth-first!
+P1=true  P2=true  P3=true  P4=false  P5=true  P6=true  P7=true  P8=true
+Time spent: 0.000000 secs
+Number of steps: 9
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe depth test10_10.txt Depth_Results
+
+
+Solution found with depth-first!
+P1=true  P2=true  P3=true  P4=true  P5=true  P6=true  P7=true  P8=false
+Time spent: 0.000000 secs
+Number of steps: 9
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe depth test20_1.txt Depth_Results
+
+
+Solution found with depth-first!
+P1=true  P2=true  P3=true  P4=true  P5=false  P6=true  P7=true  P8=true
+Time spent: 0.000000 secs
+Number of steps: 12
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe depth test20_2.txt Depth_Results
+
+
+Solution found with depth-first!
+P1=true  P2=true  P3=true  P4=true  P5=true  P6=false  P7=false  P8=false
+Time spent: 0.000000 secs
+Number of steps: 9
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe depth test20_3.txt Depth_Results
+
+
+Solution found with depth-first!
+P1=true  P2=true  P3=true  P4=true  P5=false  P6=true  P7=true  P8=false
+Time spent: 0.000000 secs
+Number of steps: 16
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe depth test20_4.txt Depth_Results
+
+
+Solution found with depth-first!
+P1=true  P2=true  P3=true  P4=true  P5=true  P6=true  P7=true  P8=false
+Time spent: 0.000000 secs
+Number of steps: 9
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe depth test20_5.txt Depth_Results
+
+
+Solution found with depth-first!
+P1=true  P2=true  P3=true  P4=true  P5=true  P6=true  P7=true  P8=true
+Time spent: 0.000000 secs
+Number of steps: 9
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe depth test20_6.txt Depth_Results
+
+
+Solution found with depth-first!
+P1=true  P2=true  P3=true  P4=true  P5=false  P6=false  P7=false  P8=true
+Time spent: 0.000000 secs
+Number of steps: 14
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe depth test20_7.txt Depth_Results
+
+
+Solution found with depth-first!
+P1=true  P2=true  P3=true  P4=true  P5=true  P6=false  P7=true  P8=true
+Time spent: 0.000000 secs
+Number of steps: 9
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe depth test20_8.txt Depth_Results
+
+
+Solution found with depth-first!
+P1=true  P2=true  P3=true  P4=true  P5=false  P6=true  P7=true  P8=true
+Time spent: 0.000000 secs
+Number of steps: 9
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe depth test20_9.txt Depth_Results
+
+
+Solution found with depth-first!
+P1=true  P2=true  P3=true  P4=false  P5=true  P6=false  P7=false  P8=false
+Time spent: 0.000000 secs
+Number of steps: 9
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe depth test20_10.txt Depth_Results
+
+
+Solution found with depth-first!
+P1=true  P2=true  P3=true  P4=true  P5=true  P6=true  P7=true  P8=false
+Time spent: 0.000000 secs
+Number of steps: 9
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe depth test30_1.txt Depth_Results
+
+
+Solution found with depth-first!
+P1=true  P2=true  P3=true  P4=true  P5=true  P6=true  P7=true  P8=false
+Time spent: 0.000000 secs
+Number of steps: 9
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe depth test30_2.txt Depth_Results
+
+
+Solution found with depth-first!
+P1=true  P2=true  P3=true  P4=true  P5=false  P6=false  P7=true  P8=false
+Time spent: 0.000000 secs
+Number of steps: 9
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe depth test30_3.txt Depth_Results
+
+
+Solution found with depth-first!
+P1=true  P2=true  P3=true  P4=true  P5=true  P6=true  P7=false  P8=true
+Time spent: 0.000000 secs
+Number of steps: 9
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe depth test30_4.txt Depth_Results
+
+
+Solution found with depth-first!
+P1=true  P2=true  P3=true  P4=true  P5=false  P6=false  P7=false  P8=true
+Time spent: 0.000000 secs
+Number of steps: 12
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe depth test30_5.txt Depth_Results
+
+
+Solution found with depth-first!
+P1=true  P2=true  P3=true  P4=true  P5=false  P6=true  P7=true  P8=true
+Time spent: 0.000000 secs
+Number of steps: 10
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe depth test30_6.txt Depth_Results
+
+
+Solution found with depth-first!
+P1=true  P2=true  P3=true  P4=true  P5=true  P6=true  P7=true  P8=true
+Time spent: 0.000000 secs
+Number of steps: 9
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe depth test30_7.txt Depth_Results
+
+
+Solution found with depth-first!
+P1=true  P2=true  P3=true  P4=true  P5=true  P6=true  P7=false  P8=true
+Time spent: 0.000000 secs
+Number of steps: 9
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe depth test30_8.txt Depth_Results
+
+
+Solution found with depth-first!
+P1=true  P2=true  P3=true  P4=true  P5=false  P6=true  P7=false  P8=true
+Time spent: 0.000000 secs
+Number of steps: 13
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe depth test30_9.txt Depth_Results
+
+
+Solution found with depth-first!
+P1=true  P2=true  P3=true  P4=true  P5=true  P6=true  P7=true  P8=true
+Time spent: 0.000000 secs
+Number of steps: 9
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe depth test30_10.txt Depth_Results
+
+
+Solution found with depth-first!
+P1=true  P2=true  P3=false  P4=true  P5=false  P6=true  P7=true  P8=true
+Time spent: 0.000000 secs
+Number of steps: 21
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe depth test40_1.txt Depth_Results
+
+
+Solution found with depth-first!
+P1=true  P2=true  P3=true  P4=false  P5=true  P6=true  P7=true  P8=false
+Time spent: 0.000000 secs
+Number of steps: 12
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe depth test40_2.txt Depth_Results
+
+
+Solution found with depth-first!
+P1=true  P2=true  P3=true  P4=false  P5=true  P6=true  P7=true  P8=false
+Time spent: 0.000000 secs
+Number of steps: 10
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe depth test40_3.txt Depth_Results
+
+
+Solution found with depth-first!
+P1=true  P2=true  P3=true  P4=true  P5=true  P6=true  P7=true  P8=false
+Time spent: 0.000000 secs
+Number of steps: 9
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe depth test40_4.txt Depth_Results
+
+
+Solution found with depth-first!
+P1=true  P2=true  P3=false  P4=true  P5=false  P6=false  P7=true  P8=true
+Time spent: 0.000000 secs
+Number of steps: 15
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe depth test40_5.txt Depth_Results
+
+
+Solution found with depth-first!
+P1=true  P2=true  P3=true  P4=true  P5=true  P6=true  P7=false  P8=true
+Time spent: 0.000000 secs
+Number of steps: 9
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe depth test40_6.txt Depth_Results
+
+
+Solution found with depth-first!
+P1=true  P2=false  P3=true  P4=false  P5=false  P6=true  P7=true  P8=true
+Time spent: 0.000000 secs
+Number of steps: 56
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe depth test40_7.txt Depth_Results
+
+
+Solution found with depth-first!
+P1=true  P2=true  P3=true  P4=true  P5=false  P6=true  P7=true  P8=false
+Time spent: 0.000000 secs
+Number of steps: 9
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe depth test40_8.txt Depth_Results
+
+
+Solution found with depth-first!
+P1=true  P2=true  P3=false  P4=true  P5=true  P6=false  P7=true  P8=true
+Time spent: 0.000000 secs
+Number of steps: 20
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe depth test40_9.txt Depth_Results
+
+
+Solution found with depth-first!
+P1=true  P2=true  P3=true  P4=false  P5=true  P6=true  P7=true  P8=false
+Time spent: 0.000000 secs
+Number of steps: 15
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe depth test40_10.txt Depth_Results
+
+
+Solution found with depth-first!
+P1=true  P2=true  P3=true  P4=true  P5=true  P6=false  P7=true  P8=true
+Time spent: 0.000000 secs
+Number of steps: 9
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe depth test50_1.txt Depth_Results
+
+
+Solution found with depth-first!
+P1=true  P2=true  P3=true  P4=true  P5=true  P6=true  P7=true  P8=false
+Time spent: 0.000000 secs
+Number of steps: 9
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe depth test50_2.txt Depth_Results
+
+
+Solution found with depth-first!
+P1=true  P2=true  P3=true  P4=true  P5=true  P6=false  P7=true  P8=false
+Time spent: 0.000000 secs
+Number of steps: 9
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe depth test50_3.txt Depth_Results
+
+
+Solution found with depth-first!
+P1=true  P2=true  P3=true  P4=true  P5=true  P6=false  P7=false  P8=true
+Time spent: 0.000000 secs
+Number of steps: 9
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe depth test50_4.txt Depth_Results
+
+
+Solution found with depth-first!
+P1=true  P2=true  P3=true  P4=true  P5=true  P6=true  P7=true  P8=true
+Time spent: 0.000000 secs
+Number of steps: 9
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe depth test50_5.txt Depth_Results
+
+
+Solution found with depth-first!
+P1=true  P2=false  P3=true  P4=true  P5=true  P6=true  P7=false  P8=false
+Time spent: 0.000000 secs
+Number of steps: 42
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe depth test50_6.txt Depth_Results
+
+
+Solution found with depth-first!
+P1=true  P2=true  P3=true  P4=false  P5=true  P6=false  P7=true  P8=true
+Time spent: 0.000000 secs
+Number of steps: 12
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe depth test50_7.txt Depth_Results
+
+
+Solution found with depth-first!
+P1=true  P2=false  P3=true  P4=false  P5=true  P6=true  P7=false  P8=true
+Time spent: 0.000000 secs
+Number of steps: 38
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe depth test50_8.txt Depth_Results
+
+
+Solution found with depth-first!
+P1=true  P2=true  P3=false  P4=false  P5=false  P6=true  P7=false  P8=false
+Time spent: 0.000000 secs
+Number of steps: 30
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe depth test50_9.txt Depth_Results
+
+
+Solution found with depth-first!
+P1=true  P2=true  P3=true  P4=true  P5=true  P6=false  P7=false  P8=true
+Time spent: 0.000000 secs
+Number of steps: 11
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe depth test50_10.txt Depth_Results
+
+
+Solution found with depth-first!
+P1=true  P2=true  P3=true  P4=true  P5=true  P6=true  P7=false  P8=false
+Time spent: 0.000000 secs
+Number of steps: 9
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe depth test60_1.txt Depth_Results
+
+
+Solution found with depth-first!
+P1=true  P2=false  P3=true  P4=true  P5=true  P6=false  P7=true  P8=true
+Time spent: 0.000000 secs
+Number of steps: 32
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe depth test60_2.txt Depth_Results
+
+
+Solution found with depth-first!
+P1=false  P2=true  P3=false  P4=true  P5=true  P6=false  P7=false  P8=true
+Time spent: 0.000000 secs
+Number of steps: 69
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe depth test60_3.txt Depth_Results
+
+
+Solution found with depth-first!
+P1=true  P2=false  P3=false  P4=false  P5=false  P6=false  P7=true  P8=true
+Time spent: 0.000000 secs
+Number of steps: 53
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe depth test60_4.txt Depth_Results
+
+
+Solution found with depth-first!
+P1=true  P2=false  P3=true  P4=false  P5=true  P6=false  P7=true  P8=false
+Time spent: 0.000000 secs
+Number of steps: 29
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe depth test60_5.txt Depth_Results
+
+
+Solution found with depth-first!
+P1=true  P2=false  P3=false  P4=false  P5=true  P6=false  P7=true  P8=false
+Time spent: 0.000000 secs
+Number of steps: 31
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe depth test60_6.txt Depth_Results
+
+
+Solution found with depth-first!
+P1=true  P2=true  P3=false  P4=true  P5=true  P6=true  P7=true  P8=true
+Time spent: 0.000000 secs
+Number of steps: 16
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe depth test60_7.txt Depth_Results
+
+
+Solution found with depth-first!
+P1=true  P2=true  P3=true  P4=false  P5=true  P6=false  P7=true  P8=true
+Time spent: 0.000000 secs
+Number of steps: 24
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe depth test60_8.txt Depth_Results
+
+
+Solution found with depth-first!
+P1=true  P2=true  P3=false  P4=true  P5=true  P6=false  P7=false  P8=true
+Time spent: 0.000000 secs
+Number of steps: 18
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe depth test60_9.txt Depth_Results
+
+
+Solution found with depth-first!
+P1=false  P2=true  P3=true  P4=true  P5=true  P6=false  P7=false  P8=false
+Time spent: 0.000000 secs
+Number of steps: 45
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe depth test60_10.txt Depth_Results
+
+
+Solution found with depth-first!
+P1=true  P2=true  P3=false  P4=false  P5=false  P6=true  P7=true  P8=false
+Time spent: 0.000000 secs
+Number of steps: 26
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe depth test70_1.txt Depth_Results
+
+
+NO SOLUTION EXISTS. Proved by depth-first!
+Time spent: 0.000000 secs
+Number of steps: 100
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe depth test70_2.txt Depth_Results
+
+
+Solution found with depth-first!
+P1=true  P2=true  P3=false  P4=true  P5=false  P6=true  P7=false  P8=true
+Time spent: 0.000000 secs
+Number of steps: 22
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe depth test70_3.txt Depth_Results
+
+
+Solution found with depth-first!
+P1=false  P2=true  P3=true  P4=false  P5=true  P6=false  P7=false  P8=false
+Time spent: 0.000000 secs
+Number of steps: 53
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe depth test70_4.txt Depth_Results
+
+
+Solution found with depth-first!
+P1=false  P2=true  P3=false  P4=false  P5=false  P6=false  P7=false  P8=true
+Time spent: 0.000000 secs
+Number of steps: 73
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe depth test70_5.txt Depth_Results
+
+
+Solution found with depth-first!
+P1=true  P2=true  P3=false  P4=true  P5=true  P6=true  P7=true  P8=false
+Time spent: 0.000000 secs
+Number of steps: 18
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe depth test70_6.txt Depth_Results
+
+
+Solution found with depth-first!
+P1=true  P2=false  P3=true  P4=false  P5=true  P6=true  P7=false  P8=false
+Time spent: 0.000000 secs
+Number of steps: 25
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe depth test70_7.txt Depth_Results
+
+
+NO SOLUTION EXISTS. Proved by depth-first!
+Time spent: 0.000000 secs
+Number of steps: 83
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe depth test70_8.txt Depth_Results
+
+
+NO SOLUTION EXISTS. Proved by depth-first!
+Time spent: 0.000000 secs
+Number of steps: 86
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe depth test70_9.txt Depth_Results
+
+
+Solution found with depth-first!
+P1=true  P2=false  P3=false  P4=true  P5=true  P6=true  P7=true  P8=true
+Time spent: 0.000000 secs
+Number of steps: 46
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe depth test70_10.txt Depth_Results
+
+
+Solution found with depth-first!
+P1=false  P2=true  P3=true  P4=true  P5=false  P6=true  P7=false  P8=false
+Time spent: 0.000000 secs
+Number of steps: 48
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe depth test80_1.txt Depth_Results
+
+
+Solution found with depth-first!
+P1=true  P2=false  P3=true  P4=false  P5=false  P6=false  P7=true  P8=false
+Time spent: 0.000000 secs
+Number of steps: 37
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe depth test80_2.txt Depth_Results
+
+
+Solution found with depth-first!
+P1=true  P2=true  P3=true  P4=false  P5=true  P6=true  P7=false  P8=false
+Time spent: 0.000000 secs
+Number of steps: 15
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe depth test80_3.txt Depth_Results
+
+
+NO SOLUTION EXISTS. Proved by depth-first!
+Time spent: 0.000000 secs
+Number of steps: 82
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe depth test80_4.txt Depth_Results
+
+
+Solution found with depth-first!
+P1=true  P2=false  P3=false  P4=false  P5=true  P6=true  P7=true  P8=false
+Time spent: 0.000000 secs
+Number of steps: 31
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe depth test80_5.txt Depth_Results
+
+
+NO SOLUTION EXISTS. Proved by depth-first!
+Time spent: 0.001000 secs
+Number of steps: 82
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe depth test80_6.txt Depth_Results
+
+
+NO SOLUTION EXISTS. Proved by depth-first!
+Time spent: 0.000000 secs
+Number of steps: 83
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe depth test80_7.txt Depth_Results
+
+
+NO SOLUTION EXISTS. Proved by depth-first!
+Time spent: 0.000000 secs
+Number of steps: 71
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe depth test80_8.txt Depth_Results
+
+
+NO SOLUTION EXISTS. Proved by depth-first!
+Time spent: 0.000000 secs
+Number of steps: 74
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe depth test80_9.txt Depth_Results
+
+
+Solution found with depth-first!
+P1=false  P2=false  P3=true  P4=true  P5=true  P6=false  P7=false  P8=true
+Time spent: 0.000000 secs
+Number of steps: 88
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe depth test80_10.txt Depth_Results
+
+
+Solution found with depth-first!
+P1=true  P2=false  P3=false  P4=false  P5=true  P6=true  P7=false  P8=true
+Time spent: 0.000000 secs
+Number of steps: 50
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe depth test90_1.txt Depth_Results
+
+
+Solution found with depth-first!
+P1=true  P2=false  P3=false  P4=false  P5=true  P6=true  P7=true  P8=false
+Time spent: 0.000000 secs
+Number of steps: 35
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe depth test90_2.txt Depth_Results
+
+
+NO SOLUTION EXISTS. Proved by depth-first!
+Time spent: 0.000000 secs
+Number of steps: 100
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe depth test90_3.txt Depth_Results
+
+
+Solution found with depth-first!
+P1=true  P2=true  P3=true  P4=false  P5=false  P6=false  P7=false  P8=true
+Time spent: 0.000000 secs
+Number of steps: 18
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe depth test90_4.txt Depth_Results
+
+
+NO SOLUTION EXISTS. Proved by depth-first!
+Time spent: 0.000000 secs
+Number of steps: 69
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe depth test90_5.txt Depth_Results
+
+
+NO SOLUTION EXISTS. Proved by depth-first!
+Time spent: 0.000000 secs
+Number of steps: 73
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe depth test90_6.txt Depth_Results
+
+
+NO SOLUTION EXISTS. Proved by depth-first!
+Time spent: 0.000000 secs
+Number of steps: 93
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe depth test90_7.txt Depth_Results
+
+
+NO SOLUTION EXISTS. Proved by depth-first!
+Time spent: 0.000000 secs
+Number of steps: 97
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe depth test90_8.txt Depth_Results
+
+
+NO SOLUTION EXISTS. Proved by depth-first!
+Time spent: 0.000000 secs
+Number of steps: 89
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe depth test90_9.txt Depth_Results
+
+
+Solution found with depth-first!
+P1=false  P2=false  P3=false  P4=true  P5=false  P6=false  P7=false  P8=true
+Time spent: 0.000000 secs
+Number of steps: 88
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe depth test90_10.txt Depth_Results
+
+
+NO SOLUTION EXISTS. Proved by depth-first!
+Time spent: 0.000000 secs
+Number of steps: 79
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe depth test100_1.txt Depth_Results
+
+
+Solution found with depth-first!
+P1=true  P2=false  P3=true  P4=true  P5=false  P6=true  P7=true  P8=true
+Time spent: 0.000000 secs
+Number of steps: 25
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe depth test100_2.txt Depth_Results
+
+
+Solution found with depth-first!
+P1=false  P2=true  P3=true  P4=true  P5=false  P6=true  P7=false  P8=false
+Time spent: 0.000000 secs
+Number of steps: 36
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe depth test100_3.txt Depth_Results
+
+
+NO SOLUTION EXISTS. Proved by depth-first!
+Time spent: 0.000000 secs
+Number of steps: 55
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe depth test100_4.txt Depth_Results
+
+
+NO SOLUTION EXISTS. Proved by depth-first!
+Time spent: 0.000000 secs
+Number of steps: 65
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe depth test100_5.txt Depth_Results
+
+
+NO SOLUTION EXISTS. Proved by depth-first!
+Time spent: 0.000000 secs
+Number of steps: 74
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe depth test100_6.txt Depth_Results
+
+
+NO SOLUTION EXISTS. Proved by depth-first!
+Time spent: 0.000000 secs
+Number of steps: 62
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe depth test100_7.txt Depth_Results
+
+
+NO SOLUTION EXISTS. Proved by depth-first!
+Time spent: 0.000000 secs
+Number of steps: 61
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe depth test100_8.txt Depth_Results
+
+
+NO SOLUTION EXISTS. Proved by depth-first!
+Time spent: 0.000000 secs
+Number of steps: 53
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe depth test100_9.txt Depth_Results
+
+
+NO SOLUTION EXISTS. Proved by depth-first!
+Time spent: 0.000000 secs
+Number of steps: 75
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe depth test100_10.txt Depth_Results
+
+
+NO SOLUTION EXISTS. Proved by depth-first!
+Time spent: 0.000000 secs
+Number of steps: 69
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe depth test110_1.txt Depth_Results
+
+
+NO SOLUTION EXISTS. Proved by depth-first!
+Time spent: 0.000000 secs
+Number of steps: 71
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe depth test110_2.txt Depth_Results
+
+
+Solution found with depth-first!
+P1=true  P2=false  P3=false  P4=false  P5=false  P6=true  P7=false  P8=true
+Time spent: 0.000000 secs
+Number of steps: 31
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe depth test110_3.txt Depth_Results
+
+
+NO SOLUTION EXISTS. Proved by depth-first!
+Time spent: 0.000000 secs
+Number of steps: 71
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe depth test110_4.txt Depth_Results
+
+
+NO SOLUTION EXISTS. Proved by depth-first!
+Time spent: 0.000000 secs
+Number of steps: 51
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe depth test110_5.txt Depth_Results
+
+
+NO SOLUTION EXISTS. Proved by depth-first!
+Time spent: 0.000000 secs
+Number of steps: 70
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe depth test110_6.txt Depth_Results
+
+
+NO SOLUTION EXISTS. Proved by depth-first!
+Time spent: 0.000000 secs
+Number of steps: 79
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe depth test110_7.txt Depth_Results
+
+
+NO SOLUTION EXISTS. Proved by depth-first!
+Time spent: 0.000000 secs
+Number of steps: 73
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe depth test110_8.txt Depth_Results
+
+
+NO SOLUTION EXISTS. Proved by depth-first!
+Time spent: 0.000000 secs
+Number of steps: 72
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe depth test110_9.txt Depth_Results
+
+
+NO SOLUTION EXISTS. Proved by depth-first!
+Time spent: 0.000000 secs
+Number of steps: 76
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe depth test110_10.txt Depth_Results
+
+
+Solution found with depth-first!
+P1=true  P2=true  P3=true  P4=true  P5=true  P6=false  P7=false  P8=true
+Time spent: 0.000000 secs
+Number of steps: 11
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe depth test120_1.txt Depth_Results
+
+
+NO SOLUTION EXISTS. Proved by depth-first!
+Time spent: 0.000000 secs
+Number of steps: 64
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe depth test120_2.txt Depth_Results
+
+
+NO SOLUTION EXISTS. Proved by depth-first!
+Time spent: 0.000000 secs
+Number of steps: 63
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe depth test120_3.txt Depth_Results
+
+
+NO SOLUTION EXISTS. Proved by depth-first!
+Time spent: 0.000000 secs
+Number of steps: 69
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe depth test120_4.txt Depth_Results
+
+
+NO SOLUTION EXISTS. Proved by depth-first!
+Time spent: 0.000000 secs
+Number of steps: 73
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe depth test120_5.txt Depth_Results
+
+
+NO SOLUTION EXISTS. Proved by depth-first!
+Time spent: 0.000000 secs
+Number of steps: 62
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe depth test120_6.txt Depth_Results
+
+
+NO SOLUTION EXISTS. Proved by depth-first!
+Time spent: 0.000000 secs
+Number of steps: 61
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe depth test120_7.txt Depth_Results
+
+
+NO SOLUTION EXISTS. Proved by depth-first!
+Time spent: 0.000000 secs
+Number of steps: 53
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe depth test120_8.txt Depth_Results
+
+
+Solution found with depth-first!
+P1=true  P2=false  P3=true  P4=true  P5=false  P6=true  P7=false  P8=true
+Time spent: 0.000000 secs
+Number of steps: 22
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe depth test120_9.txt Depth_Results
+
+
+NO SOLUTION EXISTS. Proved by depth-first!
+Time spent: 0.000000 secs
+Number of steps: 54
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe depth test120_10.txt Depth_Results
+
+
+NO SOLUTION EXISTS. Proved by depth-first!
+Time spent: 0.000000 secs
+Number of steps: 65
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe depth test130_1.txt Depth_Results
+
+
+Solution found with depth-first!
+P1=true  P2=false  P3=false  P4=false  P5=false  P6=false  P7=false  P8=true
+Time spent: 0.000000 secs
+Number of steps: 37
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe depth test130_2.txt Depth_Results
+
+
+NO SOLUTION EXISTS. Proved by depth-first!
+Time spent: 0.000000 secs
+Number of steps: 63
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe depth test130_3.txt Depth_Results
+
+
+NO SOLUTION EXISTS. Proved by depth-first!
+Time spent: 0.000000 secs
+Number of steps: 68
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe depth test130_4.txt Depth_Results
+
+
+Solution found with depth-first!
+P1=true  P2=true  P3=false  P4=true  P5=false  P6=false  P7=true  P8=true
+Time spent: 0.000000 secs
+Number of steps: 17
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe depth test130_5.txt Depth_Results
+
+
+NO SOLUTION EXISTS. Proved by depth-first!
+Time spent: 0.000000 secs
+Number of steps: 66
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe depth test130_6.txt Depth_Results
+
+
+NO SOLUTION EXISTS. Proved by depth-first!
+Time spent: 0.000000 secs
+Number of steps: 65
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe depth test130_7.txt Depth_Results
+
+
+NO SOLUTION EXISTS. Proved by depth-first!
+Time spent: 0.000000 secs
+Number of steps: 54
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe depth test130_8.txt Depth_Results
+
+
+NO SOLUTION EXISTS. Proved by depth-first!
+Time spent: 0.000000 secs
+Number of steps: 72
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe depth test130_9.txt Depth_Results
+
+
+NO SOLUTION EXISTS. Proved by depth-first!
+Time spent: 0.000000 secs
+Number of steps: 59
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe depth test130_10.txt Depth_Results
+
+
+NO SOLUTION EXISTS. Proved by depth-first!
+Time spent: 0.000000 secs
+Number of steps: 44
+
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe depth test133_1.txt Depth_Results
+
+
+Solution found with depth-first!
+P1=true  P2=false  P3=true  P4=false  P5=false  P6=false  P7=true  P8=false
+Time spent: 0.000000 secs
+Number of steps: 35
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe depth test133_2.txt Depth_Results
+
+
+NO SOLUTION EXISTS. Proved by depth-first!
+Time spent: 0.001000 secs
+Number of steps: 61
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe depth test133_3.txt Depth_Results
+
+
+NO SOLUTION EXISTS. Proved by depth-first!
+Time spent: 0.000000 secs
+Number of steps: 59
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe depth test133_4.txt Depth_Results
+
+
+NO SOLUTION EXISTS. Proved by depth-first!
+Time spent: 0.000000 secs
+Number of steps: 63
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe depth test133_5.txt Depth_Results
+
+
+NO SOLUTION EXISTS. Proved by depth-first!
+Time spent: 0.000000 secs
+Number of steps: 71
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe depth test133_6.txt Depth_Results
+
+
+NO SOLUTION EXISTS. Proved by depth-first!
+Time spent: 0.000000 secs
+Number of steps: 58
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe depth test133_7.txt Depth_Results
+
+
+NO SOLUTION EXISTS. Proved by depth-first!
+Time spent: 0.000000 secs
+Number of steps: 63
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe depth test133_8.txt Depth_Results
+
+
+NO SOLUTION EXISTS. Proved by depth-first!
+Time spent: 0.000000 secs
+Number of steps: 67
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe depth test133_9.txt Depth_Results
+
+
+NO SOLUTION EXISTS. Proved by depth-first!
+Time spent: 0.000000 secs
+Number of steps: 55
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe depth test133_10.txt Depth_Results
+
+
+NO SOLUTION EXISTS. Proved by depth-first!
+Time spent: 0.000000 secs
+Number of steps: 56
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe depth test137_1.txt Depth_Results
+
+
+NO SOLUTION EXISTS. Proved by depth-first!
+Time spent: 0.000000 secs
+Number of steps: 60
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe depth test137_2.txt Depth_Results
+
+
+NO SOLUTION EXISTS. Proved by depth-first!
+Time spent: 0.000000 secs
+Number of steps: 55
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe depth test137_3.txt Depth_Results
+
+
+NO SOLUTION EXISTS. Proved by depth-first!
+Time spent: 0.000000 secs
+Number of steps: 61
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe depth test137_4.txt Depth_Results
+
+
+NO SOLUTION EXISTS. Proved by depth-first!
+Time spent: 0.000000 secs
+Number of steps: 51
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe depth test137_5.txt Depth_Results
+
+
+NO SOLUTION EXISTS. Proved by depth-first!
+Time spent: 0.000000 secs
+Number of steps: 66
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe depth test137_6.txt Depth_Results
+
+
+NO SOLUTION EXISTS. Proved by depth-first!
+Time spent: 0.000000 secs
+Number of steps: 60
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe depth test137_7.txt Depth_Results
+
+
+NO SOLUTION EXISTS. Proved by depth-first!
+Time spent: 0.000000 secs
+Number of steps: 51
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe depth test137_8.txt Depth_Results
+
+
+NO SOLUTION EXISTS. Proved by depth-first!
+Time spent: 0.000000 secs
+Number of steps: 51
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe depth test137_9.txt Depth_Results
+
+
+NO SOLUTION EXISTS. Proved by depth-first!
+Time spent: 0.000000 secs
+Number of steps: 62
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe depth test137_10.txt Depth_Results
+
+
+NO SOLUTION EXISTS. Proved by depth-first!
+Time spent: 0.000000 secs
+Number of steps: 48
+
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe depth test140_1.txt Depth_Results
+
+
+NO SOLUTION EXISTS. Proved by depth-first!
+Time spent: 0.000000 secs
+Number of steps: 57
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe depth test140_2.txt Depth_Results
+
+
+NO SOLUTION EXISTS. Proved by depth-first!
+Time spent: 0.000000 secs
+Number of steps: 54
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe depth test140_3.txt Depth_Results
+
+
+NO SOLUTION EXISTS. Proved by depth-first!
+Time spent: 0.000000 secs
+Number of steps: 58
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe depth test140_4.txt Depth_Results
+
+
+NO SOLUTION EXISTS. Proved by depth-first!
+Time spent: 0.000000 secs
+Number of steps: 37
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe depth test140_5.txt Depth_Results
+
+
+NO SOLUTION EXISTS. Proved by depth-first!
+Time spent: 0.000000 secs
+Number of steps: 47
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe depth test140_6.txt Depth_Results
+
+
+NO SOLUTION EXISTS. Proved by depth-first!
+Time spent: 0.000000 secs
+Number of steps: 55
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe depth test140_7.txt Depth_Results
+
+
+NO SOLUTION EXISTS. Proved by depth-first!
+Time spent: 0.000000 secs
+Number of steps: 53
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe depth test140_8.txt Depth_Results
+
+
+NO SOLUTION EXISTS. Proved by depth-first!
+Time spent: 0.001000 secs
+Number of steps: 38
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe depth test140_9.txt Depth_Results
+
+
+NO SOLUTION EXISTS. Proved by depth-first!
+Time spent: 0.000000 secs
+Number of steps: 60
+
+C:\Users\user\Desktop\HW2-AI\input files>bcsp.exe depth test140_10.txt Depth_Results
+
+
+NO SOLUTION EXISTS. Proved by depth-first!
+Time spent: 0.000000 secs
+Number of steps: 41
+
