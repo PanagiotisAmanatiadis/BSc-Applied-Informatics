@@ -1,0 +1,51 @@
+1.
+Step 1:a(0)-b(4)-c(5)-d(8)-e(12)-f(14)-g(16)-h(17)-i(18)-j(20)
+Step 2:a(0)-bc(4,5)-d(8)-e(12)-f(14)-g(16)-h(17)-i(18)-j(20)
+Step 3:a(0)-bc(4,5)-d(8)-e(12)-f(14)-gh(16,17)-i(18)-j(20)
+Step 4:a(0)-bc(4,5)-d(8)-e(12)-f(14)-ghi(16,17,18)-j(20)
+Step 5:a(0)-bc(4,5)-d(8)-ef(12,14)-ghi(16,17,18)-j(20)
+Step 6:a(0)-bc(4,5)-d(8)-efghi(12,14,16,17,18)-j(20)
+Step 7:a(0)-bc(4,5)-d(8)-efghij(12,14,16,17,18,20)
+Step 8:a(0)-bcd(4,5,8)-efghij(12,14,16,17,18,20)
+Step 9:abcd(0,4,5,8)-efghij(12,14,16,17,18,20)
+Step 10:abcdefghij(0,4,5,8,12,14,16,17,18,20)
+
+2.
+Step 1:a(0)-b(4)-c(5)-d(8)-e(12)-f(14)-g(16)-h(17)-i(18)-j(20)
+Step 2:a(0)-bc(4,5)-d(8)-e(12)-f(14)-g(16)-h(17)-i(18)-j(20)
+Step 3:a(0)-bc(4,5)-d(8)-e(12)-f(14)-gh(16,17)-i(18)-j(20)
+Step 4:a(0)-bc(4,5)-d(8)-ef(12,14)-gh(16,17)-i(18)-j(20)
+Step 5:a(0)-bc(4,5)-d(8)-ef(12,14)-ghi(16,17,18)-j(20)
+Step 6:a(0)-bcd(4,5,8)-ef(12,14)-ghi(16,17,18)-j(20)
+Step 7:a(0)-bcd(4,5,8)-ef(12,14)-ghij(16,17,18,20)
+Step 8:abcd(0,4,5,8)-ef(12,14)-ghij(16,17,18,20)
+Step 9:abcd(0,4,5,8)-efghij(12,14,16,17,18,20)
+Step 10:abcdefghij(0,4,5,8,12,14,16,17,18,20)
+
+3.
+STEP 1: C1Centroid=15 C2Centroid=17 C3Centroid=19
+point assignment: C1(abcdefg) C2(hi) C3(j)
+STEP 2: C1Centroid=8.43 C2Centroid=17.5 C3Centroid=20
+point assignment: C1(abcde) C2(fghi) C3(j)
+STEP 3: C1Centroid=5.8 C2Centroid=16.25 C3Centroid=20
+point assignment: C1(abcd) C2(efghi) C3(j)
+STEP 4: C1Centroid=4.25 C2Centroid=15.4 C3Centroid=20
+point assignment: C1(abcd) C2(efgh) C3(ij)
+STEP 5: C1Centroid=4.25 C2Centroid=14.75 C3Centroid=19
+point assignment: C1(abcd) C2(efg) C3(hij)
+STEP 6: C1Centroid=4.25 C2Centroid=14 C3Centroid=18.33
+point assignment: C1(abcd) C2(efg) C3(hij)
+
+
+4.DBSCAN with eps=3 and minpts=3
+a NOISE  f CORE
+b BORDER g CORE
+c CORE	 h CORE
+d BORDER i CORE
+e BORDER j CORE
+
+Cluster1=bcd , Cluster2=efghij
+
+
+
+
