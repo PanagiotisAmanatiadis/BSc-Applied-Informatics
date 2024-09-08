@@ -1,0 +1,46 @@
+<TVSCHEDULE NAME="Εntertainment program">
+    <CHANNEL CHAN="STAR">
+        <BANNER>STAR@</BANNER>
+	    <DAY>
+		    <DATE>14-01-2022</DATE>
+		    <PROGRAMSLOT VTR = "vtr1">
+		        <TIME>21:00</TIME>
+			    <TITLE RATING="4.7" LANGUAGE="GR">MasterChef<TITLE>
+			    <DESCRIPTION>Τηλεοπτικός διαγωνισμός μαγειρικής</DESCRIPTION>
+			</PROGRAMSLOT>
+			<PROGRAMSLOT>
+			    <TIME>00:00</TIME>
+			    <TITLE LANGUAGE ="EN">GREEN LANTERN<TITLE>
+			    <DESCRIPTION>
+					Green Lantern is the name of several superheroes appearing in American
+					comic books published by DC Comics. They fight evil with the aid of
+					rings that grant them a variety of extraordinary powers, all of which
+					come from imagination, fearlessness and/or emotional willpower.
+				</DESCRIPTION>
+			</PROGRAMSLOT>
+	    </DAY>
+    </CHANNEL>
+	<CHANNEL CHAN="SKAI">
+        <BANNER>SKAI@</BANNER>
+	    <DAY>
+		    <DATE>19-01-2022</DATE>
+		    <PROGRAMSLOT VTR = "vtr2">
+		        <TIME>20:00</TIME>
+			    <TITLE RATING="4.3" LANGUAGE="GR">Survivor<TITLE>
+			    <DESCRIPTION>Τηλεοπτικός διαγωνισμός επιβίωσης</DESCRIPTION>
+			</PROGRAMSLOT>
+			<PROGRAMSLOT>
+			    <TIME>01:00</TIME>
+			    <TITLE LANGUAGE ="EN">The Fast and the Furious<TITLE>
+			    <DESCRIPTION>
+					The Fast and the Furious takes you inside the world of street racing.
+					Dominic Toretto is a gang leader who is accused of hijacking trucks
+					and stealing over a million dollars worth of electronic equipment.
+				</DESCRIPTION>
+			</PROGRAMSLOT>
+	    </DAY>
+    </CHANNEL>
+	
+</TVSCHEDULE>
+
+
