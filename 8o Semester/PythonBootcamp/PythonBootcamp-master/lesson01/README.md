@@ -1,0 +1,9 @@
+### Lesson01
+  - Comments
+  - Print/Input
+  - Variables
+  - DataTypes
+  - Casting
+  - Booleans
+  - Operators
+  - Strings

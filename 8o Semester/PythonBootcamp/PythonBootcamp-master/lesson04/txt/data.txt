@@ -1,0 +1,6 @@
+Python
+Angular
+Ruby
+Pearl
+JavaScript
+React
